@@ -6,7 +6,17 @@
 
 下载或克隆本仓库，将**整个仓库内容**放入宿主的 `caishu-perspective` Skill 文件夹，不要只复制 `SKILL.md`。Codex 的用户目录一般是 `~/.codex/skills/caishu-perspective`；Claude Code 可使用 `~/.claude/skills/caishu-perspective`。如果宿主已有同名目录，先检查差异并备份，不直接覆盖。
 
-GitHub 发布完成后，本页会补充实际克隆地址及已验证 commit。支持 Skill 的宿主刷新后调用：
+公开仓库：[yukunchen222-cloud/caishu-perspective](https://github.com/yukunchen222-cloud/caishu-perspective)。
+
+```bash
+git clone https://github.com/yukunchen222-cloud/caishu-perspective.git caishu-perspective
+```
+
+下载后将整个 `caishu-perspective` 文件夹放入上述宿主 Skill 目录。Windows 的 Codex 用户目录一般为 `C:\Users\你的用户名\.codex\skills\caishu-perspective`。如果已存在同名文件夹，先备份，不直接覆盖。
+
+冻结内容快照：[b98cdda96423571a31794334ee6d390f48fcc8df](https://github.com/yukunchen222-cloud/caishu-perspective/tree/b98cdda96423571a31794334ee6d390f48fcc8df)。本页安装说明按实际公开地址适配；Skill 方法与语料保持该快照不变。
+
+支持 Skill 的宿主刷新后调用：
 
 ```text
 请用 $caishu-perspective 帮我做决策。
