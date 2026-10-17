@@ -12,9 +12,9 @@
 git clone https://github.com/yukunchen222-cloud/caishu-perspective.git caishu-perspective
 ```
 
-下载后将整个 `caishu-perspective` 文件夹放入上述宿主 Skill 目录。Windows 的 Codex 用户目录一般为 `C:\Users\你的用户名\.codex\skills\caishu-perspective`。如果已存在同名文件夹，先备份，不直接覆盖。
+下载后将整个 `caishu-perspective` 文件夹放入上述宿主 Skill 目录。不同宿主和系统的安装目录可能不同，请按对应工具的 Skill 安装说明定位；如果已存在同名目录，先检查差异并备份，不直接覆盖。
 
-原始语料基线：[b98cdda96423571a31794334ee6d390f48fcc8df](https://github.com/yukunchen222-cloud/caishu-perspective/tree/b98cdda96423571a31794334ee6d390f48fcc8df)。当前版本保留其 752 篇公众号原文，并补充 18 篇作者简书交叉发布的整理者摘要；摘要不是公众号原文，也未验证为公众号完整更新清单。
+原始语料基线：[b98cdda96423571a31794334ee6d390f48fcc8df](https://github.com/yukunchen222-cloud/caishu-perspective/tree/b98cdda96423571a31794334ee6d390f48fcc8df)。本地当前构建保留752篇公众号原文、18篇作者简书交叉发布整理者摘要，并新增631条历史简书来源目录卡；后两类不是公众号原文，也不构成逐篇全文同步证明。
 
 支持 Skill 的宿主刷新后调用：
 
@@ -48,12 +48,15 @@ python scripts/search.py --read wxmp-b1f8ef1b75c5e77fce3d --kind article --max-c
 - `references/`：方法、详细流程、主题导航。
 - `corpus/articles/`：原文正文与来源元数据；省略可识别的独立“（完）”标记后的推广尾段，逐篇在 manifest 中记录。
 - `corpus/analysis/`：752 篇公众号原文对应的整理者分析、反方和证据边界。
-- `corpus/crossposts/`：18 篇作者简书交叉发布文章的简要分析；只保留标题、日期、来源链接与整理者摘要，不复制全文。
+- `corpus/crossposts/`：18 篇近期作者简书交叉发布文章的整理者摘要；只保留标题、日期、来源链接与分析，不复制全文。
+- `corpus/jianshu_archive/`：631 条历史简书来源目录卡；仅保留标题、日期、简书链接和最多36字的列表导语摘录，不含文章全文。
 - `corpus/catalog.json`：752 篇公众号原文的检索目录。
-- `corpus/crosspost_catalog.json`：18 篇作者简书交叉发布摘要的检索目录；命令行检索会同时搜索两份目录。
-- `corpus/manifest.json`：范围、日期、源文件与导出文件哈希。
+- `corpus/crosspost_catalog.json`：18 篇作者简书交叉发布摘要的检索目录。
+- `corpus/jianshu_archive_catalog.json`：631 条简书历史目录卡的检索目录；命令行检索默认同时搜索公众号原文、近期摘要和历史目录卡。
+- `corpus/jianshu_history_reconciliation.json`：简书主页1,132条可读记录与当前语料的逐条标题映射与对照状态。
+- `corpus/manifest.json`：范围、日期、来源分类、源文件与导出文件哈希。
 - `tests/`：检索、来源一致性与现实决策验收。
 
-原文快照包含 752 篇由用户提供的请辩公众号文章，发布时间截至 2026-09-14；另据作者简书主页收录 18 篇 2026-09-15 至 2026-10-16 的交叉发布摘要。后者不是微信公众号原文，公众号链接和发布时间未逐篇核实，不能宣称公众号已完整同步。日期、数量和边界以 manifest 为准。图片文字未 OCR，评论未采集。作者观点、读者来信、整理者分析与本次框架应用分别处理。
+当前构建保留752篇由用户提供的请辩公众号原文（截至2026-09-14）、18篇近期简书交叉发布整理者摘要（2026-09-15至2026-10-16），并新增631条历史简书来源目录卡（2016-04-14至2026-10-16）。对简书作者页1,132条可读记录按保留标点的标题键核对，501条简书记录匹配现有语料：483条映射到482篇公众号原文（1条简书重复发布）及18条现有简书摘要；631条未匹配记录独立作为简书来源收录。752篇公众号原文中270篇没有简书精确标题匹配。作者主页显示1,136篇，分页可读到1,132条，4条差额原因未知。历史卡不含全文，导语最多36字；用户确认内容同源，但没有逐篇对公众号原文全文比对。图片文字未 OCR，评论未采集。作者观点、读者来信、整理者分析与本次框架应用分别处理。
 
 源库只读导出，未包含 HTML、SQLite、登录态、API Key 或个人记忆。见 [资料与许可说明](NOTICE.md)。

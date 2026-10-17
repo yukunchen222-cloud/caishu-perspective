@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-ID_PATTERN = re.compile(r"(?:wxmp-[0-9a-f]{16,40}|crosspost-[0-9a-f]{12})")
+ID_PATTERN = re.compile(r"(?:wxmp-[0-9a-f]{16,40}|crosspost-[0-9a-f]{12}|jianshu-[a-z0-9]{12})")
 
 
 def tokens(text):
@@ -22,7 +22,7 @@ def tokens(text):
     return words
 
 
-def load_catalog(include_crossposts=False):
+def load_catalog(include_crossposts=False, include_archive=False):
     catalog = json.loads((ROOT / "corpus/catalog.json").read_text(encoding="utf-8"))
     if not isinstance(catalog, list):
         raise ValueError("Invalid corpus catalog")
@@ -31,6 +31,11 @@ def load_catalog(include_crossposts=False):
         if not isinstance(crossposts, list):
             raise ValueError("Invalid author crosspost catalog")
         catalog.extend(crossposts)
+    if include_archive:
+        archive = json.loads((ROOT / "corpus/jianshu_archive_catalog.json").read_text(encoding="utf-8"))
+        if not isinstance(archive, list):
+            raise ValueError("Invalid Jianshu archive catalog")
+        catalog.extend(archive)
     return catalog
 
 
@@ -70,13 +75,18 @@ def retrieve(query, catalog, limit, max_chars):
         positions = [text.casefold().find(t) for t in query_tokens if text.casefold().find(t) >= 0]
         center = min(positions, default=0)
         excerpt = text[max(0, center - 50):max(0, center - 50) + max_chars]
-        result = {k: entry[k] for k in ("id", "title", "published_at", "author", "url", "article_path", "analysis_path")}
+        result = {k: entry[k] for k in ("id", "title", "published_at", "author", "url", "article_path", "analysis_path") if k in entry}
         source_type = entry.get("source_type")
         if source_type:
             result["source_type"] = source_type
         notice = "检索片段仅作导航；引用前读取相关原文，分析卡不等于作者原话"
         if source_type == "author-crosspost-summary":
             notice = "作者简书交叉发布的整理者摘要，不是微信公众号原文；引用时保留来源标签和简书链接"
+        elif source_type == "author-jianshu-archive-listing":
+            notice = "简书作者页历史目录条目，含列表导语短摘录，不含全文；不是已核验的微信公众号原文，引用请保留简书链接"
+        if entry.get("jianshu_title_matches"):
+            result["jianshu_title_matches"] = entry["jianshu_title_matches"]
+            notice += "；另有简书同标题来源链接，但逐篇全文未核验，引用时区分来源"
         result.update({"score": round(score, 4), "excerpt": excerpt, "evidence_notice": notice})
         ranked.append(result)
     return sorted(ranked, key=lambda r: (-r["score"], r["id"]))[:limit]
@@ -100,21 +110,29 @@ def main(argv=None):
         parser.error("Provide query or --read DOCUMENT_ID")
     if not 1 <= args.limit <= 20 or not 80 <= args.max_chars <= 12000:
         parser.error("--limit must be 1..20 and --max-chars 80..12000")
-    catalog = load_catalog(include_crossposts=True)
+    catalog = load_catalog(include_crossposts=True, include_archive=True)
     if args.read:
         if not ID_PATTERN.fullmatch(args.read):
             parser.error("Invalid document ID")
         entry = next((e for e in catalog if e["id"] == args.read), None)
         if entry is None:
             parser.error("Document ID not found")
-        path = inside_root(entry["article_path" if args.kind == "article" else "analysis_path"])
+        if entry.get("source_type") == "author-jianshu-archive-listing":
+            if args.kind == "analysis":
+                parser.error("Jianshu archive listings do not have analysis cards")
+            path_key = "article_path"
+            output_kind = "archive_listing"
+        else:
+            path_key = "article_path" if args.kind == "article" else "analysis_path"
+            output_kind = args.kind
+        path = inside_root(entry[path_key])
         lines = path.read_text(encoding="utf-8").splitlines()
         end = min(args.end_line or len(lines), len(lines))
         if args.start_line < 1 or (args.end_line is not None and args.end_line < args.start_line) or args.start_line > len(lines):
             parser.error("Invalid line range")
         selected = "\n".join(f"{i + 1}: {lines[i]}" for i in range(args.start_line - 1, end))
         clipped = len(selected) > args.max_chars
-        output = {"id": entry["id"], "title": entry["title"], "published_at": entry["published_at"], "author": entry["author"], "url": entry["url"], "kind": args.kind, "source_type": entry.get("source_type", "wechat-original"), "path": str(path.relative_to(ROOT)).replace("\\", "/"), "total_lines": len(lines), "requested_start_line": args.start_line, "requested_end_line": end, "truncated": clipped, "text": selected[:args.max_chars]}
+        output = {"id": entry["id"], "title": entry["title"], "published_at": entry["published_at"], "author": entry["author"], "url": entry["url"], "kind": output_kind, "source_type": entry.get("source_type", "wechat-original"), "path": str(path.relative_to(ROOT)).replace("\\", "/"), "total_lines": len(lines), "requested_start_line": args.start_line, "requested_end_line": end, "truncated": clipped, "text": selected[:args.max_chars]}
     else:
         output = {"query": args.query, "results": retrieve(args.query, catalog, args.limit, args.max_chars)}
     print(json.dumps(output, ensure_ascii=False, indent=2))
