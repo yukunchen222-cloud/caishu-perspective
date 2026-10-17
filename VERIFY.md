@@ -20,7 +20,7 @@ python -m unittest discover -s tests -v
 
 ## GitHub 状态
 
-原始发布验收见 `outputs/caishu-build/PUBLIC_PUBLICATION_RECEIPT.json`。2026-10-17 增补了18篇作者简书交叉发布摘要；公众号原文快照仍为752篇、截止2026-09-14。更新后的公开提交和远端读取需以本次更新回执为准。
+原始发布验收见 `outputs/caishu-build/PUBLIC_PUBLICATION_RECEIPT.json`。截至2026-10-17，Skill保留752篇公众号原文快照（截止2026-09-14）和18篇近期简书交叉发布摘要，并新增631条独立简书历史目录卡。历史目录更新已快进推送至公开仓库 `yukunchen222-cloud/caishu-perspective` 的 `main`；推送后通过匿名 `git ls-remote` 核对远端提交，并从公开 raw URL 读回631条目录清单及一张示例卡（HTTP 200）。这证明发布提交可公开读取，不代表目录卡包含全文。
 
 ## 2026-10-17 语料补充范围
 
