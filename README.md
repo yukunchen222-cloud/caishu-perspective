@@ -37,10 +37,24 @@ Python 3.9 或更高版本，无第三方依赖：
 
 ```bash
 python scripts/search.py "创业 成本 客户" --limit 5
+python scripts/evidence.py "辞职 持续增量 机会成本" --limit 3
 python scripts/search.py --read wxmp-b1f8ef1b75c5e77fce3d --kind article --max-chars 6000
+python scripts/search.py "关键词" --sources listings --limit 5
 ```
 
 也可从 [主题导航](references/topics.md) 打开本地 Markdown，不运行脚本。
+
+默认检索只把公众号原文及近期简书整理者摘要作为决策材料；历史目录卡须显式使用 `--sources listings` 或 `--sources all`，仍不是全文。命中分析卡的片段明确标记整理者分析。`--as-of YYYY-MM-DD` 限定资料时间，`--exclude-id <ID>` 同时排除已知标题/正文/同源链接关联组，但不是语义近重复检测。
+
+## 决策优化层
+
+`scripts/evidence.py` 在同一次查询中分开返回原文候选、12个真实来信案例、8条跨来源条件化原则及辅助摘要。案例和原则均从2025年及以前的已署名原文整理，保留来源行号、哈希、作者建议与应用边界；不新增来源文章计数，也不声称已有长期效果。检索分数只表示词汇相关性。精确引用和重要取舍仍须阅读原文。
+
+回答分开处理“原文支持的作者方向”与“适合用户目标和约束的建议”，保留作者激进/保守的不同分支，主动检查反向证据；用户事实、偏好、决定和结果单独保存，不回灌成作者原则。没有新建 Agent 应用、微调模型或改写原始语料。
+
+复杂决策先按 [交付结构](references/delivery-check.md) 把JSON草稿送入 `scripts/check_decision.py` 的stdin，校验来源与行动字段，再交付自然语言答案；也支持 `--input` 读取已保存草稿。检查通过不代表推理正确或效果有效，无Python时只做标明的手工核对。
+
+评测见 [evals/README.md](evals/README.md)：32个任务来自8个独立留出案例及8个边界题，不能写成32个独立作者案例。运行题单不等于模型通过；技术检查与实际盲测结果分别记录在 [VERIFY.md](VERIFY.md)。
 
 ## 按主题浏览
 
@@ -58,7 +72,8 @@ python scripts/search.py --read wxmp-b1f8ef1b75c5e77fce3d --kind article --max-c
 - `corpus/jianshu_archive/`：631 条历史简书来源目录卡；仅保留标题、日期、简书链接和最多36字的列表导语摘录，不含文章全文。
 - `corpus/catalog.json`：752 篇公众号原文的检索目录。
 - `corpus/crosspost_catalog.json`：18 篇作者简书交叉发布摘要的检索目录。
-- `corpus/jianshu_archive_catalog.json`：631 条简书历史目录卡的检索目录；命令行检索默认同时搜索公众号原文、近期摘要和历史目录卡。
+- `corpus/jianshu_archive_catalog.json`：631 条简书历史目录卡的检索目录；默认不混入决策证据，显式目录发现或按 ID 读取仍可用。
+- `corpus/decision_cases.json`、`corpus/decision_principles.json`：带原文定位的案例和条件化原则；整理者提炼，不是新文章或作者逐字通则。
 - `corpus/jianshu_history_reconciliation.json`：简书主页1,132条可读记录与当前语料的逐条标题映射与对照状态。
 - `corpus/manifest.json`：范围、日期、来源分类、源文件与导出文件哈希。
 - `tests/`：检索、来源一致性与现实决策验收。

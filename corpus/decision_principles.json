@@ -1,0 +1,385 @@
+{
+  "schema_version": 1,
+  "notice": "整理者跨来源条件化提炼；claim、适用条件、问题和限制是应用设计，不冒称作者逐字提出的通则。根代理已回读8条原则的引用原文；引用仍需核对具体条件及反例，不表示实证有效。",
+  "principles": [
+    {
+      "id": "principle-relative-opportunity-cost",
+      "name": "按真实替代收益比较，而非按总收入或标签计算时间价值",
+      "claim": "当一段时间确实可以用于可兑现的工作或项目时，优先把它与替代收益比较；若该时段原本只是休息或没有可兑现替代，不能仅凭年收入把家务、关系或休息都算成同额损失。",
+      "decision_variables": [
+        "该时段可兑现的替代产出",
+        "替代机会的成功概率与时效",
+        "外包成本与关系价值",
+        "个人对休息和陪伴的主观价值"
+      ],
+      "applies_when": [
+        "安排时间、家务外包或工作与关系的取舍",
+        "已有可执行而非只存在于想象中的替代路径"
+      ],
+      "limits": [
+        "原文用个案和极端金额说明，不能把收入直接折成所有时段的价值",
+        "不能据此断言所有关系或休息都应让位于赚钱"
+      ],
+      "questions": [
+        "这段时间现在是否真的有可兑现的替代产出？",
+        "替代收益、成功概率和外包价格分别是多少？",
+        "如果没有替代产出，我是否只是把工资标签误当成机会成本？"
+      ],
+      "mechanisms": [
+        "机会成本",
+        "相对值",
+        "场景化时间价值",
+        "收益比较"
+      ],
+      "source_refs": [
+        {
+          "source_id": "wxmp-78056751b718f85276b5",
+          "start_line": 17,
+          "end_line": 18,
+          "role": "support"
+        },
+        {
+          "source_id": "wxmp-70e606c4f89832c29ecc",
+          "start_line": 20,
+          "end_line": 25,
+          "role": "support"
+        }
+      ],
+      "evidence_scope": "cross-source",
+      "review_status": "source-checked"
+    },
+    {
+      "id": "principle-necessity-and-substitutes",
+      "name": "先拆出替代品，再判断‘刚需’",
+      "claim": "当选择属于改善、身份或家庭分工而非基本生存，且存在租赁、换方案、外包或双方重谈等替代时，先比较长期成本与被放弃的选项；不要用‘刚需’或‘牺牲’标签跳过比较。",
+      "decision_variables": [
+        "是否属于基本生存需求",
+        "可替代路径的价格与效果",
+        "长期负债和现金流压力",
+        "被放弃的收入、时间与未来选择"
+      ],
+      "applies_when": [
+        "住房、教育、照护等大额或长期选择",
+        "家庭分工或职业取舍被包装成单一的牺牲叙事"
+      ],
+      "limits": [
+        "原文把个案推成强结论，不证明所有改善都不值得",
+        "替代方案是否现实可用仍须按当下的家庭、市场和法律条件核验"
+      ],
+      "questions": [
+        "不选这个方案，最低可行替代是什么？",
+        "这笔支出会使未来几年放弃哪些选择？",
+        "所谓牺牲是双方明确交换，还是事后给选择加上的道德标签？"
+      ],
+      "mechanisms": [
+        "替代品",
+        "改善与生存",
+        "机会成本",
+        "长期负债",
+        "身份叙事"
+      ],
+      "source_refs": [
+        {
+          "source_id": "wxmp-16351542b1caf270f7f2",
+          "start_line": 15,
+          "end_line": 18,
+          "role": "support"
+        },
+        {
+          "source_id": "wxmp-1592dd65db930210d3e5",
+          "start_line": 20,
+          "end_line": 23,
+          "role": "support"
+        }
+      ],
+      "evidence_scope": "cross-source",
+      "review_status": "source-checked"
+    },
+    {
+      "id": "principle-cashflow-before-lockup",
+      "name": "在资产锁定或投机加码前，先保住可支配现金流",
+      "claim": "当选项会把大部分资金锁进自住资产或高波动投入、且日常收入与应急能力不足时，优先保留可持续现金流；只有现金流和其他收入足以承受波动，再考虑提高风险资产占比。",
+      "decision_variables": [
+        "资产锁定比例与变现时间",
+        "稳定收入和其他现金流来源",
+        "日常支出、债务与应急期限",
+        "风险投入是否会迫使被动卖出"
+      ],
+      "applies_when": [
+        "买房、重资产消费或把主业收入换成高波动投资",
+        "考虑辞职、全职交易或减少价值生产收入"
+      ],
+      "limits": [
+        "原文关于交易结果的‘几乎没有好结果’是作者观察，不是统计规律",
+        "原文没有给出通用现金储备比例，不能补造具体阈值"
+      ],
+      "questions": [
+        "如果收入中断，我能维持多久？",
+        "这项投入是否会把可用现金流锁死？",
+        "我是在用新增现金流布局，还是在被迫拆存量资产？"
+      ],
+      "mechanisms": [
+        "现金流",
+        "资产锁定",
+        "不确定性缓冲",
+        "风险预算",
+        "价值生产"
+      ],
+      "source_refs": [
+        {
+          "source_id": "wxmp-ce7ad182da9cbdd0cf19",
+          "start_line": 14,
+          "end_line": 18,
+          "role": "support"
+        },
+        {
+          "source_id": "wxmp-05e67381f9703a60b2c2",
+          "start_line": 17,
+          "end_line": 23,
+          "role": "qualification"
+        }
+      ],
+      "evidence_scope": "cross-source",
+      "review_status": "source-checked"
+    },
+    {
+      "id": "principle-sustainable-value-over-extraction",
+      "name": "持续性交易要让价值增量超过取用",
+      "claim": "当目标是持续收入或长期合作而非一次性变现时，选择能复用资源并持续给对方带来大于自身收入的价值的路径；若主要靠一次性消耗资源，或收入已超过所创价值，长期性不足。",
+      "decision_variables": [
+        "资源或生产工具能否复用和并行",
+        "对方得到的可观察价值增量",
+        "自身收入与所创价值的比例",
+        "一次性消耗与后续复购、信任的关系"
+      ],
+      "applies_when": [
+        "设计持续性生意、服务、内容或职业合作",
+        "需要在一次性变现与长期复用之间选择"
+      ],
+      "limits": [
+        "价值增量如何计量取决于具体市场，不能把原文规则当成测量公式",
+        "作者用商业个案和比喻说明，不证明收入必然可持续"
+      ],
+      "questions": [
+        "我交付的价值是否能被客户或市场观察到？",
+        "这次成交是在消耗资源，还是让资源更可复用？",
+        "如果收入高于价值增量，谁会在下一轮承担差额？"
+      ],
+      "mechanisms": [
+        "资源复用",
+        "价值增量",
+        "持续合作",
+        "一次性变现",
+        "长期信任"
+      ],
+      "source_refs": [
+        {
+          "source_id": "wxmp-c12790a6d4261d29d724",
+          "start_line": 14,
+          "end_line": 18,
+          "role": "support"
+        },
+        {
+          "source_id": "wxmp-0015e2f747fc8b0aaed2",
+          "start_line": 22,
+          "end_line": 23,
+          "role": "qualification"
+        }
+      ],
+      "evidence_scope": "cross-source",
+      "review_status": "source-checked"
+    },
+    {
+      "id": "principle-bottleneck-and-continued-updating",
+      "name": "想提高分配，先承担并打磨不可替代的瓶颈",
+      "claim": "当项目回报上限高、关键环节确实由稀缺能力或资源决定时，优先投入学习、试错并负责该‘事眼’，而不是只靠谈判或道德索取；若关键贡献已被替代或长期不更新，原有高分配不稳。",
+      "decision_variables": [
+        "项目中决定成败的关键环节",
+        "能力或资源的稀缺性与可替代性",
+        "承担该环节的失败成本",
+        "能力更新速度与可量化交付"
+      ],
+      "applies_when": [
+        "争取更高分配、提成、议价权或项目主导权",
+        "已有明确高回报上限且能定位瓶颈"
+      ],
+      "limits": [
+        "作者把谈判技巧、合同等作用说得很绝对，不能据此否定合同和协商",
+        "不可替代程度须由实际交付、市场反馈和替代成本验证"
+      ],
+      "questions": [
+        "项目的‘事眼’是什么，结果如何量化？",
+        "我是否愿意承担该关键环节的失败成本？",
+        "我的资源和能力是否仍在迭代，还是只在吃旧贡献？"
+      ],
+      "mechanisms": [
+        "事眼",
+        "不可替代",
+        "硬实力",
+        "持续迭代",
+        "分配权"
+      ],
+      "source_refs": [
+        {
+          "source_id": "wxmp-0015e2f747fc8b0aaed2",
+          "start_line": 17,
+          "end_line": 23,
+          "role": "support"
+        },
+        {
+          "source_id": "wxmp-05e67381f9703a60b2c2",
+          "start_line": 23,
+          "end_line": 25,
+          "role": "qualification"
+        }
+      ],
+      "evidence_scope": "cross-source",
+      "review_status": "source-checked"
+    },
+    {
+      "id": "principle-proven-opportunity-before-all-in",
+      "name": "按已证能力、收益规模与持续性分支判断集中投入",
+      "claim": "作者在家族生意案例中先要求能力已被证明且可持续：增量一两年即可覆盖体制收入至退休时主张立即辞职；达不到该规模时，再检验收入稳定性和全职边际贡献。另一篇强调主业仍有上升空间时不要轻易分散，副业本身也须认真经营。应用时按实际收益规模、持续性和被放弃选项选择分支，不把作者改写成一律保守或一律all-in。",
+      "decision_variables": [
+        "结果是否持续而非一次性",
+        "全职相对兼职的边际增量",
+        "放弃主业、福利或安全垫的机会成本",
+        "机会失败后的恢复路径"
+      ],
+      "applies_when": [
+        "辞职、转主业、接手家族生意或把副业升级为主业",
+        "已有一段实际收入或交付记录但仍未证明可持续"
+      ],
+      "limits": [
+        "原文包含‘先斩后奏’和极端投入等激进建议，不能普遍化",
+        "作者举出的收入倍数是个案示例，不是通用辞职阈值"
+      ],
+      "questions": [
+        "我证明的是持续能力，还是偶然的一次增量？",
+        "全职会增加多少可归因产出，兼职保留的选项价值是多少？",
+        "失败后是否仍有现金流和可恢复的职业路径？"
+      ],
+      "mechanisms": [
+        "已证能力",
+        "持续性",
+        "机会成本",
+        "全职增量",
+        "风险外包",
+        "集中投入"
+      ],
+      "source_refs": [
+        {
+          "source_id": "wxmp-fff2442a1cfbc1db5df2",
+          "start_line": 19,
+          "end_line": 25,
+          "role": "support"
+        },
+        {
+          "source_id": "wxmp-05e67381f9703a60b2c2",
+          "start_line": 15,
+          "end_line": 23,
+          "role": "qualification"
+        }
+      ],
+      "evidence_scope": "cross-source",
+      "review_status": "source-checked"
+    },
+    {
+      "id": "principle-repeatable-positive-expectation",
+      "name": "把可重复的正期望与一次性赌局分开",
+      "claim": "《投资和赌博的区别》用正期望、多次博弈和杠杆强平区分投资与赌博；《有钱人为什么有钱？》同时承认创业者可能冒破产风险集中下注，并把风险理解与处理经验作为区别。应用时区分可重复配置与一次性创业下注，核对风险能力，不能把两文合并成作者一概反对归零风险或一概鼓励all-in。",
+      "decision_variables": [
+        "是否存在多次重复博弈",
+        "收益期望、费用与实际胜率",
+        "单次最大损失和归零概率",
+        "杠杆、强平和短时波动风险",
+        "自身对风险的理解与处理能力"
+      ],
+      "applies_when": [
+        "区分投资、创业下注与赌博",
+        "评估高波动、高杠杆或一次性机会"
+      ],
+      "limits": [
+        "作者对期货和赌徒的‘必然’判断是强断言，不能当作具体资产配置结论",
+        "正期望、胜率和损失分布仍需独立数据与当前规则核验"
+      ],
+      "questions": [
+        "如果这次失败，我还能否按同一规则继续？",
+        "收益期望是否扣除了费用、强平和流动性成本？",
+        "我是否真的理解风险，还是只看到了方向判断？"
+      ],
+      "mechanisms": [
+        "正期望",
+        "大数定律",
+        "重复博弈",
+        "非对称损失",
+        "杠杆",
+        "风险驾驶"
+      ],
+      "source_refs": [
+        {
+          "source_id": "wxmp-ff136305945b1f3e1266",
+          "start_line": 15,
+          "end_line": 25,
+          "role": "support"
+        },
+        {
+          "source_id": "wxmp-0906047fc4e9026079e1",
+          "start_line": 15,
+          "end_line": 24,
+          "role": "qualification"
+        }
+      ],
+      "evidence_scope": "cross-source",
+      "review_status": "source-checked"
+    },
+    {
+      "id": "principle-mutual-interest-and-self-protection",
+      "name": "把关系交换建立在互利和自我保护上",
+      "claim": "在需要长期合作的交易里，若双方利益一致、风险与收益可相互核对，诚信、让利或好口碑更像可持续的竞争策略；若收益和风险明显单边且只靠道德、感情或身份施压，不能把对方的要求当成合作义务，应回到明确规则与自我保护。",
+      "decision_variables": [
+        "双方收益是否一致或可对齐",
+        "风险、责任与退出条件由谁承担",
+        "承诺是否有可核对的行为记录",
+        "关系是重复合作还是一次性索取"
+      ],
+      "applies_when": [
+        "熟人借贷、合伙、销售或长期服务关系",
+        "对方以人情、道德或身份要求单方面让利"
+      ],
+      "limits": [
+        "作者对道德倡导者和弱者群体的判断属修辞，不能作为识别人的充分条件",
+        "回到规则、边界和自我保护是整理者应用，不是作者逐字指令"
+      ],
+      "questions": [
+        "对方的收益是否依赖我先承担不可逆风险？",
+        "诚信或让利能否带来可观察的重复合作收益？",
+        "如果没有口头道德压力，双方仍会接受同一分配规则吗？"
+      ],
+      "mechanisms": [
+        "利益一致",
+        "价值交换",
+        "重复合作",
+        "口碑竞争",
+        "自我保护",
+        "道德绑架"
+      ],
+      "source_refs": [
+        {
+          "source_id": "wxmp-fff73854c425dc05cb41",
+          "start_line": 16,
+          "end_line": 20,
+          "role": "support"
+        },
+        {
+          "source_id": "wxmp-25fa17435038e6c1cfe7",
+          "start_line": 19,
+          "end_line": 25,
+          "role": "qualification"
+        }
+      ],
+      "evidence_scope": "cross-source",
+      "review_status": "source-checked"
+    }
+  ]
+}

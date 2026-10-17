@@ -1,14 +1,25 @@
 """Read-only Chinese/English retrieval; Python standard library, no network."""
 import argparse
 import collections
+import hashlib
 import json
 import math
 import re
 import sys
+import unicodedata
+from datetime import date
 from pathlib import Path
+from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 ID_PATTERN = re.compile(r"(?:wxmp-[0-9a-f]{16,40}|crosspost-[0-9a-f]{12}|jianshu-[a-z0-9]{12})")
+SOURCE_SCOPES = {
+    "evidence": {"wechat-original", "author-crosspost-summary"},
+    "originals": {"wechat-original"},
+    "summaries": {"author-crosspost-summary"},
+    "listings": {"author-jianshu-archive-listing"},
+    "all": {"wechat-original", "author-crosspost-summary", "author-jianshu-archive-listing"},
+}
 
 
 def tokens(text):
@@ -22,43 +33,120 @@ def tokens(text):
     return words
 
 
-def load_catalog(include_crossposts=False, include_archive=False):
-    catalog = json.loads((ROOT / "corpus/catalog.json").read_text(encoding="utf-8"))
+def load_catalog(include_crossposts=False, include_archive=False, *, root=ROOT):
+    root = Path(root)
+    catalog = json.loads((root / "corpus/catalog.json").read_text(encoding="utf-8"))
     if not isinstance(catalog, list):
         raise ValueError("Invalid corpus catalog")
     if include_crossposts:
-        crossposts = json.loads((ROOT / "corpus/crosspost_catalog.json").read_text(encoding="utf-8"))
+        crossposts = json.loads((root / "corpus/crosspost_catalog.json").read_text(encoding="utf-8"))
         if not isinstance(crossposts, list):
             raise ValueError("Invalid author crosspost catalog")
         catalog.extend(crossposts)
     if include_archive:
-        archive = json.loads((ROOT / "corpus/jianshu_archive_catalog.json").read_text(encoding="utf-8"))
+        archive = json.loads((root / "corpus/jianshu_archive_catalog.json").read_text(encoding="utf-8"))
         if not isinstance(archive, list):
             raise ValueError("Invalid Jianshu archive catalog")
         catalog.extend(archive)
     return catalog
 
 
-def inside_root(relative):
-    path = (ROOT / relative).resolve()
-    if not path.is_relative_to(ROOT):
+def inside_root(relative, root=ROOT):
+    root = Path(root).resolve()
+    path = (root / relative).resolve()
+    if not path.is_relative_to(root):
         raise ValueError("Corpus path outside skill directory")
     return path
 
 
-def retrieve(query, catalog, limit, max_chars):
+def select_sources(catalog, scope="evidence"):
+    return [entry for entry in catalog if entry.get("source_type", "wechat-original") in SOURCE_SCOPES[scope]]
+
+
+def normalized(text):
+    return re.sub(r"\s+", " ", unicodedata.normalize("NFKC", text)).strip().casefold()
+
+
+def source_groups(catalog):
+    """Known same-title/body/URL links, not a claim of semantic deduplication."""
+    parents = {entry["id"]: entry["id"] for entry in catalog}
+    if len(parents) != len(catalog):
+        raise ValueError("Duplicate source IDs")
+
+    def find(item):
+        while parents[item] != item:
+            parents[item] = parents[parents[item]]
+            item = parents[item]
+        return item
+
+    owners = {}
+    for entry in catalog:
+        keys = []
+        if normalized(entry.get("title", "")):
+            keys.append(("title", normalized(entry["title"])))
+        body = normalized(entry.get("search_text", ""))
+        if body:
+            keys.append(("body", hashlib.sha256(body.encode("utf-8")).hexdigest()))
+        urls = [entry.get("url", "")] + [match.get("url", "") for match in entry.get("jianshu_title_matches", [])]
+        for url in urls:
+            if url:
+                parts = urlsplit(url)
+                keys.append(("url", (parts.netloc.casefold(), parts.path, parts.query)))
+        for key in keys:
+            if key in owners:
+                first, second = find(entry["id"]), find(owners[key])
+                parents[max(first, second)] = min(first, second)
+            else:
+                owners[key] = entry["id"]
+    return {entry["id"]: find(entry["id"]) for entry in catalog}
+
+
+def select_catalog(catalog, scope="evidence", as_of=None, exclude_ids=None):
+    excluded = set(exclude_ids or [])
+    known = {entry["id"] for entry in catalog}
+    if excluded - known:
+        raise ValueError("Unknown excluded source ID: " + ", ".join(sorted(excluded - known)))
+    cutoff = date.fromisoformat(as_of) if as_of else None
+    groups = source_groups(catalog)
+    excluded_groups = {groups[source_id] for source_id in excluded}
+    return [entry for entry in select_sources(catalog, scope)
+            if groups[entry["id"]] not in excluded_groups
+            and (cutoff is None or (entry.get("published_at") and date.fromisoformat(entry["published_at"][:10]) <= cutoff))]
+
+
+def analysis_text(entry, root=ROOT):
+    if entry.get("source_type", "wechat-original") != "wechat-original" or not entry.get("analysis_path"):
+        return ""
+    path = inside_root(entry["analysis_path"], root)
+    if not path.is_file():
+        return ""
+    selected = []
+    active = False
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if line.startswith("## "):
+            active = line[3:].strip() in {"作者主张", "可复用提炼", "分析与反方检验", "证据边界"}
+        elif active:
+            selected.append(line)
+    return "\n".join(selected)
+
+
+def retrieve(query, catalog, limit, max_chars, *, root=ROOT):
     query_tokens = set(tokens(query))
     if not query_tokens:
         return []
     documents = []
     frequency = collections.Counter()
     for entry in catalog:
-        counter = collections.Counter(tokens(entry["search_text"]))
-        documents.append((entry, counter, sum(counter.values())))
+        body = entry["search_text"]
+        analysis = analysis_text(entry, root)
+        body_tokens = collections.Counter(tokens(body))
+        analysis_tokens = collections.Counter(tokens(analysis))
+        counter = body_tokens + analysis_tokens
+        documents.append((entry, counter, sum(counter.values()), body_tokens, analysis_tokens, analysis))
         frequency.update(query_tokens & counter.keys())
-    average = sum(length for _, _, length in documents) / max(len(documents), 1)
+    average = sum(document[2] for document in documents) / max(len(documents), 1)
     ranked = []
-    for entry, counter, length in documents:
+    for entry, counter, length, body_tokens, analysis_tokens, analysis in documents:
         score = 0.0
         for token in query_tokens:
             tf = counter[token]
@@ -71,14 +159,22 @@ def retrieve(query, catalog, limit, max_chars):
         score += 2 * len(query_tokens & title_tokens)
         if query.casefold() in entry["title"].casefold():
             score += 12
-        text = entry["search_text"]
+        body_hits = query_tokens & body_tokens.keys()
+        analysis_hits = query_tokens & analysis_tokens.keys()
+        match_fields = (["body"] if body_hits else []) + (["analysis"] if analysis_hits else [])
+        source_type = entry.get("source_type", "wechat-original")
+        use_analysis = len(analysis_hits) > len(body_hits)
+        text = analysis if use_analysis else entry["search_text"]
+        excerpt_kind = "editor-analysis" if use_analysis else {
+            "wechat-original": "original-body",
+            "author-crosspost-summary": "crosspost-summary",
+            "author-jianshu-archive-listing": "archive-listing",
+        }[source_type]
         positions = [text.casefold().find(t) for t in query_tokens if text.casefold().find(t) >= 0]
         center = min(positions, default=0)
         excerpt = text[max(0, center - 50):max(0, center - 50) + max_chars]
         result = {k: entry[k] for k in ("id", "title", "published_at", "author", "url", "article_path", "analysis_path") if k in entry}
-        source_type = entry.get("source_type")
-        if source_type:
-            result["source_type"] = source_type
+        result["source_type"] = source_type
         notice = "检索片段仅作导航；引用前读取相关原文，分析卡不等于作者原话"
         if source_type == "author-crosspost-summary":
             notice = "作者简书交叉发布的整理者摘要，不是微信公众号原文；引用时保留来源标签和简书链接"
@@ -87,7 +183,11 @@ def retrieve(query, catalog, limit, max_chars):
         if entry.get("jianshu_title_matches"):
             result["jianshu_title_matches"] = entry["jianshu_title_matches"]
             notice += "；另有简书同标题来源链接，但逐篇全文未核验，引用时区分来源"
-        result.update({"score": round(score, 4), "excerpt": excerpt, "evidence_notice": notice})
+        if use_analysis:
+            notice += "；当前片段来自整理者分析，不能当作者原话，须回读对应原文"
+        result.update({"score": round(score, 4), "score_kind": "lexical-relevance-not-confidence",
+                       "match_fields": match_fields, "excerpt_kind": excerpt_kind,
+                       "excerpt": excerpt, "evidence_notice": notice, "read_status": "not-yet-read"})
         ranked.append(result)
     return sorted(ranked, key=lambda r: (-r["score"], r["id"]))[:limit]
 
@@ -96,6 +196,10 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("query", nargs="?")
     parser.add_argument("--limit", type=int, default=5)
+    parser.add_argument("--sources", choices=tuple(SOURCE_SCOPES), default="evidence",
+                        help="default: originals and labeled summaries; listings are discovery only")
+    parser.add_argument("--as-of", help="only sources published on/before YYYY-MM-DD")
+    parser.add_argument("--exclude-id", action="append", default=[], help="hide the entire known source group")
     parser.add_argument("--max-chars", type=int)
     parser.add_argument("--read", metavar="DOCUMENT_ID")
     parser.add_argument("--kind", choices=("article", "analysis"), default="article")
@@ -111,6 +215,10 @@ def main(argv=None):
     if not 1 <= args.limit <= 20 or not 80 <= args.max_chars <= 12000:
         parser.error("--limit must be 1..20 and --max-chars 80..12000")
     catalog = load_catalog(include_crossposts=True, include_archive=True)
+    try:
+        catalog = select_catalog(catalog, "all" if args.read else args.sources, args.as_of, args.exclude_id)
+    except ValueError as error:
+        parser.error(str(error))
     if args.read:
         if not ID_PATTERN.fullmatch(args.read):
             parser.error("Invalid document ID")
@@ -134,7 +242,8 @@ def main(argv=None):
         clipped = len(selected) > args.max_chars
         output = {"id": entry["id"], "title": entry["title"], "published_at": entry["published_at"], "author": entry["author"], "url": entry["url"], "kind": output_kind, "source_type": entry.get("source_type", "wechat-original"), "path": str(path.relative_to(ROOT)).replace("\\", "/"), "total_lines": len(lines), "requested_start_line": args.start_line, "requested_end_line": end, "truncated": clipped, "text": selected[:args.max_chars]}
     else:
-        output = {"query": args.query, "results": retrieve(args.query, catalog, args.limit, args.max_chars)}
+        output = {"query": args.query, "source_scope": args.sources,
+                  "as_of": args.as_of, "results": retrieve(args.query, catalog, args.limit, args.max_chars)}
     print(json.dumps(output, ensure_ascii=False, indent=2))
 
 

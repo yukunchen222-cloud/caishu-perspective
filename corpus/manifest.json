@@ -1,5 +1,29 @@
 {
   "schema_version": 1,
+  "decision_support": {
+    "schema_version": 1,
+    "case_count": 12,
+    "principle_count": 8,
+    "evaluation_task_count": 32,
+    "independent_author_holdout_count": 8,
+    "development_source_cutoff": "2025-12-31",
+    "extraction_role": "editor-synthesis-not-author-quotation",
+    "outcomes": "not-observed",
+    "files": [
+      {
+        "path": "corpus/decision_cases.json",
+        "sha256": "bd69d7369ccd2c532d08a8821244a9e03ea8e7454fb9f502a692268d94b29dcf"
+      },
+      {
+        "path": "corpus/decision_principles.json",
+        "sha256": "2b68ebb3c9c65dfedf56e0f4513f452184f9608dbf15dd99fbc12518ee6a3660"
+      },
+      {
+        "path": "evals/decisions.json",
+        "sha256": "99db75df45b25c244203adcb17a4e344f0ae37de8a9be36f7b15c7d867e1570f"
+      }
+    ]
+  },
   "snapshot_packaged_on": "2026-10-17",
   "source_account": "请辩",
   "source_account_id": "luojiyingshang",
