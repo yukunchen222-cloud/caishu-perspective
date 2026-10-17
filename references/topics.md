@@ -2,6 +2,29 @@
 
 先用主题词检索分析卡，再核对相关原文。此目录只作导航，不是正文证据。
 
+## 近期作者简书交叉发布（整理者摘要，非公众号原文）
+
+以下日期是简书发布时间。仅代表作者主页可见的交叉发布记录，不证明公众号已完整更新；引用时使用各自简书链接。
+
+- 2026-10-16 [富人省下来的时间都干什么？](../corpus/crossposts/crosspost-d8476285b520.md)
+- 2026-10-15 [如何拿到大结果？](../corpus/crossposts/crosspost-77f071e8f7fa.md)
+- 2026-10-14 [你的苦难是不是苦难？取决于这个](../corpus/crossposts/crosspost-6c13c12107cf.md)
+- 2026-10-12 [让人生又爽，又不耽误成长的秘密](../corpus/crossposts/crosspost-d3213b6519ba.md)
+- 2026-10-10 [读书本身并不会获得奖励](../corpus/crossposts/crosspost-ef1074719af0.md)
+- 2026-10-09 [AI时代最缺的两种能力](../corpus/crossposts/crosspost-fca91404300e.md)
+- 2026-10-08 [2013年的60万，你买了什么？](../corpus/crossposts/crosspost-738b718ac5c9.md)
+- 2026-10-08 [为什么心里有答案了，还要问我？](../corpus/crossposts/crosspost-e084b5b865fb.md)
+- 2026-10-08 [如果让你穿越去你父母的年代，你能做出一番事吗？](../corpus/crossposts/crosspost-36030f3b5b4f.md)
+- 2026-09-30 [你的成长不够快，只有一个原因](../corpus/crossposts/crosspost-922b615c0dca.md)
+- 2026-09-29 [为什么有些人总喜欢说“随便”？](../corpus/crossposts/crosspost-5ba2541e6eab.md)
+- 2026-09-24 [怎么选投资标的？](../corpus/crossposts/crosspost-e77a4dd99826.md)
+- 2026-09-22 [创业没你想的那么难](../corpus/crossposts/crosspost-3fd7006bb17e.md)
+- 2026-09-21 [为什么你学东西不如小孩子快？](../corpus/crossposts/crosspost-c4b989ddcb97.md)
+- 2026-09-20 [人进步最快的方式是什么？](../corpus/crossposts/crosspost-f564f0cbf322.md)
+- 2026-09-18 [为什么你这么累？](../corpus/crossposts/crosspost-0bc6c32e76b2.md)
+- 2026-09-17 [被架在火上烤的美联储主席](../corpus/crossposts/crosspost-597f621e460b.md)
+- 2026-09-15 [外卖平台该死吗？](../corpus/crossposts/crosspost-eb67583f5401.md)
+
 ## 决策起点
 
 - **创业与做事标准**：创业 客户 流程 成本 试验 标准。[创业成功，最重要的一步是什么？](../corpus/articles/wxmp-b1f8ef1b75c5e77fce3d.md) · [分析卡](../corpus/analysis/wxmp-b1f8ef1b75c5e77fce3d.md)

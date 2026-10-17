@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-ID_PATTERN = re.compile(r"wxmp-[0-9a-f]{16,40}")
+ID_PATTERN = re.compile(r"(?:wxmp-[0-9a-f]{16,40}|crosspost-[0-9a-f]{12})")
 
 
 def tokens(text):
@@ -22,10 +22,15 @@ def tokens(text):
     return words
 
 
-def load_catalog():
+def load_catalog(include_crossposts=False):
     catalog = json.loads((ROOT / "corpus/catalog.json").read_text(encoding="utf-8"))
     if not isinstance(catalog, list):
         raise ValueError("Invalid corpus catalog")
+    if include_crossposts:
+        crossposts = json.loads((ROOT / "corpus/crosspost_catalog.json").read_text(encoding="utf-8"))
+        if not isinstance(crossposts, list):
+            raise ValueError("Invalid author crosspost catalog")
+        catalog.extend(crossposts)
     return catalog
 
 
@@ -66,7 +71,13 @@ def retrieve(query, catalog, limit, max_chars):
         center = min(positions, default=0)
         excerpt = text[max(0, center - 50):max(0, center - 50) + max_chars]
         result = {k: entry[k] for k in ("id", "title", "published_at", "author", "url", "article_path", "analysis_path")}
-        result.update({"score": round(score, 4), "excerpt": excerpt, "evidence_notice": "检索片段仅作导航；引用前读取相关原文，分析卡不等于作者原话"})
+        source_type = entry.get("source_type")
+        if source_type:
+            result["source_type"] = source_type
+        notice = "检索片段仅作导航；引用前读取相关原文，分析卡不等于作者原话"
+        if source_type == "author-crosspost-summary":
+            notice = "作者简书交叉发布的整理者摘要，不是微信公众号原文；引用时保留来源标签和简书链接"
+        result.update({"score": round(score, 4), "excerpt": excerpt, "evidence_notice": notice})
         ranked.append(result)
     return sorted(ranked, key=lambda r: (-r["score"], r["id"]))[:limit]
 
@@ -89,7 +100,7 @@ def main(argv=None):
         parser.error("Provide query or --read DOCUMENT_ID")
     if not 1 <= args.limit <= 20 or not 80 <= args.max_chars <= 12000:
         parser.error("--limit must be 1..20 and --max-chars 80..12000")
-    catalog = load_catalog()
+    catalog = load_catalog(include_crossposts=True)
     if args.read:
         if not ID_PATTERN.fullmatch(args.read):
             parser.error("Invalid document ID")
@@ -103,7 +114,7 @@ def main(argv=None):
             parser.error("Invalid line range")
         selected = "\n".join(f"{i + 1}: {lines[i]}" for i in range(args.start_line - 1, end))
         clipped = len(selected) > args.max_chars
-        output = {"id": entry["id"], "title": entry["title"], "published_at": entry["published_at"], "author": entry["author"], "url": entry["url"], "kind": args.kind, "path": str(path.relative_to(ROOT)).replace("\\", "/"), "total_lines": len(lines), "requested_start_line": args.start_line, "requested_end_line": end, "truncated": clipped, "text": selected[:args.max_chars]}
+        output = {"id": entry["id"], "title": entry["title"], "published_at": entry["published_at"], "author": entry["author"], "url": entry["url"], "kind": args.kind, "source_type": entry.get("source_type", "wechat-original"), "path": str(path.relative_to(ROOT)).replace("\\", "/"), "total_lines": len(lines), "requested_start_line": args.start_line, "requested_end_line": end, "truncated": clipped, "text": selected[:args.max_chars]}
     else:
         output = {"query": args.query, "results": retrieve(args.query, catalog, args.limit, args.max_chars)}
     print(json.dumps(output, ensure_ascii=False, indent=2))

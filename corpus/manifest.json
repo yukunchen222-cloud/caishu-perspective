@@ -1,18 +1,19 @@
 {
   "schema_version": 1,
-  "snapshot_packaged_on": "2026-10-14",
+  "snapshot_packaged_on": "2026-10-17",
   "source_account": "请辩",
   "source_account_id": "luojiyingshang",
   "article_count": 752,
   "analysis_count": 752,
   "earliest_publication": "2022-12-01T13:37:04+08:00",
   "latest_publication": "2026-09-14T12:05:05+08:00",
-  "source_scope": "用户提供的本地752篇文章快照；不代表完整历史或持续同步；图片未OCR、评论未采集",
+  "source_scope": "用户提供的752篇请辩公众号原文快照截至2026-09-14；另据蔡垒磊作者简书主页收录18篇2026-09-15至2026-10-16的交叉发布摘要。交叉发布摘要不是公众号原文，未逐篇核实公众号链接或公众号发布时间，也不证明公众号更新完整；图片未OCR、评论未采集、无自动同步。",
   "transformations": [
     "保留原文正文与来源元数据",
     "把Obsidian档案关联替换为相对Markdown链接",
     "不导出HTML、SQLite、缓存、登录态或个人记忆",
-    "省略可识别的独立（完）标记之后的推广尾段，逐条记录"
+    "省略可识别的独立（完）标记之后的推广尾段，逐条记录",
+    "新增18篇作者简书交叉发布的整理者摘要；保留标题、简书发布时间与来源链接，不复制全文，也不将其标作微信公众号原文。"
   ],
   "files": [
     {
@@ -7534,6 +7535,137 @@
       "article_sha256": "6fd09cd675a10ead9915a1352ed88583decbc10f80c9226737d49cfeaad2a57b",
       "analysis_path": "corpus/analysis/wxmp-fff73854c425dc05cb41.md",
       "analysis_sha256": "b1e5aea3f36c18304b08312ceb6b34def2113a27f022e3ac46a97a6f383cae25"
+    }
+  ],
+  "author_crosspost_summary_count": 18,
+  "latest_author_crosspost_publication": "2026-10-16T13:47:50+08:00",
+  "author_crosspost_source_scope": "作者蔡垒磊简书主页可见的交叉发布文章；此处为整理者摘要与链接，不复制全文；未证实完整对应请辩公众号更新。",
+  "author_crossposts": [
+    {
+      "id": "crosspost-d8476285b520",
+      "published_at": "2026-10-16T13:47:50+08:00",
+      "source_url": "https://www.jianshu.com/p/d8476285b520",
+      "summary_path": "corpus/crossposts/crosspost-d8476285b520.md",
+      "summary_sha256": "6134ef9a69b9939df15b414baaee3d19e6da7aac398a687cf67df983d2c30a04"
+    },
+    {
+      "id": "crosspost-77f071e8f7fa",
+      "published_at": "2026-10-15T14:15:31+08:00",
+      "source_url": "https://www.jianshu.com/p/77f071e8f7fa",
+      "summary_path": "corpus/crossposts/crosspost-77f071e8f7fa.md",
+      "summary_sha256": "583ff8f797825db983f037da6a2e4f11c8302702c794df3ff3c5baef1a4bd193"
+    },
+    {
+      "id": "crosspost-6c13c12107cf",
+      "published_at": "2026-10-14T14:32:11+08:00",
+      "source_url": "https://www.jianshu.com/p/6c13c12107cf",
+      "summary_path": "corpus/crossposts/crosspost-6c13c12107cf.md",
+      "summary_sha256": "301a37d4189c0453cb47b4fe74719ccc9c7e4eb929ecd3c1c11dff13dd1b332d"
+    },
+    {
+      "id": "crosspost-d3213b6519ba",
+      "published_at": "2026-10-12T13:44:28+08:00",
+      "source_url": "https://www.jianshu.com/p/d3213b6519ba",
+      "summary_path": "corpus/crossposts/crosspost-d3213b6519ba.md",
+      "summary_sha256": "dba3a3d2f6102dd1a8c16bdc4b3f963b4530a9fe8fdb6a8883b486f057ee5a08"
+    },
+    {
+      "id": "crosspost-ef1074719af0",
+      "published_at": "2026-10-10T13:47:45+08:00",
+      "source_url": "https://www.jianshu.com/p/ef1074719af0",
+      "summary_path": "corpus/crossposts/crosspost-ef1074719af0.md",
+      "summary_sha256": "3524fea7f91388131342163256b012073b4b52245e916eac3839fedcc4608273"
+    },
+    {
+      "id": "crosspost-fca91404300e",
+      "published_at": "2026-10-09T13:25:28+08:00",
+      "source_url": "https://www.jianshu.com/p/fca91404300e",
+      "summary_path": "corpus/crossposts/crosspost-fca91404300e.md",
+      "summary_sha256": "a1347ec9440ba9d57a3ec0a08fd302879135ed5723b4059c94c8204588aa85ea"
+    },
+    {
+      "id": "crosspost-738b718ac5c9",
+      "published_at": "2026-10-08T15:54:43+08:00",
+      "source_url": "https://www.jianshu.com/p/738b718ac5c9",
+      "summary_path": "corpus/crossposts/crosspost-738b718ac5c9.md",
+      "summary_sha256": "a330212278e1ec4187bdde8ae8009a161a94ef039f87b4efbf6cdf1a257d7b13"
+    },
+    {
+      "id": "crosspost-e084b5b865fb",
+      "published_at": "2026-10-08T14:00:30+08:00",
+      "source_url": "https://www.jianshu.com/p/e084b5b865fb",
+      "summary_path": "corpus/crossposts/crosspost-e084b5b865fb.md",
+      "summary_sha256": "33e271e38c95e7e4b6354144d1838958df20a882b92764ea9bc6de94eb3be9a8"
+    },
+    {
+      "id": "crosspost-36030f3b5b4f",
+      "published_at": "2026-10-08T13:12:03+08:00",
+      "source_url": "https://www.jianshu.com/p/36030f3b5b4f",
+      "summary_path": "corpus/crossposts/crosspost-36030f3b5b4f.md",
+      "summary_sha256": "75787fa3f42de8d4c826d99d14d15229ff33ff052d760ba5a105545305f6720b"
+    },
+    {
+      "id": "crosspost-922b615c0dca",
+      "published_at": "2026-09-30T15:28:03+08:00",
+      "source_url": "https://www.jianshu.com/p/922b615c0dca",
+      "summary_path": "corpus/crossposts/crosspost-922b615c0dca.md",
+      "summary_sha256": "19529da2f8be54dd8ac1aeee4a25ab8d073c7ea0b94c06278a62db88cd58767b"
+    },
+    {
+      "id": "crosspost-5ba2541e6eab",
+      "published_at": "2026-09-29T14:04:27+08:00",
+      "source_url": "https://www.jianshu.com/p/5ba2541e6eab",
+      "summary_path": "corpus/crossposts/crosspost-5ba2541e6eab.md",
+      "summary_sha256": "7cf85d7c4a4236d670c88a4a704e556caa6de71d0b3f4c2de7b81cc66ff51a06"
+    },
+    {
+      "id": "crosspost-e77a4dd99826",
+      "published_at": "2026-09-24T14:18:41+08:00",
+      "source_url": "https://www.jianshu.com/p/e77a4dd99826",
+      "summary_path": "corpus/crossposts/crosspost-e77a4dd99826.md",
+      "summary_sha256": "39ed9620f816742522b0a2efff7e38a37aabe5ebfbd8781c585ee8d782b22605"
+    },
+    {
+      "id": "crosspost-3fd7006bb17e",
+      "published_at": "2026-09-22T16:14:04+08:00",
+      "source_url": "https://www.jianshu.com/p/3fd7006bb17e",
+      "summary_path": "corpus/crossposts/crosspost-3fd7006bb17e.md",
+      "summary_sha256": "6a26ee0f7de19590d703f093dd24a38ec29582d92e798b35e9337ebd8fd0cf56"
+    },
+    {
+      "id": "crosspost-c4b989ddcb97",
+      "published_at": "2026-09-21T13:47:29+08:00",
+      "source_url": "https://www.jianshu.com/p/c4b989ddcb97",
+      "summary_path": "corpus/crossposts/crosspost-c4b989ddcb97.md",
+      "summary_sha256": "47be98ccacc32f1f149225a033103ddbd1ca8be1654b94049a5bcab938ed51ea"
+    },
+    {
+      "id": "crosspost-f564f0cbf322",
+      "published_at": "2026-09-20T14:36:41+08:00",
+      "source_url": "https://www.jianshu.com/p/f564f0cbf322",
+      "summary_path": "corpus/crossposts/crosspost-f564f0cbf322.md",
+      "summary_sha256": "f25894166f1392267aada353e30b5be3ed3d2b4fd523fd6264956b6dfd0ce283"
+    },
+    {
+      "id": "crosspost-0bc6c32e76b2",
+      "published_at": "2026-09-18T13:53:18+08:00",
+      "source_url": "https://www.jianshu.com/p/0bc6c32e76b2",
+      "summary_path": "corpus/crossposts/crosspost-0bc6c32e76b2.md",
+      "summary_sha256": "ba95144cec574e5cce50b61085cc51b7089b2e66004fafa19a37b9deefe1cdba"
+    },
+    {
+      "id": "crosspost-597f621e460b",
+      "published_at": "2026-09-17T13:45:28+08:00",
+      "source_url": "https://www.jianshu.com/p/597f621e460b",
+      "summary_path": "corpus/crossposts/crosspost-597f621e460b.md",
+      "summary_sha256": "158925e862e15fc987f4fbbcf2cc979f2e34dd258b43eeb9325ab6532e2b0751"
+    },
+    {
+      "id": "crosspost-eb67583f5401",
+      "published_at": "2026-09-15T13:46:00+08:00",
+      "source_url": "https://www.jianshu.com/p/eb67583f5401",
+      "summary_path": "corpus/crossposts/crosspost-eb67583f5401.md",
+      "summary_sha256": "e0dbec911948a99fbaec47c1a5afaceb6108f34b54a4a22d6bb5b48f5d284f7e"
     }
   ]
 }
