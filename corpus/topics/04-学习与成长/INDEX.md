@@ -1,0 +1,127 @@
+# 学习与成长
+
+学习、阅读、教育、认知、能力、习惯与个人进步。
+
+条目数：**117**（公众号原文 68；简书摘要 4；简书目录卡 45）。
+
+分类是导航建议，依据标题及可用的分析摘要/列表导语；低置信条目集中在‘综合与待复核’。涉及具体判断时仍应打开原文和分析卡。
+
+## 内容清单
+
+- 2026-10-10 · [简书摘要](../../crossposts/crosspost-ef1074719af0.md) · 读书本身并不会获得奖励
+- 2026-10-09 · [简书摘要](../../crossposts/crosspost-fca91404300e.md) · AI时代最缺的两种能力
+- 2026-09-30 · [简书摘要](../../crossposts/crosspost-922b615c0dca.md) · 你的成长不够快，只有一个原因
+- 2026-09-20 · [简书摘要](../../crossposts/crosspost-f564f0cbf322.md) · 人进步最快的方式是什么？
+- 2026-07-29 · [公众号原文](../../articles/wxmp-9fe84a751a494ddb2e25.md) · [分析卡](../../analysis/wxmp-9fe84a751a494ddb2e25.md) · 如何治好你的拖延症？
+- 2026-07-28 · [简书目录卡](../../jianshu_archive/jianshu-3ae1e8a7914b.md) · 王虹邓煜就算不上大学，也会很牛
+- 2026-07-10 · [公众号原文](../../articles/wxmp-3eaed81acc478b850800.md) · [分析卡](../../analysis/wxmp-3eaed81acc478b850800.md) · 为什么书中并没有黄金屋？
+- 2026-06-05 · [公众号原文](../../articles/wxmp-4502a654655e4c835528.md) · [分析卡](../../analysis/wxmp-4502a654655e4c835528.md) · “捞女课程”为什么那么火？
+- 2026-05-15 · [公众号原文](../../articles/wxmp-2264467e296197accd23.md) · [分析卡](../../analysis/wxmp-2264467e296197accd23.md) · 一直很努力，为什么没有结果？
+- 2026-05-14 · [公众号原文](../../articles/wxmp-9ab55a6fe70e74b91d6f.md) · [分析卡](../../analysis/wxmp-9ab55a6fe70e74b91d6f.md) · 为什么你会反复犯同一个错？
+- 2026-05-09 · [公众号原文](../../articles/wxmp-70e468038ab1f713ba2c.md) · [分析卡](../../analysis/wxmp-70e468038ab1f713ba2c.md) · 读书健身见人对不对？
+- 2026-05-08 · [公众号原文](../../articles/wxmp-1d0d464c91f19816cea4.md) · [分析卡](../../analysis/wxmp-1d0d464c91f19816cea4.md) · 为什么道比术更重要？
+- 2026-04-29 · [公众号原文](../../articles/wxmp-5895b21a8d3532e0fef0.md) · [分析卡](../../analysis/wxmp-5895b21a8d3532e0fef0.md) · 努力不一定有结果，你得一直努力才行
+- 2026-04-22 · [公众号原文](../../articles/wxmp-aa65989ebe8b892b44d2.md) · [分析卡](../../analysis/wxmp-aa65989ebe8b892b44d2.md) · 为什么你的学习没有用？
+- 2026-04-14 · [公众号原文](../../articles/wxmp-81b98411d994ec250445.md) · [分析卡](../../analysis/wxmp-81b98411d994ec250445.md) · 普通人能不能成为张雪？
+- 2026-04-07 · [公众号原文](../../articles/wxmp-309ee880b93818de4576.md) · [分析卡](../../analysis/wxmp-309ee880b93818de4576.md) · 成功人士的话，该不该听？
+- 2026-02-28 · [公众号原文](../../articles/wxmp-098736543fb03340fd5b.md) · [分析卡](../../analysis/wxmp-098736543fb03340fd5b.md) · 越“聪明”的人，越容易输钱
+- 2026-02-14 · [公众号原文](../../articles/wxmp-0b65ed6c83bef6d2046d.md) · [分析卡](../../analysis/wxmp-0b65ed6c83bef6d2046d.md) · 这个时代最悲哀的是什么？
+- 2026-01-29 · [公众号原文](../../articles/wxmp-88d31cc0e216ee550116.md) · [分析卡](../../analysis/wxmp-88d31cc0e216ee550116.md) · 未来人最需要的能力
+- 2026-01-15 · [公众号原文](../../articles/wxmp-562988ec396b64d3a9bd.md) · [分析卡](../../analysis/wxmp-562988ec396b64d3a9bd.md) · 不是所有事情，都值得一做
+- 2025-12-23 · [公众号原文](../../articles/wxmp-fd827650c9a9eb29df48.md) · [分析卡](../../analysis/wxmp-fd827650c9a9eb29df48.md) · 如何避免成为“高认知穷人”？
+- 2025-12-15 · [公众号原文](../../articles/wxmp-f59f757fb32d43885447.md) · [分析卡](../../analysis/wxmp-f59f757fb32d43885447.md) · 王石像不像那个三好学生？
+- 2025-12-12 · [公众号原文](../../articles/wxmp-20865e3f700727c6ef3e.md) · [分析卡](../../analysis/wxmp-20865e3f700727c6ef3e.md) · 奸商其实并不聪明
+- 2025-12-01 · [公众号原文](../../articles/wxmp-7f1bfb488a800cad74e4.md) · [分析卡](../../analysis/wxmp-7f1bfb488a800cad74e4.md) · 有很多人嫉妒你，怎么办？
+- 2025-10-10 · [公众号原文](../../articles/wxmp-22c03329abadb7577772.md) · [分析卡](../../analysis/wxmp-22c03329abadb7577772.md) · 你做事的密度太低了
+- 2025-09-29 · [简书目录卡](../../jianshu_archive/jianshu-b0fb1b7d505f.md) · 力工思维被永久地下架了
+- 2025-08-26 · [公众号原文](../../articles/wxmp-845514ffcbd8c812f49d.md) · [分析卡](../../analysis/wxmp-845514ffcbd8c812f49d.md) · 成功的背后是什么？
+- 2025-08-07 · [公众号原文](../../articles/wxmp-c9729e8d25dce3ff0926.md) · [分析卡](../../analysis/wxmp-c9729e8d25dce3ff0926.md) · 成功的天时地利人和
+- 2025-08-05 · [公众号原文](../../articles/wxmp-8f7e06f4e64ff747e09e.md) · [分析卡](../../analysis/wxmp-8f7e06f4e64ff747e09e.md) · 当代大学生的出路：要么升维，要么降维
+- 2025-07-18 · [公众号原文](../../articles/wxmp-14a82ed7da0f67eae797.md) · [分析卡](../../analysis/wxmp-14a82ed7da0f67eae797.md) · 风险厌恶是一种病
+- 2025-07-09 · [公众号原文](../../articles/wxmp-16940cf11b50edf72a33.md) · [分析卡](../../analysis/wxmp-16940cf11b50edf72a33.md) · 为什么有些人一毕业就不行了？
+- 2025-06-10 · [公众号原文](../../articles/wxmp-c5b8c8db3a46f335427b.md) · [分析卡](../../analysis/wxmp-c5b8c8db3a46f335427b.md) · 不懂不投，对不对？
+- 2025-06-04 · [公众号原文](../../articles/wxmp-0901d636179693526604.md) · [分析卡](../../analysis/wxmp-0901d636179693526604.md) · 读书是不是无用了？
+- 2025-05-29 · [公众号原文](../../articles/wxmp-0015e2f747fc8b0aaed2.md) · [分析卡](../../analysis/wxmp-0015e2f747fc8b0aaed2.md) · 越逃避困难，你就会越困难
+- 2025-05-23 · [公众号原文](../../articles/wxmp-57bdf954ebfa49c195f3.md) · [分析卡](../../analysis/wxmp-57bdf954ebfa49c195f3.md) · 每天进步一点点，哪里不对？
+- 2025-05-07 · [公众号原文](../../articles/wxmp-c468a414869d42576e2d.md) · [分析卡](../../analysis/wxmp-c468a414869d42576e2d.md) · 一帆风顺，才是最大的问题
+- 2025-04-27 · [公众号原文](../../articles/wxmp-b61e99e939859374b7c4.md) · [分析卡](../../analysis/wxmp-b61e99e939859374b7c4.md) · 人和人的分层，就是做对了一两件重要的事
+- 2025-04-23 · [公众号原文](../../articles/wxmp-750c37e37f77ea82ff89.md) · [分析卡](../../analysis/wxmp-750c37e37f77ea82ff89.md) · 很努力是不够的
+- 2025-03-24 · [公众号原文](../../articles/wxmp-3e2990d12e4d758681a9.md) · [分析卡](../../analysis/wxmp-3e2990d12e4d758681a9.md) · 如何正确学习巴菲特？
+- 2025-02-20 · [公众号原文](../../articles/wxmp-f70b6437fe601a1bc0dc.md) · [分析卡](../../analysis/wxmp-f70b6437fe601a1bc0dc.md) · 为什么王兴兴说顶尖学校不过如此？
+- 2025-02-10 · [公众号原文](../../articles/wxmp-3ac5e9d94e0f14eed6db.md) · [分析卡](../../analysis/wxmp-3ac5e9d94e0f14eed6db.md) · 暴富靠的是什么？
+- 2025-02-07 · [公众号原文](../../articles/wxmp-1ad5e772242eb0d2fa1b.md) · [分析卡](../../analysis/wxmp-1ad5e772242eb0d2fa1b.md) · 如何才能不返贫？
+- 2024-12-09 · [公众号原文](../../articles/wxmp-63ac88affe798f832627.md) · [分析卡](../../analysis/wxmp-63ac88affe798f832627.md) · 如何做一个更有价值的人？
+- 2024-11-28 · [公众号原文](../../articles/wxmp-2a4b2a199a1e703e6fbe.md) · [分析卡](../../analysis/wxmp-2a4b2a199a1e703e6fbe.md) · 你的失败，在于顶层设计出了问题
+- 2024-11-27 · [公众号原文](../../articles/wxmp-c6a357de302e1ce27735.md) · [分析卡](../../analysis/wxmp-c6a357de302e1ce27735.md) · 你讨厌羊毛月和吴柳芳什么？
+- 2024-11-26 · [公众号原文](../../articles/wxmp-06bb71344ae55e347ea8.md) · [分析卡](../../analysis/wxmp-06bb71344ae55e347ea8.md) · 什么是更高级的思维？
+- 2024-10-27 · [公众号原文](../../articles/wxmp-b14289134a48b5148478.md) · [分析卡](../../analysis/wxmp-b14289134a48b5148478.md) · PackEX的迭代与思考
+- 2024-09-06 · [公众号原文](../../articles/wxmp-96e10697ceb0aeb0fcf2.md) · [分析卡](../../analysis/wxmp-96e10697ceb0aeb0fcf2.md) · 清北的毕业证，和清北的学习，你选哪个？
+- 2024-09-04 · [公众号原文](../../articles/wxmp-8a8434862d282aeba6c5.md) · [分析卡](../../analysis/wxmp-8a8434862d282aeba6c5.md) · 好学校到底有没有用？
+- 2024-08-08 · [公众号原文](../../articles/wxmp-f723b23f35693edb0b73.md) · [分析卡](../../analysis/wxmp-f723b23f35693edb0b73.md) · 你是不是高认知穷人？
+- 2024-07-16 · [公众号原文](../../articles/wxmp-4c3a4dc1199e6b06e194.md) · [分析卡](../../analysis/wxmp-4c3a4dc1199e6b06e194.md) · 高手都是怎么死的？
+- 2024-07-15 · [公众号原文](../../articles/wxmp-b2a37f4f512a76f8e6ab.md) · [分析卡](../../analysis/wxmp-b2a37f4f512a76f8e6ab.md) · 穷是因为你的操作系统错了
+- 2024-07-10 · [公众号原文](../../articles/wxmp-cd256bdcb1da59241a72.md) · [分析卡](../../analysis/wxmp-cd256bdcb1da59241a72.md) · 没有人会给学历兜底了
+- 2024-07-09 · [公众号原文](../../articles/wxmp-45f09c6c7c06de1b1c04.md) · [分析卡](../../analysis/wxmp-45f09c6c7c06de1b1c04.md) · 司机就是新时代的人力车夫
+- 2024-07-04 · [公众号原文](../../articles/wxmp-f1dee56d7bce2cc238dc.md) · [分析卡](../../analysis/wxmp-f1dee56d7bce2cc238dc.md) · 为什么你永远没有机会？
+- 2024-07-03 · [公众号原文](../../articles/wxmp-47ab063adda124a2094e.md) · [分析卡](../../analysis/wxmp-47ab063adda124a2094e.md) · 你信不信姜萍？
+- 2024-06-24 · [公众号原文](../../articles/wxmp-ba2ab75172b77968da20.md) · [分析卡](../../analysis/wxmp-ba2ab75172b77968da20.md) · 学历到底还是不是门槛？
+- 2024-06-13 · [公众号原文](../../articles/wxmp-f5d576ab50f3ad90cd04.md) · [分析卡](../../analysis/wxmp-f5d576ab50f3ad90cd04.md) · 人才不是培养出来的
+- 2024-06-06 · [公众号原文](../../articles/wxmp-1364be5a41f07ee5554b.md) · [分析卡](../../analysis/wxmp-1364be5a41f07ee5554b.md) · 为什么总有人觉得高考很重要？
+- 2024-06-04 · [公众号原文](../../articles/wxmp-da252c7ee11173c4b023.md) · [分析卡](../../analysis/wxmp-da252c7ee11173c4b023.md) · 为什么不能对底层人太好？
+- 2024-05-24 · [公众号原文](../../articles/wxmp-118cb8e2e4bc3e3e4c65.md) · [分析卡](../../analysis/wxmp-118cb8e2e4bc3e3e4c65.md) · 学习成绩可能未必有那么重要
+- 2024-05-14 · [公众号原文](../../articles/wxmp-3a80604c1e3cb958d087.md) · [分析卡](../../analysis/wxmp-3a80604c1e3cb958d087.md) · 读书还能改变命运吗？
+- 2024-04-28 · [公众号原文](../../articles/wxmp-59deac9e867ad62293c7.md) · [分析卡](../../analysis/wxmp-59deac9e867ad62293c7.md) · 你应该去赢一次
+- 2024-04-07 · [公众号原文](../../articles/wxmp-4f75c68d504881238cb1.md) · [分析卡](../../analysis/wxmp-4f75c68d504881238cb1.md) · 虐过猫为什么不能录取研究生？
+- 2024-03-19 · [公众号原文](../../articles/wxmp-ba9ed4405f6c4dd43b5a.md) · [分析卡](../../analysis/wxmp-ba9ed4405f6c4dd43b5a.md) · 只会“卷”的都是傻子
+- 2024-03-04 · [公众号原文](../../articles/wxmp-dbbfc0397ed3a959787e.md) · [分析卡](../../analysis/wxmp-dbbfc0397ed3a959787e.md) · 什么是高维认知？
+- 2024-02-23 · [简书目录卡](../../jianshu_archive/jianshu-6c1c47567614.md) · 为什么成年人只筛选不教育？
+- 2024-02-17 · [公众号原文](../../articles/wxmp-9147fccfd84b3e3d3b3f.md) · [分析卡](../../analysis/wxmp-9147fccfd84b3e3d3b3f.md) · 成功就是在一条道上走到黑
+- 2024-01-12 · [公众号原文](../../articles/wxmp-6d6085fd96510b94ee90.md) · [分析卡](../../analysis/wxmp-6d6085fd96510b94ee90.md) · 得罪了大佬怎么办？
+- 2023-10-27 · [公众号原文](../../articles/wxmp-09b4a7051cf4c2c453a1.md) · [分析卡](../../analysis/wxmp-09b4a7051cf4c2c453a1.md) · 看破成年人的谎言，你才能成长
+- 2023-09-25 · [公众号原文](../../articles/wxmp-23875da75b94670fecb6.md) · [分析卡](../../analysis/wxmp-23875da75b94670fecb6.md) · 竞技体育的重点是什么？
+- 2023-09-22 · [简书目录卡](../../jianshu_archive/jianshu-895a2fdf4a11.md) · 穷小孩都有哪些思维局限？
+- 2023-09-06 · [公众号原文](../../articles/wxmp-9a3e004093ea7d579c6c.md) · [分析卡](../../analysis/wxmp-9a3e004093ea7d579c6c.md) · 信息茧房是谁的错？
+- 2023-08-31 · [公众号原文](../../articles/wxmp-f6c85757e0227f9d8cf2.md) · [分析卡](../../analysis/wxmp-f6c85757e0227f9d8cf2.md) · 这个时代下，普通人该何去何从？
+- 2023-08-29 · [公众号原文](../../articles/wxmp-05e67381f9703a60b2c2.md) · [分析卡](../../analysis/wxmp-05e67381f9703a60b2c2.md) · 请抛弃副业的概念
+- 2023-07-24 · [公众号原文](../../articles/wxmp-3a84bc816a61b4d91b1b.md) · [分析卡](../../analysis/wxmp-3a84bc816a61b4d91b1b.md) · 别在底层逗留太久
+- 2023-06-27 · [简书目录卡](../../jianshu_archive/jianshu-390eebd509b2.md) · 在不自律中成功
+- 2023-05-23 · [简书目录卡](../../jianshu_archive/jianshu-8d6084861d6b.md) · 你会为知识付多少钱？
+- 2023-03-28 · [简书目录卡](../../jianshu_archive/jianshu-ab040fe2e3a0.md) · 你为什么不够自律？看这篇就够了。
+- 2023-03-16 · [简书目录卡](../../jianshu_archive/jianshu-8dca36285a17.md) · 考研的性价比
+- 2023-02-17 · [简书目录卡](../../jianshu_archive/jianshu-0a0f918dbf91.md) · 为什么买知识付费的课没卵用？
+- 2022-12-07 · [简书目录卡](../../jianshu_archive/jianshu-d3c67a928abf.md) · 为什么只会努力干活没有用？
+- 2022-11-14 · [简书目录卡](../../jianshu_archive/jianshu-3892383b978c.md) · 为什么上进的人总显得格格不入？
+- 2022-11-03 · [简书目录卡](../../jianshu_archive/jianshu-fce79ea82312.md) · 资本主义的马老师，也是马老师
+- 2022-10-09 · [简书目录卡](../../jianshu_archive/jianshu-5396520695b4.md) · 怎么才能让别人不嫉妒你
+- 2022-09-28 · [简书目录卡](../../jianshu_archive/jianshu-a17cdd24769e.md) · 为什么不能全职考公？
+- 2022-09-16 · [简书目录卡](../../jianshu_archive/jianshu-1f8a5dc6d36d.md) · 人力思维和机器思维
+- 2022-08-12 · [简书目录卡](../../jianshu_archive/jianshu-1cbe1ce34f66.md) · 世上不存在真正自律的人
+- 2022-07-14 · [简书目录卡](../../jianshu_archive/jianshu-56da89f4b2f0.md) · 为什么有些努力没有回报？
+- 2022-04-08 · [简书目录卡](../../jianshu_archive/jianshu-26f5d0ec5fa6.md) · 有效内卷——时代的进步
+- 2021-09-13 · [简书目录卡](../../jianshu_archive/jianshu-87360cf2e118.md) · 年入百万有多难？
+- 2020-07-16 · [简书目录卡](../../jianshu_archive/jianshu-c0c96bcd0629.md) · 蔡垒磊：强迫孩子学习，到底是对是错？
+- 2020-07-01 · [简书目录卡](../../jianshu_archive/jianshu-bbdc60ab20c1.md) · 蔡垒磊：高考700分和700万，你选哪个？
+- 2020-06-12 · [简书目录卡](../../jianshu_archive/jianshu-245a5d0d9e85.md) · 蔡垒磊：成都女大学生毕业典礼砍人：太多人，毁在“脾气好”上了
+- 2020-06-11 · [简书目录卡](../../jianshu_archive/jianshu-e010068bc0c4.md) · 蔡垒磊：中北大学考生跳楼自杀，谁该为死者负责？
+- 2020-04-23 · [简书目录卡](../../jianshu_archive/jianshu-2ffc3437af1c.md) · 蔡垒磊：世界读书日，你读书了吗？
+- 2020-04-10 · [简书目录卡](../../jianshu_archive/jianshu-df13e5073a00.md) · 蔡垒磊：知识付费割了谁的韭菜？
+- 2019-06-13 · [简书目录卡](../../jianshu_archive/jianshu-321983bb4128.md) · 蔡垒磊：高考和爹，哪个更重要？
+- 2019-05-16 · [简书目录卡](../../jianshu_archive/jianshu-27c899027928.md) · 蔡垒磊：如何瞬间提高孩子的学习成绩？
+- 2019-02-21 · [简书目录卡](../../jianshu_archive/jianshu-707b772cefd1.md) · 蔡垒磊：长文：怎样才叫三观正？
+- 2018-12-17 · [简书目录卡](../../jianshu_archive/jianshu-b662764e3492.md) · 蔡垒磊：一块屏幕能不能改变教育？
+- 2018-06-19 · [简书目录卡](../../jianshu_archive/jianshu-07d30b1e892c.md) · 蔡垒磊：高考对人生有多大的影响
+- 2017-10-27 · [简书目录卡](../../jianshu_archive/jianshu-de49a56b3e20.md) · 逐条反驳“罗振宇的骗局”，罗胖到底有没有耍流氓？
+- 2017-10-26 · [简书目录卡](../../jianshu_archive/jianshu-970fff50d694.md) · 深度解析：“人缘”是怎么来的？
+- 2017-10-13 · [简书目录卡](../../jianshu_archive/jianshu-500f357c0976.md) · 哪个混蛋说学生只要读书就行了？
+- 2017-09-29 · [简书目录卡](../../jianshu_archive/jianshu-f88054baff70.md) · “格局”系列续——如何提升自己的格局
+- 2017-09-21 · [简书目录卡](../../jianshu_archive/jianshu-5485addc4df3.md) · 做错事也得看资格
+- 2017-09-15 · [简书目录卡](../../jianshu_archive/jianshu-393a1d504935.md) · 请停止无效努力
+- 2017-09-01 · [简书目录卡](../../jianshu_archive/jianshu-8934853f21b7.md) · 打工思维和老板思维，究竟差在了哪里？
+- 2017-08-29 · [简书目录卡](../../jianshu_archive/jianshu-62c0b0e7a104.md) · 学历高就叫有知识了？naive！
+- 2017-08-11 · [简书目录卡](../../jianshu_archive/jianshu-74a69cb24366.md) · 一个贫困生的自白
+- 2017-08-03 · [简书目录卡](../../jianshu_archive/jianshu-674c6d381653.md) · 精英思维，到底是怎样的思维？
+- 2016-06-11 · [简书目录卡](../../jianshu_archive/jianshu-557853a54fe2.md) · 浙江高考0分作文：虚拟与现实
+- 2016-05-09 · [简书目录卡](../../jianshu_archive/jianshu-3089cec76cb5.md) · 99%的人都能更“聪明”，看了本文的你也不例外
+- 2016-05-03 · [简书目录卡](../../jianshu_archive/jianshu-31c911b42193.md) · 蔡垒磊：“学习”这件事，你为何无法坚持下来
+- 2016-04-20 · [简书目录卡](../../jianshu_archive/jianshu-52643985bcb4.md) · 蔡垒磊：有独来独往的能力，方有忠于自己的底气
+- 2016-04-14 · [简书目录卡](../../jianshu_archive/jianshu-fc35722726e9.md) · 蔡垒磊：那些无法一起进步的人终将远去

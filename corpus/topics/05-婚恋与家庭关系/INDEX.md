@@ -1,0 +1,144 @@
+# 婚恋与家庭关系
+
+婚恋、亲密关系、家庭、亲子、代际与日常人际交往。
+
+条目数：**134**（公众号原文 49；简书摘要 2；简书目录卡 83）。
+
+分类是导航建议，依据标题及可用的分析摘要/列表导语；低置信条目集中在‘综合与待复核’。涉及具体判断时仍应打开原文和分析卡。
+
+## 内容清单
+
+- 2026-10-08 · [简书摘要](../../crossposts/crosspost-36030f3b5b4f.md) · 如果让你穿越去你父母的年代，你能做出一番事吗？
+- 2026-09-21 · [简书摘要](../../crossposts/crosspost-c4b989ddcb97.md) · 为什么你学东西不如小孩子快？
+- 2026-08-03 · [公众号原文](../../articles/wxmp-dac4901b796fe382393d.md) · [分析卡](../../analysis/wxmp-dac4901b796fe382393d.md) · 蔡崇信离婚是为了避税吗？
+- 2026-06-26 · [公众号原文](../../articles/wxmp-852ddd3a2913a2bd7d8b.md) · [分析卡](../../analysis/wxmp-852ddd3a2913a2bd7d8b.md) · 老婆跟好朋友在一起了，怎么破？
+- 2026-06-12 · [公众号原文](../../articles/wxmp-5538725dbaa4c70e9d75.md) · [分析卡](../../analysis/wxmp-5538725dbaa4c70e9d75.md) · 为什么东亚家庭里，没有爱和尊重？
+- 2026-05-20 · [公众号原文](../../articles/wxmp-f5675f5ba7efa1d74709.md) · [分析卡](../../analysis/wxmp-f5675f5ba7efa1d74709.md) · 为什么在子女最需要帮助的时候，反而不帮忙？
+- 2026-05-07 · [公众号原文](../../articles/wxmp-26e5bb2fec96e04a72ce.md) · [分析卡](../../analysis/wxmp-26e5bb2fec96e04a72ce.md) · 为什么请客吃饭不流行了？
+- 2026-03-09 · [公众号原文](../../articles/wxmp-d945ecfe92349a62e02e.md) · [分析卡](../../analysis/wxmp-d945ecfe92349a62e02e.md) · 有钱人为什么要生那么多孩子？
+- 2026-03-03 · [公众号原文](../../articles/wxmp-35bd5e17be3ef961e928.md) · [分析卡](../../analysis/wxmp-35bd5e17be3ef961e928.md) · 不结婚没孩子，老了怎么办？
+- 2026-02-16 · [公众号原文](../../articles/wxmp-628f7059f7ddc1915b6a.md) · [分析卡](../../analysis/wxmp-628f7059f7ddc1915b6a.md) · 过年了收到很多祝福信息，有些是朋友发的，有些是商家发的，通常都是群发。 我其实不太建议大家群发这些东西，因为如果你是以个人的身份，群发就是所有人加起来就能让你点那么几下，根本不费工夫，自然也…
+- 2026-02-04 · [公众号原文](../../articles/wxmp-2b83b37659dc971b5943.md) · [分析卡](../../analysis/wxmp-2b83b37659dc971b5943.md) · 为什么大家都不维护关系了？
+- 2026-02-02 · [公众号原文](../../articles/wxmp-42089d1db5810d9af333.md) · [分析卡](../../analysis/wxmp-42089d1db5810d9af333.md) · 年轻人不生怎么办？
+- 2026-01-20 · [简书目录卡](../../jianshu_archive/jianshu-529c98dc7ee2.md) · 都不生孩子了，养老金还交吗？
+- 2025-09-15 · [简书目录卡](../../jianshu_archive/jianshu-b29de992b3c4.md) · 丢几个“朋友”，不要紧的
+- 2025-09-01 · [公众号原文](../../articles/wxmp-62e6b0bb8ace3016909e.md) · [分析卡](../../analysis/wxmp-62e6b0bb8ace3016909e.md) · 契约只在实力对等的时候有效
+- 2025-08-28 · [公众号原文](../../articles/wxmp-9ba1519fdff6899f5366.md) · [分析卡](../../analysis/wxmp-9ba1519fdff6899f5366.md) · 为什么你得不停地换圈子？
+- 2025-08-22 · [公众号原文](../../articles/wxmp-11164cdb81ddcab8a5ec.md) · [分析卡](../../analysis/wxmp-11164cdb81ddcab8a5ec.md) · 单身是一种巨大的优势
+- 2025-08-14 · [公众号原文](../../articles/wxmp-1e0182cea3e873a0a657.md) · [分析卡](../../analysis/wxmp-1e0182cea3e873a0a657.md) · 如何远离NPD父母？
+- 2025-04-18 · [公众号原文](../../articles/wxmp-a722389085fa81a72dcb.md) · [分析卡](../../analysis/wxmp-a722389085fa81a72dcb.md) · 你会跟穷朋友来往吗？
+- 2025-04-17 · [简书目录卡](../../jianshu_archive/jianshu-f44b30968de1.md) · 很多父母为什么干不好父母？
+- 2025-04-16 · [公众号原文](../../articles/wxmp-d969d2e0a5eba8d13f52.md) · [分析卡](../../analysis/wxmp-d969d2e0a5eba8d13f52.md) · 为什么会发生订婚强奸案？
+- 2025-04-03 · [公众号原文](../../articles/wxmp-0c9de140f67bf2820a0c.md) · [分析卡](../../analysis/wxmp-0c9de140f67bf2820a0c.md) · 川普的“对等关税”想干嘛？
+- 2025-03-25 · [公众号原文](../../articles/wxmp-0fb6c40d30485afa5208.md) · [分析卡](../../analysis/wxmp-0fb6c40d30485afa5208.md) · 什么是情绪价值？
+- 2025-03-21 · [公众号原文](../../articles/wxmp-cdd8e643f2850387d0cf.md) · [分析卡](../../analysis/wxmp-cdd8e643f2850387d0cf.md) · 只跟强者做朋友
+- 2025-01-27 · [公众号原文](../../articles/wxmp-1f73ecff4f18dd0753f2.md) · [分析卡](../../analysis/wxmp-1f73ecff4f18dd0753f2.md) · 如何拒绝被PUA？
+- 2025-01-09 · [公众号原文](../../articles/wxmp-7beb166aa2412a796126.md) · [分析卡](../../analysis/wxmp-7beb166aa2412a796126.md) · 张雪峰飘了吗？
+- 2025-01-08 · [公众号原文](../../articles/wxmp-986589bc9ab14e4a5f65.md) · [分析卡](../../analysis/wxmp-986589bc9ab14e4a5f65.md) · 谁还在被传统婚恋观洗脑？
+- 2024-12-31 · [简书目录卡](../../jianshu_archive/jianshu-5acfa22e511d.md) · 所有事情，你从这个角度想就通了
+- 2024-11-25 · [公众号原文](../../articles/wxmp-c8abc515e42f60a64a8d.md) · [分析卡](../../analysis/wxmp-c8abc515e42f60a64a8d.md) · 不婚的原因，人们还没意识到
+- 2024-11-13 · [公众号原文](../../articles/wxmp-346ab378cc28f646b618.md) · [分析卡](../../analysis/wxmp-346ab378cc28f646b618.md) · 我现在都没搞明白啥叫“精致利己”
+- 2024-09-10 · [简书目录卡](../../jianshu_archive/jianshu-87d4f664fe8a.md) · 如何让自己立于不败之地？
+- 2024-08-16 · [公众号原文](../../articles/wxmp-1737f54cf0565030deff.md) · [分析卡](../../analysis/wxmp-1737f54cf0565030deff.md) · 天价彩礼真的被解决了吗？
+- 2024-07-26 · [公众号原文](../../articles/wxmp-9bedd77492ffb9db0904.md) · [分析卡](../../analysis/wxmp-9bedd77492ffb9db0904.md) · 董宇辉终于还是跟俞敏洪分手了
+- 2024-07-17 · [公众号原文](../../articles/wxmp-6011c8ff8a5a0de5e440.md) · [分析卡](../../analysis/wxmp-6011c8ff8a5a0de5e440.md) · 为什么江西的彩礼这么高？
+- 2024-07-01 · [公众号原文](../../articles/wxmp-c9b5acdbdfb418c846b5.md) · [分析卡](../../analysis/wxmp-c9b5acdbdfb418c846b5.md) · 孝，只是底层人的权宜之计
+- 2024-05-23 · [公众号原文](../../articles/wxmp-0af8254e824e75404c45.md) · [分析卡](../../analysis/wxmp-0af8254e824e75404c45.md) · 为什么年轻人的婚姻不牢靠了？
+- 2024-05-11 · [公众号原文](../../articles/wxmp-37eca17065d6da617049.md) · [分析卡](../../analysis/wxmp-37eca17065d6da617049.md) · 普女看不上普男正常吗？
+- 2024-05-06 · [公众号原文](../../articles/wxmp-13345f84787d0396ef5a.md) · [分析卡](../../analysis/wxmp-13345f84787d0396ef5a.md) · 想要这个世界没有谭竹，必须先没有胖猫
+- 2024-04-12 · [公众号原文](../../articles/wxmp-77f324fb46a4cc25254a.md) · [分析卡](../../analysis/wxmp-77f324fb46a4cc25254a.md) · 为什么富豪大都是男人？
+- 2024-04-11 · [公众号原文](../../articles/wxmp-75b6543919b3b5224663.md) · [分析卡](../../analysis/wxmp-75b6543919b3b5224663.md) · 不婚不育的根源在哪里？
+- 2024-03-20 · [公众号原文](../../articles/wxmp-c4d5526de77478d1e31e.md) · [分析卡](../../analysis/wxmp-c4d5526de77478d1e31e.md) · 为什么女生变得现实了？
+- 2024-02-23 · [公众号原文](../../articles/wxmp-1a546d3cd945ba56dcb7.md) · [分析卡](../../analysis/wxmp-1a546d3cd945ba56dcb7.md) · 上岸为什么要斩意中人？
+- 2024-02-22 · [公众号原文](../../articles/wxmp-1592dd65db930210d3e5.md) · [分析卡](../../analysis/wxmp-1592dd65db930210d3e5.md) · 为了家庭牺牲事业，真的没那么伟大
+- 2024-02-09 · [公众号原文](../../articles/wxmp-7137e83b19ecbfe0bdb0.md) · [分析卡](../../analysis/wxmp-7137e83b19ecbfe0bdb0.md) · 为什么婚后更容易摆烂？
+- 2024-01-19 · [公众号原文](../../articles/wxmp-84f60f980130ac2805e5.md) · [分析卡](../../analysis/wxmp-84f60f980130ac2805e5.md) · 没了彩礼，结婚率会更惨你信不信？
+- 2024-01-13 · [公众号原文](../../articles/wxmp-9ec7e44df2bfe7d47e88.md) · [分析卡](../../analysis/wxmp-9ec7e44df2bfe7d47e88.md) · 推荐一本朋友的新书
+- 2024-01-08 · [公众号原文](../../articles/wxmp-90697b8fe680d7e835c8.md) · [分析卡](../../analysis/wxmp-90697b8fe680d7e835c8.md) · 催婚和催生的都沉默了
+- 2023-12-04 · [公众号原文](../../articles/wxmp-d0fed88aef0e03475f3b.md) · [分析卡](../../analysis/wxmp-d0fed88aef0e03475f3b.md) · 为什么国家要反对高价彩礼？
+- 2023-11-28 · [公众号原文](../../articles/wxmp-eafa5b5395c20629a6a9.md) · [分析卡](../../analysis/wxmp-eafa5b5395c20629a6a9.md) · 必须结婚的共识已破
+- 2023-11-09 · [公众号原文](../../articles/wxmp-2d582413bf8e3ef779a9.md) · [分析卡](../../analysis/wxmp-2d582413bf8e3ef779a9.md) · 富人为什么喜欢生孩子？
+- 2023-10-11 · [公众号原文](../../articles/wxmp-b179afb8cc71aa2cbd08.md) · [分析卡](../../analysis/wxmp-b179afb8cc71aa2cbd08.md) · 董宇辉回老家为什么没人理？
+- 2023-10-10 · [公众号原文](../../articles/wxmp-4fcfd40fc14454bbaf3f.md) · [分析卡](../../analysis/wxmp-4fcfd40fc14454bbaf3f.md) · 每对夫妻都得离一次婚
+- 2023-09-28 · [公众号原文](../../articles/wxmp-7ac87fd2fc947841d7d9.md) · [分析卡](../../analysis/wxmp-7ac87fd2fc947841d7d9.md) · 生孩子就能让国家强大吗？
+- 2023-08-24 · [简书目录卡](../../jianshu_archive/jianshu-4e9ac110fb5c.md) · 婚姻是一次可以明抢的机会
+- 2023-08-24 · [公众号原文](../../articles/wxmp-5e432c633bbab55dc364.md) · [分析卡](../../analysis/wxmp-5e432c633bbab55dc364.md) · 婚姻是一张合法的均富卡
+- 2023-08-02 · [简书目录卡](../../jianshu_archive/jianshu-1cc0573ba6a1.md) · 结婚后，你的价值变得再高，对方也只会觉得“还行”
+- 2023-08-02 · [公众号原文](../../articles/wxmp-cba20140608477d15caf.md) · [分析卡](../../analysis/wxmp-cba20140608477d15caf.md) · 爱情是成品和成品之间的交易
+- 2023-07-20 · [公众号原文](../../articles/wxmp-7954dc4f78297eb77b65.md) · [分析卡](../../analysis/wxmp-7954dc4f78297eb77b65.md) · 生孩子的资格
+- 2023-07-12 · [简书目录卡](../../jianshu_archive/jianshu-80b399ed8b51.md) · 又来了......催婚催生......年轻人到底要怎么反抗？
+- 2023-06-16 · [简书目录卡](../../jianshu_archive/jianshu-4f911ca4edba.md) · 男人的寿命只有30岁
+- 2023-05-31 · [简书目录卡](../../jianshu_archive/jianshu-4e85a15541dd.md) · 彩礼为什么会有争议？
+- 2023-05-26 · [简书目录卡](../../jianshu_archive/jianshu-7b55a971f31e.md) · 什么时候才能逃避竞争？
+- 2023-03-17 · [简书目录卡](../../jianshu_archive/jianshu-b26ac49a51f7.md) · 为什么凤凰男发迹后大概率会离婚？
+- 2023-03-14 · [简书目录卡](../../jianshu_archive/jianshu-b9114fde09fa.md) · 土著女生的劣势
+- 2023-03-03 · [简书目录卡](../../jianshu_archive/jianshu-751cc1d1cbd2.md) · 高三女生百日誓师演讲为何被网暴？
+- 2023-02-07 · [简书目录卡](../../jianshu_archive/jianshu-14fce03c4a37.md) · 婚姻，爱情，性
+- 2023-02-01 · [简书目录卡](../../jianshu_archive/jianshu-7e4bfe4c85c3.md) · 恋爱就必须奔着结婚去吗？
+- 2023-01-19 · [简书目录卡](../../jianshu_archive/jianshu-1762acdffe83.md) · 孩子的压岁钱到底是谁的？
+- 2023-01-12 · [简书目录卡](../../jianshu_archive/jianshu-45ddff2d5758.md) · 到年龄了要不要结婚生子？
+- 2023-01-10 · [简书目录卡](../../jianshu_archive/jianshu-511eb755ea48.md) · 夫妻相处，本质上也是一种交换
+- 2022-12-12 · [简书目录卡](../../jianshu_archive/jianshu-594cfef0a93a.md) · 顶级男人最需要的另一半，是母亲
+- 2022-12-06 · [简书目录卡](../../jianshu_archive/jianshu-a0c14d51fdf1.md) · 婚姻永远是两个人的事
+- 2022-12-05 · [简书目录卡](../../jianshu_archive/jianshu-cdb5fdaf8039.md) · 如果你的朋友还是那些，就说明你在原地踏步
+- 2022-11-25 · [简书目录卡](../../jianshu_archive/jianshu-f570e90985e4.md) · 不结婚可能是大势所趋
+- 2022-11-23 · [简书目录卡](../../jianshu_archive/jianshu-7e15fa6fe6a2.md) · 男人装逼是要吃大亏的
+- 2022-11-11 · [简书目录卡](../../jianshu_archive/jianshu-844d938262b1.md) · 为什么会有出轨？
+- 2022-11-04 · [简书目录卡](../../jianshu_archive/jianshu-69b66901b573.md) · 为什么这么多人痛生原声家庭？
+- 2022-10-25 · [简书目录卡](../../jianshu_archive/jianshu-cb6792f44e6d.md) · 为什么有的父母很爱孩子，有的不是？
+- 2022-10-24 · [简书目录卡](../../jianshu_archive/jianshu-41aff545aa3f.md) · 穷人家孩子的唯一出路
+- 2022-10-08 · [简书目录卡](../../jianshu_archive/jianshu-82f68e581704.md) · 男人还是得有钱
+- 2022-09-23 · [简书目录卡](../../jianshu_archive/jianshu-cb275aca0ce6.md) · 人际交往的10条基础原则
+- 2022-09-20 · [简书目录卡](../../jianshu_archive/jianshu-25270cde0615.md) · 《我的县长父亲》被删才是真魔幻
+- 2022-08-19 · [简书目录卡](../../jianshu_archive/jianshu-7d02e3642e15.md) · 为什么你没有能借大钱的朋友？
+- 2022-05-19 · [简书目录卡](../../jianshu_archive/jianshu-a5c4f2ad4a2a.md) · 朋友就是“合则来，不合则去”
+- 2022-03-07 · [简书目录卡](../../jianshu_archive/jianshu-fe99d5443090.md) · 要不要多生孩子？
+- 2022-03-02 · [简书目录卡](../../jianshu_archive/jianshu-8e8dd565fc5a.md) · 为什么说男孩要穷养，女孩要富养？
+- 2022-02-17 · [简书目录卡](../../jianshu_archive/jianshu-58bf982982d7.md) · 收下彩礼，代表什么意思？
+- 2022-02-09 · [简书目录卡](../../jianshu_archive/jianshu-11f7dc124cd9.md) · 恋爱、婚姻、打车和NFT
+- 2021-10-12 · [简书目录卡](../../jianshu_archive/jianshu-faa7cfed70d0.md) · 农村单身男青年问题，从来都是无解
+- 2021-07-20 · [简书目录卡](../../jianshu_archive/jianshu-327cfbe6758d.md) · 深圳女孩为什么热衷于搞钱？
+- 2020-10-29 · [简书目录卡](../../jianshu_archive/jianshu-e850cda4a0b8.md) · 彩礼和嫁妆，有没有必要存在？
+- 2020-10-21 · [简书目录卡](../../jianshu_archive/jianshu-595c1bbe3b33.md) · 为什么年轻人不愿生孩子？
+- 2020-09-01 · [简书目录卡](../../jianshu_archive/jianshu-82a619901df4.md) · 只有20万存款，够结婚了吗？
+- 2020-08-18 · [简书目录卡](../../jianshu_archive/jianshu-4a073774baa6.md) · 蔡垒磊：谁才是你的真朋友？
+- 2020-08-12 · [简书目录卡](../../jianshu_archive/jianshu-e497ba37360d.md) · 为什么那些一心嫁入豪门的女孩失败了？
+- 2020-08-03 · [简书目录卡](../../jianshu_archive/jianshu-2fa43aaf9ab8.md) · 那些出轨的男人们，都在想什么？
+- 2020-07-04 · [简书目录卡](../../jianshu_archive/jianshu-fff8b48db39a.md) · 蔡垒磊：5年的感情和8万块彩礼
+- 2020-06-01 · [简书目录卡](../../jianshu_archive/jianshu-137df2fbfb0e.md) · 蔡垒磊：要不要砸锅卖铁培养孩子？
+- 2020-05-02 · [简书目录卡](../../jianshu_archive/jianshu-f0beeb48d5ca.md) · 蔡垒磊：检查男/女朋友手机，可以吗？
+- 2020-04-16 · [简书目录卡](../../jianshu_archive/jianshu-4131a4264887.md) · 蔡垒磊：你的社交性价比有多少？
+- 2019-12-13 · [简书目录卡](../../jianshu_archive/jianshu-c70cd703392b.md) · 蔡垒磊：解除情感的羁绊，PUA们才无机可乘
+- 2019-11-07 · [简书目录卡](../../jianshu_archive/jianshu-2aa1af574ac2.md) · 蔡垒磊：滴滴有没有歧视女性？
+- 2019-07-04 · [简书目录卡](../../jianshu_archive/jianshu-4fc72ce285e5.md) · 蔡垒磊：为什么男性的数量比女性多？
+- 2019-04-19 · [简书目录卡](../../jianshu_archive/jianshu-4be68922a881.md) · 蔡垒磊：霸凌孩子的不一定是孩子
+- 2019-03-21 · [简书目录卡](../../jianshu_archive/jianshu-4897754f288a.md) · 蔡垒磊：孩子犯错能不能打
+- 2019-03-19 · [简书目录卡](../../jianshu_archive/jianshu-da572cb0aeff.md) · 蔡垒磊：再贵的学区房，也救不了你的孩子
+- 2019-03-06 · [简书目录卡](../../jianshu_archive/jianshu-24c0f0bd2429.md) · 蔡垒磊：孩子的教育是谁的事
+- 2019-01-29 · [简书目录卡](../../jianshu_archive/jianshu-fc26c5410343.md) · 蔡垒磊：父母为什么要催婚和催生
+- 2019-01-21 · [简书目录卡](../../jianshu_archive/jianshu-6f3ad34beb94.md) · 蔡垒磊：吴秀波的分手费
+- 2018-12-20 · [简书目录卡](../../jianshu_archive/jianshu-2220cd5025e9.md) · 蔡垒磊：微信里还有几个朋友知道你在干什么？
+- 2018-11-27 · [简书目录卡](../../jianshu_archive/jianshu-2f88e0157ab1.md) · 蔡垒磊：听说“无房男”在相亲角都不敢说话了？
+- 2018-10-09 · [简书目录卡](../../jianshu_archive/jianshu-a63923fc71d7.md) · 蔡垒磊：生死之外无大事
+- 2018-09-27 · [简书目录卡](../../jianshu_archive/jianshu-740ce0cc3b64.md) · 蔡垒磊：为什么由穷变富的中年男人很危险？
+- 2018-09-20 · [简书目录卡](../../jianshu_archive/jianshu-aa6944943356.md) · 蔡垒磊：30岁女青年的爱情
+- 2018-06-28 · [简书目录卡](../../jianshu_archive/jianshu-d5a6a69675fc.md) · 蔡垒磊：彩礼还有没有存在的必要？
+- 2018-06-01 · [简书目录卡](../../jianshu_archive/jianshu-f56137c16a66.md) · 蔡垒磊：婚姻只是一种普通关系
+- 2018-05-17 · [简书目录卡](../../jianshu_archive/jianshu-528870f232af.md) · 蔡垒磊：​520? 该分手时就分手吧
+- 2018-05-04 · [简书目录卡](../../jianshu_archive/jianshu-e52b880310e3.md) · 蔡垒磊：熊孩子后续：作恶不受惩罚，可能是最大的惩罚
+- 2017-11-16 · [简书目录卡](../../jianshu_archive/jianshu-dddbd87f8955.md) · 据说，孩子的叛逆时间大大提前了？
+- 2017-11-15 · [简书目录卡](../../jianshu_archive/jianshu-12ee4c32b21a.md) · 契约，婚姻
+- 2017-10-17 · [简书目录卡](../../jianshu_archive/jianshu-d6fd6f11abb6.md) · 家庭矛盾，大都来源于自作自受
+- 2017-09-30 · [简书目录卡](../../jianshu_archive/jianshu-fcd2376bc48c.md) · 女人啊，认清那些男鸨母吧
+- 2017-09-12 · [简书目录卡](../../jianshu_archive/jianshu-4a2f537b19c8.md) · 盼着对方不出轨，你就已经输了
+- 2017-09-07 · [简书目录卡](../../jianshu_archive/jianshu-daf327eb5a56.md) · 人情和对等，你可以两样都要
+- 2017-09-07 · [简书目录卡](../../jianshu_archive/jianshu-58321af0d2b8.md) · 你是在社交吗？你这叫瞎忙活！
+- 2017-09-06 · [简书目录卡](../../jianshu_archive/jianshu-43f0d985d561.md) · 婚姻里的囚徒困境
+- 2017-09-01 · [简书目录卡](../../jianshu_archive/jianshu-34b8e4d1e436.md) · 兼顾事业和家庭，绝对是一个大谎言
+- 2017-08-16 · [简书目录卡](../../jianshu_archive/jianshu-4ce393ba52f9.md) · 比戒网中心更可怕的，是愚昧的父母
+- 2017-08-08 · [简书目录卡](../../jianshu_archive/jianshu-4f9be9cedb5a.md) · 为什么男人不能打女人？
+- 2017-08-04 · [简书目录卡](../../jianshu_archive/jianshu-f944f5e38337.md) · 孩子，你的叛逆是我的事。
+- 2017-08-02 · [简书目录卡](../../jianshu_archive/jianshu-d8301ef26652.md) · 如果说父母是无需证件就能上岗的职业，子女又何尝不是呢？
+- 2016-08-14 · [简书目录卡](../../jianshu_archive/jianshu-77be6091aed5.md) · 王宝强离婚真的全是马蓉的问题？
+- 2016-05-21 · [简书目录卡](../../jianshu_archive/jianshu-d5312698cfb4.md) · 在朋友圈生活，请尽量自觉点
+- 2016-04-30 · [简书目录卡](../../jianshu_archive/jianshu-46f7e689cec2.md) · 蔡垒磊：不二情书——这才是爱情最美的样子

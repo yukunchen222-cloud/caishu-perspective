@@ -1,0 +1,471 @@
+# 财富与投资
+
+赚钱、资产、投资、房产、消费与养老财务决策。
+
+条目数：**461**（公众号原文 344；简书摘要 4；简书目录卡 113）。
+
+分类是导航建议，依据标题及可用的分析摘要/列表导语；低置信条目集中在‘综合与待复核’。涉及具体判断时仍应打开原文和分析卡。
+
+## 内容清单
+
+- 2026-10-16 · [简书摘要](../../crossposts/crosspost-d8476285b520.md) · 富人省下来的时间都干什么？
+- 2026-10-08 · [简书摘要](../../crossposts/crosspost-738b718ac5c9.md) · 2013年的60万，你买了什么？
+- 2026-09-24 · [简书摘要](../../crossposts/crosspost-e77a4dd99826.md) · 怎么选投资标的？
+- 2026-09-17 · [简书摘要](../../crossposts/crosspost-597f621e460b.md) · 被架在火上烤的美联储主席
+- 2026-09-14 · [公众号原文](../../articles/wxmp-294d98065331fb312a68.md) · [分析卡](../../analysis/wxmp-294d98065331fb312a68.md) · 养老靠孩子还是靠钱？
+- 2026-09-10 · [公众号原文](../../articles/wxmp-df936a3a2b81d6394cbd.md) · [分析卡](../../analysis/wxmp-df936a3a2b81d6394cbd.md) · 定投是一个无限时间的游戏啊
+- 2026-09-07 · [公众号原文](../../articles/wxmp-fbd79e95250039d05001.md) · [分析卡](../../analysis/wxmp-fbd79e95250039d05001.md) · 9月会降息吗？
+- 2026-09-03 · [公众号原文](../../articles/wxmp-c24e7e68867717d5867a.md) · [分析卡](../../analysis/wxmp-c24e7e68867717d5867a.md) · 40年50年房贷的本质是什么？
+- 2026-09-01 · [公众号原文](../../articles/wxmp-cd649c7e45df84e528f2.md) · [分析卡](../../analysis/wxmp-cd649c7e45df84e528f2.md) · 你的钱花在刀刃上了吗？
+- 2026-08-31 · [公众号原文](../../articles/wxmp-436f911a77212184c176.md) · [分析卡](../../analysis/wxmp-436f911a77212184c176.md) · 金九银十要来了？
+- 2026-08-21 · [公众号原文](../../articles/wxmp-949feee9bbda488a6ec9.md) · [分析卡](../../analysis/wxmp-949feee9bbda488a6ec9.md) · 加密货币为什么暴涨？
+- 2026-08-19 · [简书目录卡](../../jianshu_archive/jianshu-4cfe8129888d.md) · 泡沫破裂前，盯紧这几件事
+- 2026-08-14 · [简书目录卡](../../jianshu_archive/jianshu-06a1cfd367a7.md) · AI的崩盘时间会是？
+- 2026-08-13 · [公众号原文](../../articles/wxmp-6189460da19917365655.md) · [分析卡](../../analysis/wxmp-6189460da19917365655.md) · 如何提升赚钱的效率？
+- 2026-08-11 · [简书目录卡](../../jianshu_archive/jianshu-d3c0edc412ca.md) · 比特币为什么无法被替代？
+- 2026-07-24 · [公众号原文](../../articles/wxmp-4746207ce4398f5e8255.md) · [分析卡](../../analysis/wxmp-4746207ce4398f5e8255.md) · 为什么房价还会继续跌？
+- 2026-07-23 · [公众号原文](../../articles/wxmp-3b071d0da7730e31a3a2.md) · [分析卡](../../analysis/wxmp-3b071d0da7730e31a3a2.md) · 把钱交给另一半打理，是一种陋习
+- 2026-07-20 · [公众号原文](../../articles/wxmp-e4420268dfe0d9349268.md) · [分析卡](../../analysis/wxmp-e4420268dfe0d9349268.md) · 房子这笔账，应该怎么算？
+- 2026-07-15 · [简书目录卡](../../jianshu_archive/jianshu-2d80581489c2.md) · 赚钱的意义是什么？
+- 2026-07-13 · [公众号原文](../../articles/wxmp-bdec1141ed7120304d06.md) · [分析卡](../../analysis/wxmp-bdec1141ed7120304d06.md) · 社保多交，以后就能多拿吗？社保调整背后的惊人真相
+- 2026-07-07 · [公众号原文](../../articles/wxmp-e1fc3591525bef635d50.md) · [分析卡](../../analysis/wxmp-e1fc3591525bef635d50.md) · 微策略的金融游戏
+- 2026-06-30 · [公众号原文](../../articles/wxmp-83bf9baa87f18b0b7c0b.md) · [分析卡](../../analysis/wxmp-83bf9baa87f18b0b7c0b.md) · ai的泡沫会破吗？
+- 2026-06-29 · [公众号原文](../../articles/wxmp-36e75f551bc236d1a941.md) · [分析卡](../../analysis/wxmp-36e75f551bc236d1a941.md) · 你最大的亏损，往往来自你最确定的时候
+- 2026-06-23 · [公众号原文](../../articles/wxmp-5da62202f50f8723f48a.md) · [分析卡](../../analysis/wxmp-5da62202f50f8723f48a.md) · 囤人民币还是囤美元？
+- 2026-06-22 · [公众号原文](../../articles/wxmp-6e8582b818393726dc74.md) · [分析卡](../../analysis/wxmp-6e8582b818393726dc74.md) · 穷人翻身通常只有一种情况
+- 2026-06-18 · [公众号原文](../../articles/wxmp-8d18c105050d57c9304c.md) · [分析卡](../../analysis/wxmp-8d18c105050d57c9304c.md) · 美联储会加息还是降息？
+- 2026-06-15 · [公众号原文](../../articles/wxmp-2eca74a6450336e93dd0.md) · [分析卡](../../analysis/wxmp-2eca74a6450336e93dd0.md) · 多数人的价值投资，都只是价值套牢
+- 2026-06-10 · [公众号原文](../../articles/wxmp-7af5049ddffe593aab57.md) · [分析卡](../../analysis/wxmp-7af5049ddffe593aab57.md) · 黄金和比特币，谁更胜一筹？
+- 2026-06-02 · [公众号原文](../../articles/wxmp-f35710a1767d7960ca08.md) · [分析卡](../../analysis/wxmp-f35710a1767d7960ca08.md) · 你为什么抓不到百倍股？
+- 2026-05-28 · [公众号原文](../../articles/wxmp-77d6f295dcf18d1e460a.md) · [分析卡](../../analysis/wxmp-77d6f295dcf18d1e460a.md) · 有钱人为什么总希望，另一半爱的不是自己的钱？
+- 2026-05-27 · [公众号原文](../../articles/wxmp-ec19a1aa1b71a6a670ce.md) · [分析卡](../../analysis/wxmp-ec19a1aa1b71a6a670ce.md) · 如果巴菲特来炒币，会怎么炒？
+- 2026-05-25 · [公众号原文](../../articles/wxmp-10faeebd6c724f4f9b2e.md) · [分析卡](../../analysis/wxmp-10faeebd6c724f4f9b2e.md) · 房子卖了不够还贷，还卖不卖？
+- 2026-05-22 · [公众号原文](../../articles/wxmp-7b691bf8b3d7366891b1.md) · [分析卡](../../analysis/wxmp-7b691bf8b3d7366891b1.md) · 段永平买CRCL说明了什么？
+- 2026-05-18 · [公众号原文](../../articles/wxmp-f510fe1a90ef43d98b1e.md) · [分析卡](../../analysis/wxmp-f510fe1a90ef43d98b1e.md) · 听我一句劝，一次只能冒一个险
+- 2026-05-11 · [公众号原文](../../articles/wxmp-dd44aed0a37486e9c091.md) · [分析卡](../../analysis/wxmp-dd44aed0a37486e9c091.md) · 迪士尼是谁有钱谁先玩吗？
+- 2026-05-06 · [简书目录卡](../../jianshu_archive/jianshu-639044fd373a.md) · “租售比”
+- 2026-05-06 · [公众号原文](../../articles/wxmp-86cb9de3d557595d64d9.md) · [分析卡](../../analysis/wxmp-86cb9de3d557595d64d9.md) · 买了房子不出租，不是消费就是赌博
+- 2026-05-04 · [公众号原文](../../articles/wxmp-d25f77fa8ffd1178f65b.md) · [分析卡](../../analysis/wxmp-d25f77fa8ffd1178f65b.md) · 我发现很多人都有点算不明白账。起因是我看到有人说“租售比的售，应该按买入价来计算，张三李四在同一套房子上的买入价不同，租售比就不同，因为回报率不一样”，底下还有一堆人赞同。 我也多次看到网上…
+- 2026-04-30 · [公众号原文](../../articles/wxmp-171a5c0d2538aaeab882.md) · [分析卡](../../analysis/wxmp-171a5c0d2538aaeab882.md) · 怎么守住在币圈发的横财？
+- 2026-04-21 · [公众号原文](../../articles/wxmp-a621a16673f4de04b903.md) · [分析卡](../../analysis/wxmp-a621a16673f4de04b903.md) · 不要轻易突破你的消费限制器
+- 2026-04-08 · [公众号原文](../../articles/wxmp-59d2b77022fbcf10a069.md) · [分析卡](../../analysis/wxmp-59d2b77022fbcf10a069.md) · 你银行卡里的数字都是假的
+- 2026-03-31 · [公众号原文](../../articles/wxmp-c46b5d4106ab44aa11a6.md) · [分析卡](../../analysis/wxmp-c46b5d4106ab44aa11a6.md) · 在混乱的世界中，该如何投资？
+- 2026-03-27 · [公众号原文](../../articles/wxmp-dea77edc68ed012bdd84.md) · [分析卡](../../analysis/wxmp-dea77edc68ed012bdd84.md) · 大多数人都不配有钱
+- 2026-03-24 · [公众号原文](../../articles/wxmp-c46b0f0db597a6c4b1da.md) · [分析卡](../../analysis/wxmp-c46b0f0db597a6c4b1da.md) · 我对黄金怎么看？
+- 2026-03-23 · [公众号原文](../../articles/wxmp-ee1754769a1693732ea8.md) · [分析卡](../../analysis/wxmp-ee1754769a1693732ea8.md) · 跌了就补仓，对不对？
+- 2026-03-17 · [公众号原文](../../articles/wxmp-08f2ac82cd9f31ca4d2b.md) · [分析卡](../../analysis/wxmp-08f2ac82cd9f31ca4d2b.md) · 发钱并不能缩小贫富差距
+- 2026-03-16 · [公众号原文](../../articles/wxmp-16d0376f133de654bb8b.md) · [分析卡](../../analysis/wxmp-16d0376f133de654bb8b.md) · 这是一个老登不被尊重的时代
+- 2026-03-13 · [公众号原文](../../articles/wxmp-731b36f3973bc128a243.md) · [分析卡](../../analysis/wxmp-731b36f3973bc128a243.md) · 月入3w和现金300w，哪个更有安全感？
+- 2026-03-12 · [公众号原文](../../articles/wxmp-bdc2951756fafd4a8819.md) · [分析卡](../../analysis/wxmp-bdc2951756fafd4a8819.md) · 房地产已经完成了它的历史使命
+- 2026-03-11 · [公众号原文](../../articles/wxmp-2cc48f73b6a16cd3a36a.md) · [分析卡](../../analysis/wxmp-2cc48f73b6a16cd3a36a.md) · 中国人的“名义财富幻觉”
+- 2026-03-08 · [公众号原文](../../articles/wxmp-32d7ae15436ac0738b26.md) · [分析卡](../../analysis/wxmp-32d7ae15436ac0738b26.md) · 很多父母都说过类似的话，说“我死后钱都是你的”，或者“这些钱以后都是你的”。所以很多人在算自己个人净资产的时候，不仅不刨除自己的负债，也不刨除配偶占有家庭资产的部分，还要把双方父母的资产也算…
+- 2026-03-04 · [公众号原文](../../articles/wxmp-d79853beac46a675679a.md) · [分析卡](../../analysis/wxmp-d79853beac46a675679a.md) · 加密货币为什么会暴涨暴跌？
+- 2026-03-02 · [公众号原文](../../articles/wxmp-2bf49059c5a74cc36cfc.md) · [分析卡](../../analysis/wxmp-2bf49059c5a74cc36cfc.md) · 为什么财富自由后，反而更忙了？
+- 2026-02-27 · [公众号原文](../../articles/wxmp-a81d5b977e3bb8c121ac.md) · [分析卡](../../analysis/wxmp-a81d5b977e3bb8c121ac.md) · 沪七条能拯救上海楼市吗？
+- 2026-02-26 · [公众号原文](../../articles/wxmp-1cc08fa88ad81661269b.md) · [分析卡](../../analysis/wxmp-1cc08fa88ad81661269b.md) · 投资不怕亏，就怕停
+- 2026-02-24 · [公众号原文](../../articles/wxmp-5c4f2506a223fcb812fc.md) · [分析卡](../../analysis/wxmp-5c4f2506a223fcb812fc.md) · 投资的尽头是什么？
+- 2026-02-11 · [公众号原文](../../articles/wxmp-55468a62b93c16af0624.md) · [分析卡](../../analysis/wxmp-55468a62b93c16af0624.md) · 我猜你不懂“机会成本”
+- 2026-02-06 · [公众号原文](../../articles/wxmp-76c030b618af8e2d668b.md) · [分析卡](../../analysis/wxmp-76c030b618af8e2d668b.md) · 你还敢卖房梭哈吗？
+- 2026-02-03 · [公众号原文](../../articles/wxmp-4a9f6012ae6ca41e0c4b.md) · [分析卡](../../analysis/wxmp-4a9f6012ae6ca41e0c4b.md) · 降息加缩表，到底有哪些影响？
+- 2026-01-30 · [公众号原文](../../articles/wxmp-3065d5637fd46a8e8349.md) · [分析卡](../../analysis/wxmp-3065d5637fd46a8e8349.md) · 什么人能做好投资？
+- 2026-01-22 · [公众号原文](../../articles/wxmp-57ffb408089496e78549.md) · [分析卡](../../analysis/wxmp-57ffb408089496e78549.md) · 普通人要不要买黄金？
+- 2026-01-21 · [公众号原文](../../articles/wxmp-717490baf3bd5f1e6616.md) · [分析卡](../../analysis/wxmp-717490baf3bd5f1e6616.md) · 什么人能买香港的房子？
+- 2026-01-19 · [公众号原文](../../articles/wxmp-86d9a35ed590d7ac606b.md) · [分析卡](../../analysis/wxmp-86d9a35ed590d7ac606b.md) · 川普为什么非要格陵兰岛？
+- 2026-01-16 · [公众号原文](../../articles/wxmp-ed85813876f12f272d88.md) · [分析卡](../../analysis/wxmp-ed85813876f12f272d88.md) · 天津房价不让跌？
+- 2026-01-14 · [公众号原文](../../articles/wxmp-99cdd295f6163b68f9c3.md) · [分析卡](../../analysis/wxmp-99cdd295f6163b68f9c3.md) · 赚大钱的第一准则
+- 2026-01-12 · [公众号原文](../../articles/wxmp-f44ca69dc7cb3afecbf7.md) · [分析卡](../../analysis/wxmp-f44ca69dc7cb3afecbf7.md) · 赢钱的关键，在于容错大小
+- 2026-01-09 · [公众号原文](../../articles/wxmp-a732dde343bc6e1b5c57.md) · [分析卡](../../analysis/wxmp-a732dde343bc6e1b5c57.md) · 返贫是因为贪心吗？
+- 2026-01-08 · [公众号原文](../../articles/wxmp-215acaa23fe9947fa654.md) · [分析卡](../../analysis/wxmp-215acaa23fe9947fa654.md) · 你赚钱的上限，从一开始就注定了
+- 2026-01-07 · [公众号原文](../../articles/wxmp-e2647663bc2d1cb73a4e.md) · [分析卡](../../analysis/wxmp-e2647663bc2d1cb73a4e.md) · 无风险的套利机会，都藏在哪里？
+- 2025-12-31 · [公众号原文](../../articles/wxmp-7db02163793318f6af44.md) · [分析卡](../../analysis/wxmp-7db02163793318f6af44.md) · 你必须每年都扔掉一些钱
+- 2025-12-30 · [公众号原文](../../articles/wxmp-cdeb511cab6674ab6d03.md) · [分析卡](../../analysis/wxmp-cdeb511cab6674ab6d03.md) · 从房产信仰者说起
+- 2025-12-29 · [公众号原文](../../articles/wxmp-c1ccbaa4e1e8900cd750.md) · [分析卡](../../analysis/wxmp-c1ccbaa4e1e8900cd750.md) · 你为什么没时间？
+- 2025-12-25 · [公众号原文](../../articles/wxmp-39b95820febacbd6f17c.md) · [分析卡](../../analysis/wxmp-39b95820febacbd6f17c.md) · 要警惕每一个幸运时刻
+- 2025-12-22 · [简书目录卡](../../jianshu_archive/jianshu-6cadd3fb802e.md) · 你能拥有的财富上限，有定数
+- 2025-12-22 · [公众号原文](../../articles/wxmp-4c41ac8a66fd58aa8035.md) · [分析卡](../../analysis/wxmp-4c41ac8a66fd58aa8035.md) · 你能拥有的财富上限，有定数。
+- 2025-12-18 · [公众号原文](../../articles/wxmp-c7409e0dfd35a199d530.md) · [分析卡](../../analysis/wxmp-c7409e0dfd35a199d530.md) · 有钱人的钱都去哪里了？
+- 2025-12-17 · [公众号原文](../../articles/wxmp-bfe97be6a5934329c77d.md) · [分析卡](../../analysis/wxmp-bfe97be6a5934329c77d.md) · 赢钱的赔率，和赢钱的概率
+- 2025-12-16 · [公众号原文](../../articles/wxmp-16b41b3553017172f235.md) · [分析卡](../../analysis/wxmp-16b41b3553017172f235.md) · 巴菲特可以不懂比特币，但你必须懂
+- 2025-12-08 · [公众号原文](../../articles/wxmp-63d7c31371c80c7d2c80.md) · [分析卡](../../analysis/wxmp-63d7c31371c80c7d2c80.md) · 想快速积累资产，只靠投资是不行的
+- 2025-12-03 · [公众号原文](../../articles/wxmp-a18c2c234696e7cbab1b.md) · [分析卡](../../analysis/wxmp-a18c2c234696e7cbab1b.md) · 所有亏钱的决策，都是牛市里做的
+- 2025-12-02 · [公众号原文](../../articles/wxmp-ec65e320713a07c29d9d.md) · [分析卡](../../analysis/wxmp-ec65e320713a07c29d9d.md) · 比特币5年后会到多少钱一枚？
+- 2025-11-28 · [公众号原文](../../articles/wxmp-77c0317c8e5f33b487cc.md) · [分析卡](../../analysis/wxmp-77c0317c8e5f33b487cc.md) · 全民发钱是好事还是坏事？
+- 2025-11-27 · [公众号原文](../../articles/wxmp-4c472f76884108bbe881.md) · [分析卡](../../analysis/wxmp-4c472f76884108bbe881.md) · 房子的涨价，是滞后的
+- 2025-11-24 · [公众号原文](../../articles/wxmp-ec5aea463b5b167280f7.md) · [分析卡](../../analysis/wxmp-ec5aea463b5b167280f7.md) · 富爸爸作者抛售比特币，这对吗？
+- 2025-11-21 · [公众号原文](../../articles/wxmp-6298364d0b84d47d4687.md) · [分析卡](../../analysis/wxmp-6298364d0b84d47d4687.md) · 为什么全世界都在跌？
+- 2025-11-19 · [公众号原文](../../articles/wxmp-6f2a16b76ac7b6e6c178.md) · [分析卡](../../analysis/wxmp-6f2a16b76ac7b6e6c178.md) · 一线城市的房子还有多少跌幅？
+- 2025-11-18 · [公众号原文](../../articles/wxmp-9cfee6cf9193f99bcb93.md) · [分析卡](../../analysis/wxmp-9cfee6cf9193f99bcb93.md) · 你为什么拿不住比特币？
+- 2025-11-17 · [公众号原文](../../articles/wxmp-9b7df3a4a189125a0d0e.md) · [分析卡](../../analysis/wxmp-9b7df3a4a189125a0d0e.md) · 房产税推出后，房价会怎么走？
+- 2025-11-16 · [公众号原文](../../articles/wxmp-72d35ea24c32b0b93aa3.md) · [分析卡](../../analysis/wxmp-72d35ea24c32b0b93aa3.md) · 关于AIDOG处置8500万个代币的决议 大家都知道在10.24，AIDOG的RWAPerp经历了一次攻击。攻击者利用美股某几只股票的盘后几乎没有成交的特点，在AIDOG的系统里先开高倍数的…
+- 2025-11-14 · [公众号原文](../../articles/wxmp-66859561aeed870f7835.md) · [分析卡](../../analysis/wxmp-66859561aeed870f7835.md) · 持有现金，本质上是做空资产
+- 2025-11-13 · [公众号原文](../../articles/wxmp-2e3d6d6a04cfca3f7645.md) · [分析卡](../../analysis/wxmp-2e3d6d6a04cfca3f7645.md) · Circle还会继续跌吗？
+- 2025-11-12 · [公众号原文](../../articles/wxmp-e4a4345d7875f9a0ed57.md) · [分析卡](../../analysis/wxmp-e4a4345d7875f9a0ed57.md) · 你为什么这么喜欢做短线？
+- 2025-11-11 · [公众号原文](../../articles/wxmp-8c0f2a252dcb5420f06a.md) · [分析卡](../../analysis/wxmp-8c0f2a252dcb5420f06a.md) · 持有大量现金，是非常危险的事情
+- 2025-11-07 · [公众号原文](../../articles/wxmp-a41617b156bd7a42d2e9.md) · [分析卡](../../analysis/wxmp-a41617b156bd7a42d2e9.md) · 从第一个100万，到第一个1亿
+- 2025-11-04 · [公众号原文](../../articles/wxmp-bddd7ee62fbe67f1f78c.md) · [分析卡](../../analysis/wxmp-bddd7ee62fbe67f1f78c.md) · 突然多了1000万，怎么投资？
+- 2025-11-03 · [公众号原文](../../articles/wxmp-e4174d2f9e5be9483c3c.md) · [分析卡](../../analysis/wxmp-e4174d2f9e5be9483c3c.md) · 追求真心，是很幼稚的行为
+- 2025-10-31 · [公众号原文](../../articles/wxmp-4c3618a6bc48dae9bad2.md) · [分析卡](../../analysis/wxmp-4c3618a6bc48dae9bad2.md) · 穷人和富人的本质差别
+- 2025-10-30 · [公众号原文](../../articles/wxmp-a9567e47de0ffe4856f6.md) · [分析卡](../../analysis/wxmp-a9567e47de0ffe4856f6.md) · 你缺什么，就会死在哪里
+- 2025-10-28 · [公众号原文](../../articles/wxmp-6c1198d243b1738d5d14.md) · [分析卡](../../analysis/wxmp-6c1198d243b1738d5d14.md) · 赚钱能力是养出来的
+- 2025-10-23 · [公众号原文](../../articles/wxmp-128f81455865cfae4d2e.md) · [分析卡](../../analysis/wxmp-128f81455865cfae4d2e.md) · 美国国债突破38万亿，你该怎么做？
+- 2025-10-22 · [公众号原文](../../articles/wxmp-2e3c8dd424de5da4cdf6.md) · [分析卡](../../analysis/wxmp-2e3c8dd424de5da4cdf6.md) · 你有资格花多少钱？
+- 2025-10-17 · [公众号原文](../../articles/wxmp-178a4fb6e408fe5a6089.md) · [分析卡](../../analysis/wxmp-178a4fb6e408fe5a6089.md) · 穷人报课是没有用的
+- 2025-10-16 · [公众号原文](../../articles/wxmp-8bce20e701e1d0027daa.md) · [分析卡](../../analysis/wxmp-8bce20e701e1d0027daa.md) · 买几千万房子的都是什么人？
+- 2025-10-15 · [公众号原文](../../articles/wxmp-8c91bb73a6745c585199.md) · [分析卡](../../analysis/wxmp-8c91bb73a6745c585199.md) · 小米股票还能买吗？
+- 2025-10-11 · [公众号原文](../../articles/wxmp-9088049a709ccd446cb0.md) · [分析卡](../../analysis/wxmp-9088049a709ccd446cb0.md) · 你错过了抄底时刻吗？
+- 2025-10-09 · [公众号原文](../../articles/wxmp-ee58927e00a8d43dbc07.md) · [分析卡](../../analysis/wxmp-ee58927e00a8d43dbc07.md) · 用比特币替代黄金？不是没有可能。
+- 2025-09-30 · [公众号原文](../../articles/wxmp-1b9359afd1f7eabd004d.md) · [分析卡](../../analysis/wxmp-1b9359afd1f7eabd004d.md) · 我找不到穷人讨厌比特币的理由
+- 2025-09-26 · [公众号原文](../../articles/wxmp-d4157f1e3ae2edc27164.md) · [分析卡](../../analysis/wxmp-d4157f1e3ae2edc27164.md) · 懒人有自己的投资方式
+- 2025-09-25 · [公众号原文](../../articles/wxmp-2f39450cc496717072cb.md) · [分析卡](../../analysis/wxmp-2f39450cc496717072cb.md) · 赚本分的钱
+- 2025-09-24 · [公众号原文](../../articles/wxmp-996639db5cd769dbb17b.md) · [分析卡](../../analysis/wxmp-996639db5cd769dbb17b.md) · 能不能做好投资？看这个
+- 2025-09-22 · [公众号原文](../../articles/wxmp-8bc8a089792b7ef1f9c7.md) · [分析卡](../../analysis/wxmp-8bc8a089792b7ef1f9c7.md) · 黄金的共识会不会崩溃？
+- 2025-09-19 · [公众号原文](../../articles/wxmp-c4895d9e5cf6114c94f6.md) · [分析卡](../../analysis/wxmp-c4895d9e5cf6114c94f6.md) · 只有一套房，要不要卖？
+- 2025-09-18 · [公众号原文](../../articles/wxmp-bb5fc38d3a9a6f9e07a0.md) · [分析卡](../../analysis/wxmp-bb5fc38d3a9a6f9e07a0.md) · 无脑买纳指真的稳赢吗？
+- 2025-09-12 · [公众号原文](../../articles/wxmp-3f1110856035c402ab59.md) · [分析卡](../../analysis/wxmp-3f1110856035c402ab59.md) · 价值投资你做不到的
+- 2025-09-11 · [公众号原文](../../articles/wxmp-877e33c319cc815fbc3b.md) · [分析卡](../../analysis/wxmp-877e33c319cc815fbc3b.md) · 买那些能卖得出去的东西
+- 2025-09-10 · [公众号原文](../../articles/wxmp-48a9036b9fa40a803081.md) · [分析卡](../../analysis/wxmp-48a9036b9fa40a803081.md) · 如果从零开始，我会怎么做？
+- 2025-09-09 · [公众号原文](../../articles/wxmp-94f64ac7101cd20b32db.md) · [分析卡](../../analysis/wxmp-94f64ac7101cd20b32db.md) · 你会买“涨得快”的标的吗？
+- 2025-09-04 · [简书目录卡](../../jianshu_archive/jianshu-160c8b73fe03.md) · 抄底是不对的
+- 2025-09-02 · [公众号原文](../../articles/wxmp-3808d23b43978a7e2957.md) · [分析卡](../../analysis/wxmp-3808d23b43978a7e2957.md) · 钱都去哪儿了？
+- 2025-08-29 · [公众号原文](../../articles/wxmp-2eb97b1b81fd44af9543.md) · [分析卡](../../analysis/wxmp-2eb97b1b81fd44af9543.md) · 年轻人就该进币圈
+- 2025-08-27 · [公众号原文](../../articles/wxmp-8df0803332f60a3625dd.md) · [分析卡](../../analysis/wxmp-8df0803332f60a3625dd.md) · 美联储降息，能买房了吗？
+- 2025-08-25 · [公众号原文](../../articles/wxmp-e0ed2c7ed21f4005c29c.md) · [分析卡](../../analysis/wxmp-e0ed2c7ed21f4005c29c.md) · 赚了钱，什么时候消费？
+- 2025-08-21 · [公众号原文](../../articles/wxmp-4fbe99fa78f605991f9f.md) · [分析卡](../../analysis/wxmp-4fbe99fa78f605991f9f.md) · 房东税能不能转嫁给租户？
+- 2025-08-19 · [公众号原文](../../articles/wxmp-fe419d8d0832ee0a62f4.md) · [分析卡](../../analysis/wxmp-fe419d8d0832ee0a62f4.md) · 如何同富人打交道？
+- 2025-08-18 · [公众号原文](../../articles/wxmp-82f08f13de04355084ef.md) · [分析卡](../../analysis/wxmp-82f08f13de04355084ef.md) · 你都没有现金流，还想着投资？
+- 2025-08-15 · [公众号原文](../../articles/wxmp-7ae84379d4b2d4e3c5e4.md) · [分析卡](../../analysis/wxmp-7ae84379d4b2d4e3c5e4.md) · 9月不降息怎么办？
+- 2025-08-12 · [公众号原文](../../articles/wxmp-2e41e46c13fe061b2a8b.md) · [分析卡](../../analysis/wxmp-2e41e46c13fe061b2a8b.md) · 当你说比特币太贵了的时候
+- 2025-08-11 · [公众号原文](../../articles/wxmp-fa97fc987411827a4463.md) · [分析卡](../../analysis/wxmp-fa97fc987411827a4463.md) · 你过度消费了吗？
+- 2025-08-08 · [公众号原文](../../articles/wxmp-30ccf95ac5f353f17871.md) · [分析卡](../../analysis/wxmp-30ccf95ac5f353f17871.md) · 全民社保不是好事儿吗？
+- 2025-08-06 · [公众号原文](../../articles/wxmp-2462078be21eaca7a1a4.md) · [分析卡](../../analysis/wxmp-2462078be21eaca7a1a4.md) · 为什么我不建议你现在抄底楼市？
+- 2025-07-23 · [公众号原文](../../articles/wxmp-f5e9497063be90a164b3.md) · [分析卡](../../analysis/wxmp-f5e9497063be90a164b3.md) · 中国的币民数量会大大增加
+- 2025-07-22 · [公众号原文](../../articles/wxmp-9830091d7af2d4938d96.md) · [分析卡](../../analysis/wxmp-9830091d7af2d4938d96.md) · 钱为什么会跑到某些人手里？
+- 2025-07-21 · [公众号原文](../../articles/wxmp-4203d8eba0d77fb12687.md) · [分析卡](../../analysis/wxmp-4203d8eba0d77fb12687.md) · 先有钱，再追求光荣
+- 2025-07-20 · [公众号原文](../../articles/wxmp-4af2bad114983d458d10.md) · [分析卡](../../analysis/wxmp-4af2bad114983d458d10.md) · 关于AIDOG的更新： 1.新增了Forex模块，即外汇，现在你可以在AIDOG里杠杆交易美股/港股/黄金石油等大宗商品/全球指数，以及全球的主流外汇了。 需要注意的是，外汇的看多和看空都是…
+- 2025-07-16 · [公众号原文](../../articles/wxmp-3341ddf014bdc94111bd.md) · [分析卡](../../analysis/wxmp-3341ddf014bdc94111bd.md) · 你为什么活得这么累？
+- 2025-07-15 · [公众号原文](../../articles/wxmp-db7bc9662cc5c6de10f8.md) · [分析卡](../../analysis/wxmp-db7bc9662cc5c6de10f8.md) · 比特币能涨到多少钱一个？
+- 2025-07-10 · [公众号原文](../../articles/wxmp-47591122931c1a54a5f5.md) · [分析卡](../../analysis/wxmp-47591122931c1a54a5f5.md) · 稳定币最大的机会在哪里？
+- 2025-07-08 · [公众号原文](../../articles/wxmp-54cdd18781367c586dfb.md) · [分析卡](../../analysis/wxmp-54cdd18781367c586dfb.md) · 什么房子能叫资产？
+- 2025-07-04 · [公众号原文](../../articles/wxmp-568e27a1e4d6e4cdf48e.md) · [分析卡](../../analysis/wxmp-568e27a1e4d6e4cdf48e.md) · 一辈子省吃俭用的人，结局往往不好
+- 2025-07-03 · [公众号原文](../../articles/wxmp-fe59c7e5ee1ef84f177a.md) · [分析卡](../../analysis/wxmp-fe59c7e5ee1ef84f177a.md) · 什么才是资产？
+- 2025-07-02 · [公众号原文](../../articles/wxmp-1a0e856afa6416c3b3ea.md) · [分析卡](../../analysis/wxmp-1a0e856afa6416c3b3ea.md) · 如何不开户交易美股和黄金？
+- 2025-06-27 · [公众号原文](../../articles/wxmp-54597a0496d715bb23fc.md) · [分析卡](../../analysis/wxmp-54597a0496d715bb23fc.md) · 房子这个游戏是这样玩的
+- 2025-06-25 · [公众号原文](../../articles/wxmp-257d26eb20bb9bf0e674.md) · [分析卡](../../analysis/wxmp-257d26eb20bb9bf0e674.md) · 要么你能永远不亏钱，要么就趁早亏钱
+- 2025-06-24 · [公众号原文](../../articles/wxmp-38528f60454e5ee27fa1.md) · [分析卡](../../analysis/wxmp-38528f60454e5ee27fa1.md) · 押注世界局势，只有一个方向是对的
+- 2025-06-23 · [公众号原文](../../articles/wxmp-b79529547868705edfa9.md) · [分析卡](../../analysis/wxmp-b79529547868705edfa9.md) · 你的赚钱顺序错了
+- 2025-06-20 · [公众号原文](../../articles/wxmp-a2c3d37ddb2d1f80e9f8.md) · [分析卡](../../analysis/wxmp-a2c3d37ddb2d1f80e9f8.md) · GDP不等于财富
+- 2025-06-17 · [公众号原文](../../articles/wxmp-7fc864a4ccdafc229c12.md) · [分析卡](../../analysis/wxmp-7fc864a4ccdafc229c12.md) · 养老金为什么不能降？
+- 2025-06-16 · [公众号原文](../../articles/wxmp-792bdef5c6c94a1b71ef.md) · [分析卡](../../analysis/wxmp-792bdef5c6c94a1b71ef.md) · 房价的下一轮崩盘从哪里开始？
+- 2025-06-09 · [公众号原文](../../articles/wxmp-e76866ae1a3eb2419fb8.md) · [分析卡](../../analysis/wxmp-e76866ae1a3eb2419fb8.md) · 又一只适合长期定投的股票
+- 2025-06-06 · [公众号原文](../../articles/wxmp-e604c0ebd5651f2bf1c4.md) · [分析卡](../../analysis/wxmp-e604c0ebd5651f2bf1c4.md) · 如果你不会投资，你就这样做
+- 2025-06-03 · [公众号原文](../../articles/wxmp-992f7d22d05abea6b95f.md) · [分析卡](../../analysis/wxmp-992f7d22d05abea6b95f.md) · 中国的房地产泡沫，比当年的日本如何？
+- 2025-05-30 · [公众号原文](../../articles/wxmp-2156dfe635d03910a467.md) · [分析卡](../../analysis/wxmp-2156dfe635d03910a467.md) · 股民的错误期待
+- 2025-05-27 · [公众号原文](../../articles/wxmp-2ddc8d3628061841373d.md) · [分析卡](../../analysis/wxmp-2ddc8d3628061841373d.md) · 美国的稳定币法案如果通过，意味着什么？
+- 2025-05-21 · [公众号原文](../../articles/wxmp-756a5b76a6f2146c3ce9.md) · [分析卡](../../analysis/wxmp-756a5b76a6f2146c3ce9.md) · 搞钱是唯一重要的事情
+- 2025-05-20 · [公众号原文](../../articles/wxmp-cebf833ce98a2a5f530b.md) · [分析卡](../../analysis/wxmp-cebf833ce98a2a5f530b.md) · 降息能解决问题吗？
+- 2025-05-16 · [公众号原文](../../articles/wxmp-e98aefd17c5ff7d1fa60.md) · [分析卡](../../analysis/wxmp-e98aefd17c5ff7d1fa60.md) · 我为什么会进入币圈？
+- 2025-05-14 · [简书目录卡](../../jianshu_archive/jianshu-66a64db6839a.md) · 如何认识到真实的世界？
+- 2025-05-08 · [公众号原文](../../articles/wxmp-efe3daea274c9da9a9f7.md) · [分析卡](../../analysis/wxmp-efe3daea274c9da9a9f7.md) · 定投的本质是什么？
+- 2025-05-06 · [公众号原文](../../articles/wxmp-a157e763f4b34cb68b1b.md) · [分析卡](../../analysis/wxmp-a157e763f4b34cb68b1b.md) · 如何让股票价格长期上涨？
+- 2025-04-30 · [公众号原文](../../articles/wxmp-3aa69da61e8389d48c28.md) · [分析卡](../../analysis/wxmp-3aa69da61e8389d48c28.md) · 交易的核心是作弊
+- 2025-04-29 · [公众号原文](../../articles/wxmp-5f5f6828f97e1eb0ca86.md) · [分析卡](../../analysis/wxmp-5f5f6828f97e1eb0ca86.md) · 别被“一线核心地段”给骗了
+- 2025-04-28 · [公众号原文](../../articles/wxmp-34819d9ca4e2a7afe9f9.md) · [分析卡](../../analysis/wxmp-34819d9ca4e2a7afe9f9.md) · 为什么没人愿意听你说话？
+- 2025-04-24 · [公众号原文](../../articles/wxmp-d5d9a47c8c8beb4d89e0.md) · [分析卡](../../analysis/wxmp-d5d9a47c8c8beb4d89e0.md) · 除了赚钱以外，都不要沉迷
+- 2025-04-17 · [公众号原文](../../articles/wxmp-23d5a11edf43ff3b6a7f.md) · [分析卡](../../analysis/wxmp-23d5a11edf43ff3b6a7f.md) · 中国人该怎么配置资产？
+- 2025-04-15 · [公众号原文](../../articles/wxmp-9bd9477b743069d4bd39.md) · [分析卡](../../analysis/wxmp-9bd9477b743069d4bd39.md) · 为什么很多人活得这么艰难？
+- 2025-04-11 · [公众号原文](../../articles/wxmp-19ad2fd5f71214e48092.md) · [分析卡](../../analysis/wxmp-19ad2fd5f71214e48092.md) · 为什么年入百万还是穷？
+- 2025-04-09 · [公众号原文](../../articles/wxmp-b602886cb558d909feb0.md) · [分析卡](../../analysis/wxmp-b602886cb558d909feb0.md) · 比特币总有一天死在微策略手里
+- 2025-04-08 · [公众号原文](../../articles/wxmp-cc1a16187877a146d955.md) · [分析卡](../../analysis/wxmp-cc1a16187877a146d955.md) · 满仓被套？
+- 2025-04-02 · [公众号原文](../../articles/wxmp-35accf6cc4fd19d8e6b5.md) · [分析卡](../../analysis/wxmp-35accf6cc4fd19d8e6b5.md) · 我为什么从不止损？
+- 2025-04-01 · [公众号原文](../../articles/wxmp-2c8e9c2ad8e1e8f5ddb9.md) · [分析卡](../../analysis/wxmp-2c8e9c2ad8e1e8f5ddb9.md) · 你在币圈为什么挣不到钱？
+- 2025-03-31 · [公众号原文](../../articles/wxmp-30768e8da7b91ab5ee4a.md) · [分析卡](../../analysis/wxmp-30768e8da7b91ab5ee4a.md) · 房票就是抢钱
+- 2025-03-29 · [公众号原文](../../articles/wxmp-f6cd58c6715858c2a2c2.md) · [分析卡](../../analysis/wxmp-f6cd58c6715858c2a2c2.md) · 如何保障币的安全性
+- 2025-03-28 · [简书目录卡](../../jianshu_archive/jianshu-a7007c516433.md) · 资产价格会不会暴涨？
+- 2025-03-27 · [公众号原文](../../articles/wxmp-03508480d82521fbad62.md) · [分析卡](../../analysis/wxmp-03508480d82521fbad62.md) · 100%正确，也是一种灾难
+- 2025-03-22 · [公众号原文](../../articles/wxmp-af99dd9021fa6d14cdd8.md) · [分析卡](../../analysis/wxmp-af99dd9021fa6d14cdd8.md) · 你还在交社保吗？
+- 2025-03-19 · [公众号原文](../../articles/wxmp-9df40fe87f9785ecfc06.md) · [分析卡](../../analysis/wxmp-9df40fe87f9785ecfc06.md) · 一次性赚够一辈子的钱
+- 2025-03-18 · [简书目录卡](../../jianshu_archive/jianshu-9fec72a9e533.md) · 为什么房子不能叫资产了？
+- 2025-03-17 · [公众号原文](../../articles/wxmp-3fd4d692474a6ab34bc4.md) · [分析卡](../../analysis/wxmp-3fd4d692474a6ab34bc4.md) · MEME币的价值
+- 2025-03-14 · [公众号原文](../../articles/wxmp-364a294cc9eaa55bcd7f.md) · [分析卡](../../analysis/wxmp-364a294cc9eaa55bcd7f.md) · 川普在干什么？
+- 2025-03-12 · [公众号原文](../../articles/wxmp-a261aac222399e7168e1.md) · [分析卡](../../analysis/wxmp-a261aac222399e7168e1.md) · 给普通人的资产配置建议
+- 2025-03-07 · [公众号原文](../../articles/wxmp-bcc4302a4e97d4f01c17.md) · [分析卡](../../analysis/wxmp-bcc4302a4e97d4f01c17.md) · 浮亏是不是亏？
+- 2025-03-06 · [公众号原文](../../articles/wxmp-1588633527d05d48d30d.md) · [分析卡](../../analysis/wxmp-1588633527d05d48d30d.md) · 如何赚到更轻松的钱？
+- 2025-03-05 · [公众号原文](../../articles/wxmp-3e7147abe52211c4a9dc.md) · [分析卡](../../analysis/wxmp-3e7147abe52211c4a9dc.md) · 房子的地段骗局
+- 2025-02-28 · [公众号原文](../../articles/wxmp-6458195505d1ef91ef49.md) · [分析卡](../../analysis/wxmp-6458195505d1ef91ef49.md) · 能在币圈活下来的，没有侥幸
+- 2025-02-25 · [简书目录卡](../../jianshu_archive/jianshu-7b0747068b7f.md) · 是骑手需要社保，还是社保需要骑手？
+- 2025-02-24 · [公众号原文](../../articles/wxmp-b239d92118cb99dc3eea.md) · [分析卡](../../analysis/wxmp-b239d92118cb99dc3eea.md) · 英伟达就是下一个苹果
+- 2025-02-21 · [简书目录卡](../../jianshu_archive/jianshu-26fcde8934f5.md) · 顶尖学府毕业为什么平均收入高？
+- 2025-02-21 · [公众号原文](../../articles/wxmp-25cc640a24e5bd10f48a.md) · [分析卡](../../analysis/wxmp-25cc640a24e5bd10f48a.md) · 上一节免费的逻辑课——顶尖学府毕业为什么平均收入高？
+- 2025-02-19 · [公众号原文](../../articles/wxmp-91df40572762e4fe2ad0.md) · [分析卡](../../analysis/wxmp-91df40572762e4fe2ad0.md) · 买公寓吃利息可以吗？
+- 2025-02-14 · [公众号原文](../../articles/wxmp-0ac8824e278a8fd87cd0.md) · [分析卡](../../analysis/wxmp-0ac8824e278a8fd87cd0.md) · PI币要转正了吗？
+- 2025-02-13 · [公众号原文](../../articles/wxmp-f926fefd3a92a2122b76.md) · [分析卡](../../analysis/wxmp-f926fefd3a92a2122b76.md) · 你还没理解“钱的重要性”
+- 2025-02-12 · [公众号原文](../../articles/wxmp-ae439a8d88ff0876f376.md) · [分析卡](../../analysis/wxmp-ae439a8d88ff0876f376.md) · 特斯拉股票还能不能买？
+- 2025-02-08 · [简书目录卡](../../jianshu_archive/jianshu-527a3653177a.md) · 黄金继续涨，只会拉高比特币的想象力
+- 2025-02-06 · [公众号原文](../../articles/wxmp-27c2926252f922ce3d95.md) · [分析卡](../../analysis/wxmp-27c2926252f922ce3d95.md) · 今年楼市不会好的三大原因
+- 2025-01-31 · [公众号原文](../../articles/wxmp-9a6d009b6319c9179121.md) · [分析卡](../../analysis/wxmp-9a6d009b6319c9179121.md) · 该买什么币？
+- 2025-01-23 · [公众号原文](../../articles/wxmp-b899124fa8d6c1e821a8.md) · [分析卡](../../analysis/wxmp-b899124fa8d6c1e821a8.md) · 为什么你的钱越用越少？
+- 2025-01-22 · [公众号原文](../../articles/wxmp-ca26a8d8541d0bacb3ca.md) · [分析卡](../../analysis/wxmp-ca26a8d8541d0bacb3ca.md) · 穷人为什么总落入低级陷阱？
+- 2025-01-21 · [公众号原文](../../articles/wxmp-550c9dcf1ac1b62d1c55.md) · [分析卡](../../analysis/wxmp-550c9dcf1ac1b62d1c55.md) · 房产税一定会全国铺开
+- 2025-01-13 · [公众号原文](../../articles/wxmp-874a885d57bf3a8ea57e.md) · [分析卡](../../analysis/wxmp-874a885d57bf3a8ea57e.md) · 被套牢的人，都做错了什么？
+- 2025-01-10 · [公众号原文](../../articles/wxmp-6d971aab4387d31481a1.md) · [分析卡](../../analysis/wxmp-6d971aab4387d31481a1.md) · 比特币迈过了“共识临界点”
+- 2025-01-07 · [公众号原文](../../articles/wxmp-49527e894c6dbc713b76.md) · [分析卡](../../analysis/wxmp-49527e894c6dbc713b76.md) · 上海必将放开限购
+- 2025-01-06 · [公众号原文](../../articles/wxmp-cb63b551e5cf4e32c45f.md) · [分析卡](../../analysis/wxmp-cb63b551e5cf4e32c45f.md) · “你不过是买得早而已”
+- 2025-01-01 · [公众号原文](../../articles/wxmp-d00757a9b9b3940b2bcf.md) · [分析卡](../../analysis/wxmp-d00757a9b9b3940b2bcf.md) · 什么东西才可以换钱？
+- 2024-12-30 · [公众号原文](../../articles/wxmp-8bd1b185e0dafff7367d.md) · [分析卡](../../analysis/wxmp-8bd1b185e0dafff7367d.md) · 上海的楼市回暖了吗？
+- 2024-12-24 · [公众号原文](../../articles/wxmp-c8e185ddeffdf7025e1f.md) · [分析卡](../../analysis/wxmp-c8e185ddeffdf7025e1f.md) · 赚钱的逻辑，你想错了
+- 2024-12-23 · [公众号原文](../../articles/wxmp-33869235c9e129a1c98d.md) · [分析卡](../../analysis/wxmp-33869235c9e129a1c98d.md) · 降存量房贷，只为了关门打狗
+- 2024-12-19 · [公众号原文](../../articles/wxmp-0ca37fa4c92de6476156.md) · [分析卡](../../analysis/wxmp-0ca37fa4c92de6476156.md) · 美联储的大礼，惊不惊喜，意不意外？
+- 2024-12-18 · [公众号原文](../../articles/wxmp-1501c1f18c059ae1616e.md) · [分析卡](../../analysis/wxmp-1501c1f18c059ae1616e.md) · 房子到底值多少钱？
+- 2024-12-17 · [公众号原文](../../articles/wxmp-0420b915c65df36d8699.md) · [分析卡](../../analysis/wxmp-0420b915c65df36d8699.md) · 坚决不买比特币会怎样？
+- 2024-12-16 · [公众号原文](../../articles/wxmp-a33c351205033250b90e.md) · [分析卡](../../analysis/wxmp-a33c351205033250b90e.md) · 只有比特币，并不能让你财务自由
+- 2024-12-13 · [公众号原文](../../articles/wxmp-246da7890f83c7a568d1.md) · [分析卡](../../analysis/wxmp-246da7890f83c7a568d1.md) · 个人养老金来了，你会交吗？
+- 2024-12-12 · [公众号原文](../../articles/wxmp-bfe327689bcb4ef64130.md) · [分析卡](../../analysis/wxmp-bfe327689bcb4ef64130.md) · 为什么永远有人说“房价快回暖了”？
+- 2024-12-11 · [公众号原文](../../articles/wxmp-da8dfd95b85292961fab.md) · [分析卡](../../analysis/wxmp-da8dfd95b85292961fab.md) · 什么是财技？
+- 2024-12-06 · [公众号原文](../../articles/wxmp-cdeaa3def5fdd7a1a632.md) · [分析卡](../../analysis/wxmp-cdeaa3def5fdd7a1a632.md) · 比特币能涨到多高？
+- 2024-12-04 · [简书目录卡](../../jianshu_archive/jianshu-52c629ab137e.md) · 贷款投资都折在这里
+- 2024-12-04 · [公众号原文](../../articles/wxmp-f9b1e40bc5891dbeeacc.md) · [分析卡](../../analysis/wxmp-f9b1e40bc5891dbeeacc.md) · 贷款投资都死在这里
+- 2024-12-03 · [公众号原文](../../articles/wxmp-857a9d67f580226e8645.md) · [分析卡](../../analysis/wxmp-857a9d67f580226e8645.md) · 为什么定投不从熊市开始？
+- 2024-11-29 · [公众号原文](../../articles/wxmp-6b5863f4aa8ae93ebdbe.md) · [分析卡](../../analysis/wxmp-6b5863f4aa8ae93ebdbe.md) · 穷人该去哪里翻身？
+- 2024-11-22 · [公众号原文](../../articles/wxmp-c5f50633520b7c0e6101.md) · [分析卡](../../analysis/wxmp-c5f50633520b7c0e6101.md) · 比特币正在加速
+- 2024-11-19 · [公众号原文](../../articles/wxmp-b264745336824088a92f.md) · [分析卡](../../analysis/wxmp-b264745336824088a92f.md) · 财富的十字路口
+- 2024-11-18 · [公众号原文](../../articles/wxmp-fbc8fe3eb7d129cccf9b.md) · [分析卡](../../analysis/wxmp-fbc8fe3eb7d129cccf9b.md) · 投资最怕事后诸葛亮
+- 2024-11-14 · [公众号原文](../../articles/wxmp-5330e6b8ad3391c505a9.md) · [分析卡](../../analysis/wxmp-5330e6b8ad3391c505a9.md) · 你能赚钱的日子并不多
+- 2024-11-12 · [公众号原文](../../articles/wxmp-c0ab2442aebd2df05fd3.md) · [分析卡](../../analysis/wxmp-c0ab2442aebd2df05fd3.md) · 10万亿意味着什么？
+- 2024-11-11 · [公众号原文](../../articles/wxmp-198a7c5e17fe47b7323d.md) · [分析卡](../../analysis/wxmp-198a7c5e17fe47b7323d.md) · 先富能不能带动后富？
+- 2024-11-05 · [公众号原文](../../articles/wxmp-3d38a90295f500808d82.md) · [分析卡](../../analysis/wxmp-3d38a90295f500808d82.md) · 面对即将来临的大通胀，你做了什么？
+- 2024-11-01 · [公众号原文](../../articles/wxmp-bb2f1480b9f08e31cf1a.md) · [分析卡](../../analysis/wxmp-bb2f1480b9f08e31cf1a.md) · 还有比“钱”更重要的事？
+- 2024-10-30 · [公众号原文](../../articles/wxmp-78c7158af0ac89a554e7.md) · [分析卡](../../analysis/wxmp-78c7158af0ac89a554e7.md) · 钱从哪儿来？该怎么分？
+- 2024-10-29 · [公众号原文](../../articles/wxmp-cecabffef9b2e7fff1ab.md) · [分析卡](../../analysis/wxmp-cecabffef9b2e7fff1ab.md) · 大放水是随便放的吗？
+- 2024-10-23 · [公众号原文](../../articles/wxmp-19d19e2792360f14b671.md) · [分析卡](../../analysis/wxmp-19d19e2792360f14b671.md) · 楼市需要这样的一次回调
+- 2024-10-21 · [公众号原文](../../articles/wxmp-5f68678c53c15906b3c2.md) · [分析卡](../../analysis/wxmp-5f68678c53c15906b3c2.md) · 为什么投资和事业很难同时成功？
+- 2024-10-18 · [公众号原文](../../articles/wxmp-020e8799d5f287868ba4.md) · [分析卡](../../analysis/wxmp-020e8799d5f287868ba4.md) · 涨了一定会跌，但跌了不一定还会涨
+- 2024-10-17 · [公众号原文](../../articles/wxmp-75eb7e1f834bc1c73069.md) · [分析卡](../../analysis/wxmp-75eb7e1f834bc1c73069.md) · 你以为吃到了红利，其实没有
+- 2024-10-15 · [公众号原文](../../articles/wxmp-1d6f8aef6616efd1db5f.md) · [分析卡](../../analysis/wxmp-1d6f8aef6616efd1db5f.md) · 赚钱是为了自由，而不是限制自由
+- 2024-10-14 · [公众号原文](../../articles/wxmp-9226e3e7035ab191f3aa.md) · [分析卡](../../analysis/wxmp-9226e3e7035ab191f3aa.md) · 被套了该什么时候跑？
+- 2024-10-11 · [公众号原文](../../articles/wxmp-8f9ec580e4007dee4c5b.md) · [分析卡](../../analysis/wxmp-8f9ec580e4007dee4c5b.md) · 有人亏钱，是不是一定有人赚钱了？
+- 2024-10-08 · [公众号原文](../../articles/wxmp-50c84118cb7969c0486f.md) · [分析卡](../../analysis/wxmp-50c84118cb7969c0486f.md) · 股民的热情比行情更吓人
+- 2024-09-29 · [公众号原文](../../articles/wxmp-78056751b718f85276b5.md) · [分析卡](../../analysis/wxmp-78056751b718f85276b5.md) · 成功的关键，在于取舍
+- 2024-09-27 · [公众号原文](../../articles/wxmp-3ce940e610a169b95e0d.md) · [分析卡](../../analysis/wxmp-3ce940e610a169b95e0d.md) · 非股民正在给股民纳税
+- 2024-09-25 · [公众号原文](../../articles/wxmp-f2487ad778de6975219d.md) · [分析卡](../../analysis/wxmp-f2487ad778de6975219d.md) · 股民的记忆为什么只有7秒？
+- 2024-09-24 · [公众号原文](../../articles/wxmp-b6022b2044df5cb26978.md) · [分析卡](../../analysis/wxmp-b6022b2044df5cb26978.md) · 利好来临之时，就是你卖房之日
+- 2024-09-20 · [公众号原文](../../articles/wxmp-f3babae311e8dfada6d1.md) · [分析卡](../../analysis/wxmp-f3babae311e8dfada6d1.md) · 美联储降息以后，才是真正的考验
+- 2024-09-19 · [公众号原文](../../articles/wxmp-07ed7963ef30fbd580aa.md) · [分析卡](../../analysis/wxmp-07ed7963ef30fbd580aa.md) · 美联储降息，普通人应该怎么做？
+- 2024-09-11 · [公众号原文](../../articles/wxmp-0dd3e3cea1a258a45d23.md) · [分析卡](../../analysis/wxmp-0dd3e3cea1a258a45d23.md) · 跳出穷人系统
+- 2024-08-30 · [公众号原文](../../articles/wxmp-2e4592c8c3f0d2603a49.md) · [分析卡](../../analysis/wxmp-2e4592c8c3f0d2603a49.md) · 穷人的穷根在哪里？
+- 2024-08-29 · [公众号原文](../../articles/wxmp-87d08f075d4a0a77a6cc.md) · [分析卡](../../analysis/wxmp-87d08f075d4a0a77a6cc.md) · 没有底线，你就能赚到钱了吗？
+- 2024-08-28 · [公众号原文](../../articles/wxmp-abdcfa5dd8ae0011456c.md) · [分析卡](../../analysis/wxmp-abdcfa5dd8ae0011456c.md) · 我知道你拿不拿得住比特币
+- 2024-08-27 · [公众号原文](../../articles/wxmp-c12790a6d4261d29d724.md) · [分析卡](../../analysis/wxmp-c12790a6d4261d29d724.md) · 持续赚钱的大前提
+- 2024-08-26 · [简书目录卡](../../jianshu_archive/jianshu-445a3c48266d.md) · 钱可以不用，但不能没有。
+- 2024-08-22 · [公众号原文](../../articles/wxmp-78237295bb645d303337.md) · [分析卡](../../analysis/wxmp-78237295bb645d303337.md) · 很快就要均贫富了
+- 2024-08-19 · [公众号原文](../../articles/wxmp-975231a68f5461b5807a.md) · [分析卡](../../analysis/wxmp-975231a68f5461b5807a.md) · 先有钱，然后才能成熟
+- 2024-08-12 · [公众号原文](../../articles/wxmp-d6826d749c826b417211.md) · [分析卡](../../analysis/wxmp-d6826d749c826b417211.md) · 用钱投票，是最高效的筛选
+- 2024-08-07 · [公众号原文](../../articles/wxmp-d346c9effaa2f1d2b9f2.md) · [分析卡](../../analysis/wxmp-d346c9effaa2f1d2b9f2.md) · 为什么房子还得继续跌？
+- 2024-08-02 · [公众号原文](../../articles/wxmp-33444856ca90659d1788.md) · [分析卡](../../analysis/wxmp-33444856ca90659d1788.md) · 你为何成不了富人？
+- 2024-07-30 · [公众号原文](../../articles/wxmp-e8f0ca312d3549ae9a2b.md) · [分析卡](../../analysis/wxmp-e8f0ca312d3549ae9a2b.md) · 金融圈的瓜是吃不完的
+- 2024-07-29 · [公众号原文](../../articles/wxmp-fc9fc789dd15967bfba7.md) · [分析卡](../../analysis/wxmp-fc9fc789dd15967bfba7.md) · 有钱人为什么越来越有钱？
+- 2024-07-24 · [公众号原文](../../articles/wxmp-ce7ad182da9cbdd0cf19.md) · [分析卡](../../analysis/wxmp-ce7ad182da9cbdd0cf19.md) · 没有现金流，就没有一切
+- 2024-07-23 · [公众号原文](../../articles/wxmp-cd515c8e0c86cfc6bc79.md) · [分析卡](../../analysis/wxmp-cd515c8e0c86cfc6bc79.md) · 什么样的房子不要买？
+- 2024-07-19 · [公众号原文](../../articles/wxmp-dc10a35521858f95179a.md) · [分析卡](../../analysis/wxmp-dc10a35521858f95179a.md) · 赚钱就是最快的成长方式
+- 2024-07-12 · [公众号原文](../../articles/wxmp-008e24023cea8ade3e02.md) · [分析卡](../../analysis/wxmp-008e24023cea8ade3e02.md) · 普通人做什么最赚钱？
+- 2024-07-08 · [公众号原文](../../articles/wxmp-71db6e9030c01f145200.md) · [分析卡](../../analysis/wxmp-71db6e9030c01f145200.md) · 你为什么赚不到钱？
+- 2024-07-05 · [公众号原文](../../articles/wxmp-11091849a9d783d869b2.md) · [分析卡](../../analysis/wxmp-11091849a9d783d869b2.md) · 你为什么非得拥有自己的房子？
+- 2024-07-02 · [公众号原文](../../articles/wxmp-4ab57841968d77a925d9.md) · [分析卡](../../analysis/wxmp-4ab57841968d77a925d9.md) · 我打赌你不会赚快钱
+- 2024-06-28 · [公众号原文](../../articles/wxmp-48658222413b9bb3d398.md) · [分析卡](../../analysis/wxmp-48658222413b9bb3d398.md) · 房地产为什么不能倒？
+- 2024-06-20 · [公众号原文](../../articles/wxmp-6abf52b7e9871d5fbec5.md) · [分析卡](../../analysis/wxmp-6abf52b7e9871d5fbec5.md) · 谈租售比的前提，是本金安全
+- 2024-06-18 · [公众号原文](../../articles/wxmp-985c6007c39b5a5a927e.md) · [分析卡](../../analysis/wxmp-985c6007c39b5a5a927e.md) · 为什么只有币圈才能几十上百倍？
+- 2024-06-14 · [公众号原文](../../articles/wxmp-457ebba4314471b62acb.md) · [分析卡](../../analysis/wxmp-457ebba4314471b62acb.md) · 王思聪家里是没落了吗？
+- 2024-06-07 · [公众号原文](../../articles/wxmp-5a18f31b07589bfd0cca.md) · [分析卡](../../analysis/wxmp-5a18f31b07589bfd0cca.md) · 跟穷人单次交易，跟富人不要交易
+- 2024-06-05 · [公众号原文](../../articles/wxmp-a39c0a5a75a543ce225c.md) · [分析卡](../../analysis/wxmp-a39c0a5a75a543ce225c.md) · 有钱是不是就能为所欲为？
+- 2024-05-31 · [公众号原文](../../articles/wxmp-13d887fbf52693b079df.md) · [分析卡](../../analysis/wxmp-13d887fbf52693b079df.md) · 法币没错，比特币也没错，是时代错了。
+- 2024-05-28 · [公众号原文](../../articles/wxmp-0f6ab2cb1d3b669b0b6f.md) · [分析卡](../../analysis/wxmp-0f6ab2cb1d3b669b0b6f.md) · 银行暂缓收房，是心地善良吗？
+- 2024-05-22 · [公众号原文](../../articles/wxmp-944afe20409d1776112f.md) · [分析卡](../../analysis/wxmp-944afe20409d1776112f.md) · 首付砍半，接下来是价格继续砍半
+- 2024-05-21 · [公众号原文](../../articles/wxmp-8e00399dfe2db1ad50c1.md) · [分析卡](../../analysis/wxmp-8e00399dfe2db1ad50c1.md) · 赚钱的事情要干，不赚钱的事情不要干
+- 2024-05-20 · [公众号原文](../../articles/wxmp-74e3f3ba3755c5771216.md) · [分析卡](../../analysis/wxmp-74e3f3ba3755c5771216.md) · 为什么说房价越救越死？
+- 2024-05-17 · [公众号原文](../../articles/wxmp-4659c6ce0cdd75d82459.md) · [分析卡](../../analysis/wxmp-4659c6ce0cdd75d82459.md) · 北上广深的核心房产永远涨吗？
+- 2024-05-16 · [公众号原文](../../articles/wxmp-eb9a4d19f354613f5c03.md) · [分析卡](../../analysis/wxmp-eb9a4d19f354613f5c03.md) · 买房错，不买房还是错
+- 2024-05-13 · [公众号原文](../../articles/wxmp-16351542b1caf270f7f2.md) · [分析卡](../../analysis/wxmp-16351542b1caf270f7f2.md) · “刚需”对涨跌真的无所谓吗？
+- 2024-05-10 · [公众号原文](../../articles/wxmp-2ef930890247a7b8c623.md) · [分析卡](../../analysis/wxmp-2ef930890247a7b8c623.md) · 屌丝为什么容易返贫？
+- 2024-05-09 · [公众号原文](../../articles/wxmp-ecf74ce41098571f2cee.md) · [分析卡](../../analysis/wxmp-ecf74ce41098571f2cee.md) · 取消限购后，房价会怎么走？
+- 2024-04-29 · [公众号原文](../../articles/wxmp-67ea84b88dc9edddae11.md) · [分析卡](../../analysis/wxmp-67ea84b88dc9edddae11.md) · 保护好你的购买力
+- 2024-04-26 · [公众号原文](../../articles/wxmp-589ce8d38b4423f087fc.md) · [分析卡](../../analysis/wxmp-589ce8d38b4423f087fc.md) · 如何赚走有钱人3个亿？
+- 2024-04-25 · [公众号原文](../../articles/wxmp-f35abc67541965230325.md) · [分析卡](../../analysis/wxmp-f35abc67541965230325.md) · 为什么不能随便印钱？
+- 2024-04-22 · [公众号原文](../../articles/wxmp-76b2a3badfb13c97760e.md) · [分析卡](../../analysis/wxmp-76b2a3badfb13c97760e.md) · 不要把赚钱以外的事情太当回事
+- 2024-04-19 · [公众号原文](../../articles/wxmp-30435e901b4f49be9c1f.md) · [分析卡](../../analysis/wxmp-30435e901b4f49be9c1f.md) · 没有礼义廉耻行不行？行。
+- 2024-04-17 · [公众号原文](../../articles/wxmp-6d09d22b7671ce732e6d.md) · [分析卡](../../analysis/wxmp-6d09d22b7671ce732e6d.md) · 社会变好，从不用借钱开始
+- 2024-04-16 · [公众号原文](../../articles/wxmp-e8bdfbafc531c3d4c572.md) · [分析卡](../../analysis/wxmp-e8bdfbafc531c3d4c572.md) · A股要怎么买？
+- 2024-04-15 · [公众号原文](../../articles/wxmp-51680ba4cadf0c826ab3.md) · [分析卡](../../analysis/wxmp-51680ba4cadf0c826ab3.md) · 你知道一个亿是多少钱吗？
+- 2024-04-10 · [公众号原文](../../articles/wxmp-9013cb72cba7071c0538.md) · [分析卡](../../analysis/wxmp-9013cb72cba7071c0538.md) · 有多少资产可以躺平？
+- 2024-04-08 · [公众号原文](../../articles/wxmp-c52b2d83caa6cdb1dc24.md) · [分析卡](../../analysis/wxmp-c52b2d83caa6cdb1dc24.md) · 穷人变富一定要懂的东西
+- 2024-04-03 · [公众号原文](../../articles/wxmp-a4b3e192f662ee64c96e.md) · [分析卡](../../analysis/wxmp-a4b3e192f662ee64c96e.md) · 是不是越有钱就越抠？
+- 2024-04-01 · [公众号原文](../../articles/wxmp-5af04c0b9ab6e83bf05e.md) · [分析卡](../../analysis/wxmp-5af04c0b9ab6e83bf05e.md) · 为什么富在深山有远亲？
+- 2024-03-29 · [公众号原文](../../articles/wxmp-e10eb38a9a9b8e39a8f9.md) · [分析卡](../../analysis/wxmp-e10eb38a9a9b8e39a8f9.md) · 有钱人一定是走过捷径的
+- 2024-03-26 · [公众号原文](../../articles/wxmp-40140e874c09380785b4.md) · [分析卡](../../analysis/wxmp-40140e874c09380785b4.md) · 为什么你的钱会不停贬值？
+- 2024-03-25 · [公众号原文](../../articles/wxmp-c54063bfa50d282cec3c.md) · [分析卡](../../analysis/wxmp-c54063bfa50d282cec3c.md) · 我成资本主义买办了？
+- 2024-03-22 · [公众号原文](../../articles/wxmp-326c722f72b584444e1e.md) · [分析卡](../../analysis/wxmp-326c722f72b584444e1e.md) · 想抄底国内资产的，慢慢等吧
+- 2024-03-21 · [公众号原文](../../articles/wxmp-a11c77916227afd00c9e.md) · [分析卡](../../analysis/wxmp-a11c77916227afd00c9e.md) · 中国的房地产市场会怎么走？
+- 2024-03-18 · [公众号原文](../../articles/wxmp-82f367a51af7d05eddda.md) · [分析卡](../../analysis/wxmp-82f367a51af7d05eddda.md) · 很多人的穷根在这里
+- 2024-03-15 · [公众号原文](../../articles/wxmp-f0999477f80a201bbce1.md) · [分析卡](../../analysis/wxmp-f0999477f80a201bbce1.md) · 有钱人为什么要设立家族信托？
+- 2024-03-14 · [公众号原文](../../articles/wxmp-1b3049912ac81eaf3d68.md) · [分析卡](../../analysis/wxmp-1b3049912ac81eaf3d68.md) · 在正确的时间，做正确的事
+- 2024-03-13 · [公众号原文](../../articles/wxmp-15d357f30cc233a5f6d1.md) · [分析卡](../../analysis/wxmp-15d357f30cc233a5f6d1.md) · 黄金很好，但不够好
+- 2024-03-12 · [公众号原文](../../articles/wxmp-cb1ea3457e2fa1480808.md) · [分析卡](../../analysis/wxmp-cb1ea3457e2fa1480808.md) · 什么叫富人？
+- 2024-03-11 · [公众号原文](../../articles/wxmp-8b1904c88577c9d872f7.md) · [分析卡](../../analysis/wxmp-8b1904c88577c9d872f7.md) · 婚后的钱要不要交出去？
+- 2024-03-07 · [公众号原文](../../articles/wxmp-8d75fd817696136dcc25.md) · [分析卡](../../analysis/wxmp-8d75fd817696136dcc25.md) · 你该投资什么东西？
+- 2024-03-06 · [公众号原文](../../articles/wxmp-e7c817e2a402a376cf4d.md) · [分析卡](../../analysis/wxmp-e7c817e2a402a376cf4d.md) · 为什么比特币新高，你却依然亏钱？
+- 2024-03-05 · [公众号原文](../../articles/wxmp-43a1eb37be4c1bb89cd6.md) · [分析卡](../../analysis/wxmp-43a1eb37be4c1bb89cd6.md) · 爱钱不可耻，可耻的是假装不爱钱
+- 2024-02-27 · [公众号原文](../../articles/wxmp-5b5a774db360fd53d72a.md) · [分析卡](../../analysis/wxmp-5b5a774db360fd53d72a.md) · 巴菲特为什么这么牛逼？
+- 2024-02-26 · [公众号原文](../../articles/wxmp-076a28bb1b78b4fefc63.md) · [分析卡](../../analysis/wxmp-076a28bb1b78b4fefc63.md) · 赚快钱还是赚慢钱？
+- 2024-02-21 · [公众号原文](../../articles/wxmp-2164403b3d7cd3e97f80.md) · [分析卡](../../analysis/wxmp-2164403b3d7cd3e97f80.md) · LPR大幅下调，买房还是卖房？
+- 2024-02-20 · [公众号原文](../../articles/wxmp-1ba16c3ca33e2af5ef59.md) · [分析卡](../../analysis/wxmp-1ba16c3ca33e2af5ef59.md) · 普通人怎么赚到1000万
+- 2024-02-18 · [公众号原文](../../articles/wxmp-0b4fe934ff2a6c42ec7f.md) · [分析卡](../../analysis/wxmp-0b4fe934ff2a6c42ec7f.md) · 人一辈子只需要踩中几次大周期
+- 2024-02-16 · [公众号原文](../../articles/wxmp-f8e131e6c46b20ae4671.md) · [分析卡](../../analysis/wxmp-f8e131e6c46b20ae4671.md) · 写在比特币新高之后
+- 2024-02-08 · [公众号原文](../../articles/wxmp-f30029abfcff88ca883d.md) · [分析卡](../../analysis/wxmp-f30029abfcff88ca883d.md) · 世上多数的烦恼，都因为2个字
+- 2024-02-06 · [公众号原文](../../articles/wxmp-75a82a552abc6f874d29.md) · [分析卡](../../analysis/wxmp-75a82a552abc6f874d29.md) · 赚钱很简单，才令人绝望
+- 2024-02-05 · [公众号原文](../../articles/wxmp-f9138f933e8ffa8f262e.md) · [分析卡](../../analysis/wxmp-f9138f933e8ffa8f262e.md) · 赚钱和爱国是两码事
+- 2024-02-01 · [公众号原文](../../articles/wxmp-b8b39585830944feda8d.md) · [分析卡](../../analysis/wxmp-b8b39585830944feda8d.md) · 有人说我“金钱至上”
+- 2024-01-31 · [公众号原文](../../articles/wxmp-d00c4e64accec84bfbda.md) · [分析卡](../../analysis/wxmp-d00c4e64accec84bfbda.md) · 没有一个赢家是捡来的
+- 2024-01-30 · [公众号原文](../../articles/wxmp-35ff6030581063884b3e.md) · [分析卡](../../analysis/wxmp-35ff6030581063884b3e.md) · 一线城市放开限购，意味着什么？
+- 2024-01-29 · [公众号原文](../../articles/wxmp-cfd41e1d65dd152de167.md) · [分析卡](../../analysis/wxmp-cfd41e1d65dd152de167.md) · 为什么你存不下钱？
+- 2024-01-25 · [公众号原文](../../articles/wxmp-b5b743e2bca51d34b824.md) · [分析卡](../../analysis/wxmp-b5b743e2bca51d34b824.md) · 小城市房子暴跌80%，你别不信
+- 2024-01-23 · [公众号原文](../../articles/wxmp-9527282a71a922f6a425.md) · [分析卡](../../analysis/wxmp-9527282a71a922f6a425.md) · 如何保住钱的购买力？
+- 2024-01-22 · [公众号原文](../../articles/wxmp-25577b98dc0a8c0e5c1b.md) · [分析卡](../../analysis/wxmp-25577b98dc0a8c0e5c1b.md) · 男人的三个钱包
+- 2024-01-18 · [公众号原文](../../articles/wxmp-c6a87e5b6d3c32ddd2ec.md) · [分析卡](../../analysis/wxmp-c6a87e5b6d3c32ddd2ec.md) · 是真没钱了
+- 2024-01-16 · [公众号原文](../../articles/wxmp-a693c8b5aba157330571.md) · [分析卡](../../analysis/wxmp-a693c8b5aba157330571.md) · 房产税的问题在哪里？
+- 2024-01-15 · [公众号原文](../../articles/wxmp-bac6239845b891ab6634.md) · [分析卡](../../analysis/wxmp-bac6239845b891ab6634.md) · 穷人真的无法翻身了吗？
+- 2024-01-11 · [公众号原文](../../articles/wxmp-e193db30a7d2d8843e4b.md) · [分析卡](../../analysis/wxmp-e193db30a7d2d8843e4b.md) · 比特币这个东西
+- 2024-01-09 · [公众号原文](../../articles/wxmp-da307d91ce9b376bdc9c.md) · [分析卡](../../analysis/wxmp-da307d91ce9b376bdc9c.md) · 房子里赚的钱，都是赌来的
+- 2024-01-05 · [公众号原文](../../articles/wxmp-751c1e87833a06bb2885.md) · [分析卡](../../analysis/wxmp-751c1e87833a06bb2885.md) · 2024年的房价只会更低
+- 2024-01-02 · [公众号原文](../../articles/wxmp-0906047fc4e9026079e1.md) · [分析卡](../../analysis/wxmp-0906047fc4e9026079e1.md) · 有钱人为什么有钱？
+- 2023-12-27 · [公众号原文](../../articles/wxmp-fff2442a1cfbc1db5df2.md) · [分析卡](../../analysis/wxmp-fff2442a1cfbc1db5df2.md) · 为什么清华北大不如胆子大？
+- 2023-12-21 · [公众号原文](../../articles/wxmp-224108bb47c1f97fbc16.md) · [分析卡](../../analysis/wxmp-224108bb47c1f97fbc16.md) · 还在幻想救市？
+- 2023-12-19 · [公众号原文](../../articles/wxmp-fb234ec519b9bdbbe471.md) · [分析卡](../../analysis/wxmp-fb234ec519b9bdbbe471.md) · 为什么我们爱跟富人扯上关系？
+- 2023-12-15 · [简书目录卡](../../jianshu_archive/jianshu-558ef10ad339.md) · 你以后怎么养老？
+- 2023-12-14 · [公众号原文](../../articles/wxmp-c7f6ba3270eecd389241.md) · [分析卡](../../analysis/wxmp-c7f6ba3270eecd389241.md) · 比特币惊魂跳水，反观A股挺起脊梁
+- 2023-12-11 · [公众号原文](../../articles/wxmp-ff136305945b1f3e1266.md) · [分析卡](../../analysis/wxmp-ff136305945b1f3e1266.md) · 投资和赌博的区别
+- 2023-12-06 · [公众号原文](../../articles/wxmp-741eeb8e2014cc4d7699.md) · [分析卡](../../analysis/wxmp-741eeb8e2014cc4d7699.md) · A股为什么常年在保卫3000点？
+- 2023-12-05 · [公众号原文](../../articles/wxmp-4695f1353f78829bca73.md) · [分析卡](../../analysis/wxmp-4695f1353f78829bca73.md) · 暴赚8000倍的是谁？
+- 2023-11-27 · [公众号原文](../../articles/wxmp-a2610d8d09834e8869ac.md) · [分析卡](../../analysis/wxmp-a2610d8d09834e8869ac.md) · 能捡到便宜的，都不是普通人
+- 2023-11-22 · [公众号原文](../../articles/wxmp-da7619c262641e22ab61.md) · [分析卡](../../analysis/wxmp-da7619c262641e22ab61.md) · 房价什么时候开始涨？
+- 2023-11-20 · [公众号原文](../../articles/wxmp-a54b4bafefeba910eaa0.md) · [分析卡](../../analysis/wxmp-a54b4bafefeba910eaa0.md) · “北上广深一套房而已”
+- 2023-11-16 · [公众号原文](../../articles/wxmp-d7f11ce7f838ee859062.md) · [分析卡](../../analysis/wxmp-d7f11ce7f838ee859062.md) · 普通人只能看着钱缩水吗？
+- 2023-11-14 · [公众号原文](../../articles/wxmp-c0c077635948b59f709d.md) · [分析卡](../../analysis/wxmp-c0c077635948b59f709d.md) · 赚钱需要往后看10年
+- 2023-11-10 · [公众号原文](../../articles/wxmp-7d6ce25aef9e525a6fd5.md) · [分析卡](../../analysis/wxmp-7d6ce25aef9e525a6fd5.md) · 为什么富人必须补贴穷人？
+- 2023-11-06 · [公众号原文](../../articles/wxmp-1563cb387f8e3202c5c8.md) · [分析卡](../../analysis/wxmp-1563cb387f8e3202c5c8.md) · 我从私董会里学到了什么？
+- 2023-11-01 · [简书目录卡](../../jianshu_archive/jianshu-4c0abd1a89d5.md) · 净值100万以下，除了挣钱别干别的
+- 2023-11-01 · [公众号原文](../../articles/wxmp-7d18fe74915d021be371.md) · [分析卡](../../analysis/wxmp-7d18fe74915d021be371.md) · 净值100万以下，除了挣钱别干别的。
+- 2023-10-24 · [公众号原文](../../articles/wxmp-12e0282d2a7070950b0b.md) · [分析卡](../../analysis/wxmp-12e0282d2a7070950b0b.md) · 买比特币和买房的时机
+- 2023-10-23 · [公众号原文](../../articles/wxmp-e4f80f96c0a9506e95ff.md) · [分析卡](../../analysis/wxmp-e4f80f96c0a9506e95ff.md) · 香港的房价为什么不跌？
+- 2023-10-09 · [公众号原文](../../articles/wxmp-9bd33bc7fcdfa2ab2015.md) · [分析卡](../../analysis/wxmp-9bd33bc7fcdfa2ab2015.md) · 什么人可以一直赚到钱？
+- 2023-10-07 · [公众号原文](../../articles/wxmp-1eb355da921da2cb6de1.md) · [分析卡](../../analysis/wxmp-1eb355da921da2cb6de1.md) · 其实楼市的结局，许老板早已看到
+- 2023-09-26 · [公众号原文](../../articles/wxmp-fcfb95454a673cd78cfb.md) · [分析卡](../../analysis/wxmp-fcfb95454a673cd78cfb.md) · 上车盘的崩盘
+- 2023-09-20 · [公众号原文](../../articles/wxmp-7a37a9b03ec02b5d0b06.md) · [分析卡](../../analysis/wxmp-7a37a9b03ec02b5d0b06.md) · 注意，我说的是“致富”
+- 2023-09-18 · [简书目录卡](../../jianshu_archive/jianshu-451f27026f23.md) · 要去哪里赚钱？
+- 2023-09-08 · [公众号原文](../../articles/wxmp-132fb41782bfde33b789.md) · [分析卡](../../analysis/wxmp-132fb41782bfde33b789.md) · 为什么要赚富人的钱？
+- 2023-09-01 · [公众号原文](../../articles/wxmp-691533495f447edcdc21.md) · [分析卡](../../analysis/wxmp-691533495f447edcdc21.md) · 密集利好，房子可以买了吗？
+- 2023-08-30 · [公众号原文](../../articles/wxmp-710611e59e5cd8670e26.md) · [分析卡](../../analysis/wxmp-710611e59e5cd8670e26.md) · 为什么钱突然不好赚了？
+- 2023-08-28 · [公众号原文](../../articles/wxmp-9b6784c7a6d84f7be45b.md) · [分析卡](../../analysis/wxmp-9b6784c7a6d84f7be45b.md) · 赚钱能力永远&gt;资产存量
+- 2023-08-23 · [公众号原文](../../articles/wxmp-f52494e4932383be9754.md) · [分析卡](../../analysis/wxmp-f52494e4932383be9754.md) · 你有没有学会花钱？
+- 2023-08-22 · [公众号原文](../../articles/wxmp-ae57f190789e6689e2a6.md) · [分析卡](../../analysis/wxmp-ae57f190789e6689e2a6.md) · 年轻人拜金对不对？
+- 2023-08-18 · [公众号原文](../../articles/wxmp-7237b5521fc39db1b0b9.md) · [分析卡](../../analysis/wxmp-7237b5521fc39db1b0b9.md) · 亏钱都从自欺欺人开始
+- 2023-08-14 · [简书目录卡](../../jianshu_archive/jianshu-a37dd3b15edb.md) · 这三句话告诉你赚大钱的逻辑！
+- 2023-08-14 · [公众号原文](../../articles/wxmp-ac5b09386fde01608128.md) · [分析卡](../../analysis/wxmp-ac5b09386fde01608128.md) · 要赚大钱，不要赚小钱
+- 2023-08-11 · [公众号原文](../../articles/wxmp-2bf87ef68f9906cc5f7c.md) · [分析卡](../../analysis/wxmp-2bf87ef68f9906cc5f7c.md) · 赚钱需要一点敏感度
+- 2023-08-10 · [公众号原文](../../articles/wxmp-31f251ee3d23672d1b62.md) · [分析卡](../../analysis/wxmp-31f251ee3d23672d1b62.md) · 信息不对称就是钱
+- 2023-08-09 · [公众号原文](../../articles/wxmp-5880ec9f6a95a72ad717.md) · [分析卡](../../analysis/wxmp-5880ec9f6a95a72ad717.md) · 没想到它这么赚钱
+- 2023-08-08 · [公众号原文](../../articles/wxmp-6e022d82ebc2971400e8.md) · [分析卡](../../analysis/wxmp-6e022d82ebc2971400e8.md) · A股为什么涨不上去？
+- 2023-08-03 · [公众号原文](../../articles/wxmp-00810c79c4df32702f18.md) · [分析卡](../../analysis/wxmp-00810c79c4df32702f18.md) · 钱都去哪儿了？
+- 2023-08-02 · [简书目录卡](../../jianshu_archive/jianshu-056382d256ed.md) · 做好这两类事情，不怕没有赚钱的机会
+- 2023-07-25 · [公众号原文](../../articles/wxmp-2daba994d184b05dae03.md) · [分析卡](../../analysis/wxmp-2daba994d184b05dae03.md) · 底层需要做无本万利的事
+- 2023-07-18 · [简书目录卡](../../jianshu_archive/jianshu-abeca8bb80e9.md) · 如何做到钱多事少离家近？
+- 2023-07-14 · [简书目录卡](../../jianshu_archive/jianshu-8d842efd3cb9.md) · 想要“单车换豪车”？别怪富人不理你
+- 2023-07-03 · [简书目录卡](../../jianshu_archive/jianshu-bb85008f4da1.md) · “只买头部”的背后，藏着怎样的投资逻辑？
+- 2023-06-26 · [简书目录卡](../../jianshu_archive/jianshu-8357ff53bd92.md) · 什么钱只能让你赚？
+- 2023-06-21 · [简书目录卡](../../jianshu_archive/jianshu-dd16ca675e7e.md) · 投资不看价格还能看什么？
+- 2023-06-08 · [简书目录卡](../../jianshu_archive/jianshu-a858f653ecc5.md) · 有钱人不领证是大势所趋
+- 2023-05-22 · [简书目录卡](../../jianshu_archive/jianshu-3d220dab1509.md) · 普通人要赚到钱，必须先变得不普通
+- 2023-05-19 · [简书目录卡](../../jianshu_archive/jianshu-35e3f1be14a8.md) · 如果你的安全感来自存钱，你就还没入门
+- 2023-05-18 · [简书目录卡](../../jianshu_archive/jianshu-37fc2938e2a0.md) · 劝你不要太早存钱
+- 2023-05-10 · [简书目录卡](../../jianshu_archive/jianshu-6158e9a51b23.md) · 穷人一定要赌，但不是赌博的赌
+- 2023-05-04 · [简书目录卡](../../jianshu_archive/jianshu-0d419378c47d.md) · 赚钱=寻找不确定中的确定
+- 2023-04-28 · [简书目录卡](../../jianshu_archive/jianshu-ccab47c08c7c.md) · 准备好迎接大通胀
+- 2023-04-21 · [简书目录卡](../../jianshu_archive/jianshu-5771d32e4278.md) · 富人的乐趣
+- 2023-04-10 · [简书目录卡](../../jianshu_archive/jianshu-a989442959fc.md) · 买房一定要学会看风水
+- 2023-04-04 · [简书目录卡](../../jianshu_archive/jianshu-489c68653c4f.md) · 为什么告诉你比特币你也不会买？
+- 2023-03-30 · [简书目录卡](../../jianshu_archive/jianshu-d862ed370249.md) · “投资自己”到底是增值还是陷阱？
+- 2023-03-24 · [简书目录卡](../../jianshu_archive/jianshu-1cdfc98b3714.md) · 你的财富级别，基本取决于熊市
+- 2023-03-13 · [简书目录卡](../../jianshu_archive/jianshu-122c003194f4.md) · 为什么有钱人无法永远有钱？
+- 2023-03-08 · [简书目录卡](../../jianshu_archive/jianshu-6019cc1c3101.md) · 赚钱要始终心存敬畏
+- 2023-03-07 · [简书目录卡](../../jianshu_archive/jianshu-bbf268ef9546.md) · 实事求是，是挣钱的第一生产力
+- 2023-03-06 · [简书目录卡](../../jianshu_archive/jianshu-22498eb86135.md) · 房子到底还能不能买？这个决策影响未来几十年
+- 2023-02-24 · [简书目录卡](../../jianshu_archive/jianshu-199725d907b6.md) · 赚钱的终极目的
+- 2023-02-22 · [简书目录卡](../../jianshu_archive/jianshu-76ce07d7b58c.md) · 赚大钱的人，都懂的一个前置步骤
+- 2023-02-16 · [简书目录卡](../../jianshu_archive/jianshu-bc66d167e9ce.md) · 赚钱和智商的关系真没那么大
+- 2023-02-08 · [简书目录卡](../../jianshu_archive/jianshu-7f3b4706dc63.md) · 普通人如何突破收入上限？
+- 2022-12-29 · [公众号原文](../../articles/wxmp-80bc0e8a39e3076ede88.md) · [分析卡](../../analysis/wxmp-80bc0e8a39e3076ede88.md) · 真正的财富洗牌开始了
+- 2022-12-27 · [简书目录卡](../../jianshu_archive/jianshu-2760581f8639.md) · 在什么地方能赚到钱？
+- 2022-12-23 · [简书目录卡](../../jianshu_archive/jianshu-efd75f880b43.md) · 多数人，是钱和爱两样都没有
+- 2022-12-13 · [简书目录卡](../../jianshu_archive/jianshu-8a53731aeace.md) · 年轻人赚不到钱，主要原因在这里
+- 2022-11-29 · [简书目录卡](../../jianshu_archive/jianshu-b2ce6f6a76c4.md) · 富人的钱是不是靠勤奋赚来的？
+- 2022-11-28 · [简书目录卡](../../jianshu_archive/jianshu-0d513ff0bfa9.md) · 为什么情感在大量财富面前不值一提？
+- 2022-11-22 · [简书目录卡](../../jianshu_archive/jianshu-6b712678864e.md) · 穷人的钱才是钱，富人都是薛定谔的资产
+- 2022-11-09 · [简书目录卡](../../jianshu_archive/jianshu-32d7bfd96318.md) · 钱就是钱，别跟感情搞混了
+- 2022-11-07 · [简书目录卡](../../jianshu_archive/jianshu-711287327182.md) · 投资的本质是“提前占有”
+- 2022-10-27 · [简书目录卡](../../jianshu_archive/jianshu-b62ba257d33a.md) · 这TM才叫赚钱！
+- 2022-10-11 · [简书目录卡](../../jianshu_archive/jianshu-a89181c6f27f.md) · 家人们，抄底了？
+- 2022-10-10 · [简书目录卡](../../jianshu_archive/jianshu-40191d4d9a35.md) · 钱从来不是最大的安全感
+- 2022-09-30 · [简书目录卡](../../jianshu_archive/jianshu-9f14a7ecc73c.md) · 楼市悄悄松绑，买还是不买？
+- 2022-09-29 · [简书目录卡](../../jianshu_archive/jianshu-fee1c021ebee.md) · 有钱人该在意什么？
+- 2022-09-26 · [简书目录卡](../../jianshu_archive/jianshu-756460816939.md) · 黄牛倒卖iphone14亏钱，大家为什么这么开心？
+- 2022-09-19 · [简书目录卡](../../jianshu_archive/jianshu-05c6fb24eb98.md) · 坚持赚钱，往往不太能赚到钱
+- 2022-09-15 · [简书目录卡](../../jianshu_archive/jianshu-1afcb9dd1ed2.md) · 600759能回本吗？
+- 2022-09-07 · [简书目录卡](../../jianshu_archive/jianshu-87c36b672be1.md) · 为什么商业养老才是未来的主流？
+- 2022-09-06 · [简书目录卡](../../jianshu_archive/jianshu-eb661f8faba4.md) · 金融圈是不是特别乱？
+- 2022-09-01 · [简书目录卡](../../jianshu_archive/jianshu-d03b3d8415f8.md) · 为什么很多人在买房上挣了大钱？
+- 2022-08-22 · [简书目录卡](../../jianshu_archive/jianshu-d2eff2152ad9.md) · 如何获得第一桶金？
+- 2022-08-18 · [简书目录卡](../../jianshu_archive/jianshu-31e2b3d5b750.md) · 投资就是一起做局
+- 2022-07-27 · [简书目录卡](../../jianshu_archive/jianshu-7c07600b55c8.md) · 为什么学了这么多投资策略还是亏钱？
+- 2022-06-27 · [简书目录卡](../../jianshu_archive/jianshu-3a4e5e4cfcb1.md) · 你的房子够住了吗？
+- 2022-05-16 · [简书目录卡](../../jianshu_archive/jianshu-5bdadaec57da.md) · 赚到钱之后，怎么办？
+- 2022-05-11 · [简书目录卡](../../jianshu_archive/jianshu-a19ac6e5c9c1.md) · 只有信仰，才有机会做到顶级
+- 2022-04-28 · [简书目录卡](../../jianshu_archive/jianshu-2207eba222be.md) · 如果你不知道该干什么，就去挣钱
+- 2022-04-18 · [简书目录卡](../../jianshu_archive/jianshu-763a9c518ef9.md) · 越有钱是不是赚钱越简单？
+- 2022-01-27 · [简书目录卡](../../jianshu_archive/jianshu-1965f3b7efb4.md) · 每一个牛市都需要一个引爆器，这次是它
+- 2021-10-08 · [简书目录卡](../../jianshu_archive/jianshu-2ae61e9160e8.md) · 你真以为自己赚钱了吗？
+- 2021-09-03 · [简书目录卡](../../jianshu_archive/jianshu-7f93a1dcef5b.md) · 分享3点买房经验
+- 2021-05-18 · [简书目录卡](../../jianshu_archive/jianshu-63acb023429e.md) · 没有人能随随便便成功
+- 2021-04-08 · [简书目录卡](../../jianshu_archive/jianshu-21a6f051cebf.md) · 把钱放在值钱的地方
+- 2021-03-15 · [简书目录卡](../../jianshu_archive/jianshu-36274dd257af.md) · 普通人唯一正确的投资方式
+- 2021-02-22 · [简书目录卡](../../jianshu_archive/jianshu-3a0fdf2ae086.md) · 关于比特币的10个主流误解
+- 2021-02-19 · [简书目录卡](../../jianshu_archive/jianshu-106fa8e224dc.md) · 比特币的投资窗口正在关闭
+- 2021-01-20 · [简书目录卡](../../jianshu_archive/jianshu-620632936ff8.md) · 买房，你买的是什么？
+- 2020-12-04 · [简书目录卡](../../jianshu_archive/jianshu-78ec9f9e2a46.md) · 大部分人的成功，不过是运气好罢了
+- 2020-11-27 · [简书目录卡](../../jianshu_archive/jianshu-920490c66686.md) · 拆迁户和富人的区别
+- 2020-10-15 · [简书目录卡](../../jianshu_archive/jianshu-cd031b42fdb9.md) · 如何才能赚到快钱？
+- 2020-09-25 · [简书目录卡](../../jianshu_archive/jianshu-db2ffa838e11.md) · 蔡垒磊：爱的标准，是不是肯花钱？
+- 2020-07-22 · [简书目录卡](../../jianshu_archive/jianshu-e7bbf6235e64.md) · 蔡垒磊：财富是仅靠挣就能拥有的吗？
+- 2020-06-09 · [简书目录卡](../../jianshu_archive/jianshu-21d3b11957c4.md) · 蔡垒磊：深圳楼市，开始刀头舐血
+- 2020-05-26 · [简书目录卡](../../jianshu_archive/jianshu-c414a8a22758.md) · 蔡垒磊：钱可以解决你的烦恼吗？
+- 2020-04-26 · [简书目录卡](../../jianshu_archive/jianshu-4f5b5a2f2e39.md) · 蔡垒磊：要成为富人必须先做到这一点
+- 2020-04-14 · [简书目录卡](../../jianshu_archive/jianshu-9cc9a27f0af5.md) · 蔡垒磊：如何快速掌握赚钱的方法？
+- 2020-03-13 · [简书目录卡](../../jianshu_archive/jianshu-3f53b7ba8c24.md) · 蔡垒磊：财富洗牌开始，你最该做的5件事
+- 2019-12-25 · [简书目录卡](../../jianshu_archive/jianshu-14b22dc3759e.md) · 蔡垒磊：定投不牛逼，存钱不丢人。
+- 2019-11-12 · [简书目录卡](../../jianshu_archive/jianshu-f7a33ce0b0e4.md) · 蔡垒磊：怎么计算一个人有多少钱？
+- 2019-06-27 · [简书目录卡](../../jianshu_archive/jianshu-4e014d8b24a3.md) · 蔡垒磊：为什么我们认为的很赚钱的企业常常会亏损？
+- 2019-05-21 · [简书目录卡](../../jianshu_archive/jianshu-0768ac9779c8.md) · 蔡垒磊：什么时候该把比特币卖掉？
+- 2019-05-07 · [简书目录卡](../../jianshu_archive/jianshu-c893a8a1dd7b.md) · 蔡垒磊：花钱上的斯坦福有没有用？
+- 2019-04-24 · [简书目录卡](../../jianshu_archive/jianshu-331caa5b516e.md) · 蔡垒磊：因为不会花钱，错过了上海一套房
+- 2019-02-28 · [简书目录卡](../../jianshu_archive/jianshu-fdf4e52e58fd.md) · 蔡垒磊：你去开户了没？
+- 2018-07-07 · [简书目录卡](../../jianshu_archive/jianshu-928045bd602c.md) · 蔡垒磊：我不是药神|穷人有没有活命的权利？
+- 2018-07-04 · [简书目录卡](../../jianshu_archive/jianshu-502b2ca5a268.md) · 蔡垒磊：你以为李笑来是这样的，其实他是那样的
+- 2018-04-25 · [简书目录卡](../../jianshu_archive/jianshu-7b2f4b0a1b53.md) · 蔡垒磊：要用六个钱包，你还买房吗？
+- 2018-02-11 · [简书目录卡](../../jianshu_archive/jianshu-4596dadcfa1c.md) · 有人为北上广的房子而发愁，有人挣了125亿
+- 2018-02-06 · [简书目录卡](../../jianshu_archive/jianshu-64f564e90d2f.md) · 别被比特币们惯傻了
+- 2018-01-06 · [简书目录卡](../../jianshu_archive/jianshu-ed5052cc2225.md) · 为什么人人都该买点比特币？
+- 2018-01-02 · [简书目录卡](../../jianshu_archive/jianshu-2308e78431c4.md) · 想让别人多顾及你的面子，先看看自己是不是值钱
+- 2017-10-20 · [简书目录卡](../../jianshu_archive/jianshu-02628c49f43d.md) · 面具下的大V——赚钱挺不容易的
+- 2017-09-26 · [简书目录卡](../../jianshu_archive/jianshu-d0cb99bdd50f.md) · 钱不重要，重要的是不值钱
+- 2017-09-11 · [简书目录卡](../../jianshu_archive/jianshu-3b985184c8bc.md) · 压岁钱，究竟该谁拿？
+- 2017-09-08 · [简书目录卡](../../jianshu_archive/jianshu-07a70d782c42.md) · 老人家，我真的没想让你赔钱啊
+- 2017-08-23 · [简书目录卡](../../jianshu_archive/jianshu-01e5d00be035.md) · 富人的命就是比穷人的值钱
+- 2017-08-07 · [简书目录卡](../../jianshu_archive/jianshu-38bd421fa9c6.md) · 财富涟漪：为什么总说要跟对人？
+- 2016-08-05 · [简书目录卡](../../jianshu_archive/jianshu-4234970137ed.md) · 不会挣钱？手把手教你这门手艺活！
+- 2016-05-30 · [简书目录卡](../../jianshu_archive/jianshu-0ea028767b75.md) · 明明能免费，为何你还给钱

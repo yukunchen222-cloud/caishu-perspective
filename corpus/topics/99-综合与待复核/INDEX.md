@@ -1,0 +1,375 @@
+# 综合与待复核
+
+标题和可用摘要不足以可靠区分主题，或同时命中多个主题的条目。
+
+条目数：**365**（公众号原文 98；简书摘要 1；简书目录卡 266）。
+
+分类是导航建议，依据标题及可用的分析摘要/列表导语；低置信条目集中在‘综合与待复核’。涉及具体判断时仍应打开原文和分析卡。
+
+## 内容清单
+
+- 2026-10-15 · [简书摘要](../../crossposts/crosspost-77f071e8f7fa.md) · 如何拿到大结果？
+- 2026-09-09 · [公众号原文](../../articles/wxmp-c47774d84a2061a7d66e.md) · [分析卡](../../analysis/wxmp-c47774d84a2061a7d66e.md) · 底层人如何找到属于自己的道？
+- 2026-09-08 · [公众号原文](../../articles/wxmp-a586e6f3c2b05ffddfa0.md) · [分析卡](../../analysis/wxmp-a586e6f3c2b05ffddfa0.md) · 你是不是也在混日子？
+- 2026-08-28 · [简书目录卡](../../jianshu_archive/jianshu-98da156d6682.md) · 孙哥和景甜谁亏谁赚？
+- 2026-08-24 · [简书目录卡](../../jianshu_archive/jianshu-84cf6f880ba2.md) · 为什么炒美元没意义？
+- 2026-08-07 · [简书目录卡](../../jianshu_archive/jianshu-edd249a91591.md) · 你真的独立了吗？
+- 2026-08-06 · [简书目录卡](../../jianshu_archive/jianshu-faa5171ee6b4.md) · 国内年轻人最缺的是什么？
+- 2026-07-30 · [简书目录卡](../../jianshu_archive/jianshu-c1c133273f06.md) · 王阳明在龙场悟出了什么？
+- 2026-07-28 · [简书目录卡](../../jianshu_archive/jianshu-574f1879210b.md) · 是北大塑造了王虹邓煜吗？
+- 2026-07-22 · [简书目录卡](../../jianshu_archive/jianshu-2d90ecb87f73.md) · 先别急着恢复信心，经济复苏还需要很久
+- 2026-07-17 · [公众号原文](../../articles/wxmp-b8b2cda623d0d1b13171.md) · [分析卡](../../analysis/wxmp-b8b2cda623d0d1b13171.md) · 邹市明亏光2亿，我们能学到什么？
+- 2026-06-09 · [公众号原文](../../articles/wxmp-918e913a7f2e3dd88c5f.md) · [分析卡](../../analysis/wxmp-918e913a7f2e3dd88c5f.md) · 普通人的饭碗被抢走，本就是迟早的事
+- 2026-06-08 · [公众号原文](../../articles/wxmp-8bbb14ce066c2a50bf96.md) · [分析卡](../../analysis/wxmp-8bbb14ce066c2a50bf96.md) · 你对我好，不代表我要对你好
+- 2026-06-01 · [公众号原文](../../articles/wxmp-85b73294dc8746d360ec.md) · [分析卡](../../analysis/wxmp-85b73294dc8746d360ec.md) · 5000块的token和5000块的人，你选哪个？
+- 2026-05-29 · [公众号原文](../../articles/wxmp-29d8fab895436bacd126.md) · [分析卡](../../analysis/wxmp-29d8fab895436bacd126.md) · 亿万富翁对女儿的忠告
+- 2026-05-20 · [公众号原文](../../articles/wxmp-a0545f66d02f9bd9a857.md) · [分析卡](../../analysis/wxmp-a0545f66d02f9bd9a857.md) · 成为下一个时代的巴菲特
+- 2026-05-13 · [公众号原文](../../articles/wxmp-c9786388c735760d8d33.md) · [分析卡](../../analysis/wxmp-c9786388c735760d8d33.md) · 迪士尼需要改变吗？
+- 2026-04-27 · [公众号原文](../../articles/wxmp-cbd322a9fc0a2a083668.md) · [分析卡](../../analysis/wxmp-cbd322a9fc0a2a083668.md) · 一个“只有头部才能活”的时代
+- 2026-04-24 · [公众号原文](../../articles/wxmp-e4b9ddcf8725f9d772a3.md) · [分析卡](../../analysis/wxmp-e4b9ddcf8725f9d772a3.md) · 如何去除自己的登味？
+- 2026-04-17 · [公众号原文](../../articles/wxmp-810078688e1b5b51bb10.md) · [分析卡](../../analysis/wxmp-810078688e1b5b51bb10.md) · 你以为你在做事，其实你在卷人
+- 2026-04-13 · [公众号原文](../../articles/wxmp-268216b0f67affbf93e4.md) · [分析卡](../../analysis/wxmp-268216b0f67affbf93e4.md) · 大多数中年人，虽生犹死
+- 2026-04-01 · [公众号原文](../../articles/wxmp-46c2341fa3ee4b47c54a.md) · [分析卡](../../analysis/wxmp-46c2341fa3ee4b47c54a.md) · 如何避免自己变笨？
+- 2026-03-30 · [公众号原文](../../articles/wxmp-c4c4d651762ff9602fc1.md) · [分析卡](../../analysis/wxmp-c4c4d651762ff9602fc1.md) · 如何评价张雪峰？
+- 2026-03-19 · [公众号原文](../../articles/wxmp-b667cb2d7c1064c0b316.md) · [分析卡](../../analysis/wxmp-b667cb2d7c1064c0b316.md) · 理解了底层规律，有什么用？
+- 2026-03-10 · [公众号原文](../../articles/wxmp-d3d51e341c4d46aecb64.md) · [分析卡](../../analysis/wxmp-d3d51e341c4d46aecb64.md) · 为什么你总是被欺负？
+- 2026-02-25 · [公众号原文](../../articles/wxmp-25239c7f16ec0ee3ae2f.md) · [分析卡](../../analysis/wxmp-25239c7f16ec0ee3ae2f.md) · 如何看待Citrini的全球危机言论？
+- 2026-02-22 · [公众号原文](../../articles/wxmp-f20af1e48889dabf3c90.md) · [分析卡](../../analysis/wxmp-f20af1e48889dabf3c90.md) · 春节马上要结束了，很多人说，年味淡了——虽然往常也这么说，但今年的年味，似乎显得格外的淡，因为连刘德华的歌声都不怎么听得到了。 年味，我们经常在说的这个词，到底是什么意思？什么是年味？其实就…
+- 2026-02-20 · [公众号原文](../../articles/wxmp-a4389761aa46371ff477.md) · [分析卡](../../analysis/wxmp-a4389761aa46371ff477.md) · 会用AI，或许也不一定有用。
+- 2026-02-10 · [简书目录卡](../../jianshu_archive/jianshu-f093ea6877b3.md) · 如何最快速度拿到结果
+- 2026-02-09 · [简书目录卡](../../jianshu_archive/jianshu-8b3d85619c28.md) · AI会不会导致全民失业？
+- 2026-02-05 · [公众号原文](../../articles/wxmp-b147957c24a06c8b8237.md) · [分析卡](../../analysis/wxmp-b147957c24a06c8b8237.md) · AI真的缩小了人和人的差距吗？
+- 2026-01-26 · [公众号原文](../../articles/wxmp-7366fd7d09ea5f4b3511.md) · [分析卡](../../analysis/wxmp-7366fd7d09ea5f4b3511.md) · 为什么赘婿的要求这么高？
+- 2026-01-23 · [简书目录卡](../../jianshu_archive/jianshu-e22a6936eaef.md) · 高手为什么是高手？
+- 2025-12-19 · [公众号原文](../../articles/wxmp-cc82b3707d4ec78e83af.md) · [分析卡](../../analysis/wxmp-cc82b3707d4ec78e83af.md) · 为什么我极度厌恶PVP？
+- 2025-12-09 · [公众号原文](../../articles/wxmp-6061f0c0a33ca4b757a7.md) · [分析卡](../../analysis/wxmp-6061f0c0a33ca4b757a7.md) · 如何跑赢大多数人？
+- 2025-11-10 · [简书目录卡](../../jianshu_archive/jianshu-187440a12d6d.md) · 先顾自己，再顾他人
+- 2025-10-27 · [公众号原文](../../articles/wxmp-c3f9d80ed860ab53840d.md) · [分析卡](../../analysis/wxmp-c3f9d80ed860ab53840d.md) · 谁是那个买单的人？
+- 2025-10-14 · [公众号原文](../../articles/wxmp-cd5958a23195167eefff.md) · [分析卡](../../analysis/wxmp-cd5958a23195167eefff.md) · 你以为的稳定，恰恰是不稳定
+- 2025-10-13 · [公众号原文](../../articles/wxmp-60d7e73e8f5e56401119.md) · [分析卡](../../analysis/wxmp-60d7e73e8f5e56401119.md) · 你以为的专业，其实并不专业
+- 2025-10-07 · [公众号原文](../../articles/wxmp-ddd7fd7bea98354b30a4.md) · [分析卡](../../analysis/wxmp-ddd7fd7bea98354b30a4.md) · 爱是一种绝对值，还是相对值？
+- 2025-09-28 · [公众号原文](../../articles/wxmp-fcdb10119ffe273cd241.md) · [分析卡](../../analysis/wxmp-fcdb10119ffe273cd241.md) · 所有的爱都是有条件的
+- 2025-09-16 · [公众号原文](../../articles/wxmp-22d3853a9381ca84a3e1.md) · [分析卡](../../analysis/wxmp-22d3853a9381ca84a3e1.md) · 一线城市也还得跌
+- 2025-09-15 · [公众号原文](../../articles/wxmp-768f846e79b4faf3ddff.md) · [分析卡](../../analysis/wxmp-768f846e79b4faf3ddff.md) · 西贝没有硬刚的资格
+- 2025-09-08 · [公众号原文](../../articles/wxmp-c58d731ffac868677f15.md) · [分析卡](../../analysis/wxmp-c58d731ffac868677f15.md) · 你永远不知道你错过了什么
+- 2025-08-13 · [公众号原文](../../articles/wxmp-c1bee543c0d5fc5d125a.md) · [分析卡](../../analysis/wxmp-c1bee543c0d5fc5d125a.md) · 失败到底是不是成功之母？
+- 2025-08-04 · [简书目录卡](../../jianshu_archive/jianshu-30a3178cf000.md) · 你浪费过“成功机会”吗？
+- 2025-08-04 · [简书目录卡](../../jianshu_archive/jianshu-a8744b2dec3c.md) · 你家里有没有金库？
+- 2025-08-01 · [公众号原文](../../articles/wxmp-67cdc7475ed777bccc35.md) · [分析卡](../../analysis/wxmp-67cdc7475ed777bccc35.md) · 所有的庸才，都有一个共性
+- 2025-07-30 · [公众号原文](../../articles/wxmp-a5586ff1293f4d943e36.md) · [分析卡](../../analysis/wxmp-a5586ff1293f4d943e36.md) · 穷人最大的问题，是不玩复利游戏
+- 2025-07-24 · [简书目录卡](../../jianshu_archive/jianshu-89c7e32adeee.md) · 所有矛盾的根源，都在这个点上
+- 2025-07-14 · [公众号原文](../../articles/wxmp-956565b8f6dc4bc2c68e.md) · [分析卡](../../analysis/wxmp-956565b8f6dc4bc2c68e.md) · 私生子为什么不违法？
+- 2025-06-26 · [公众号原文](../../articles/wxmp-6258078723487cd57a58.md) · [分析卡](../../analysis/wxmp-6258078723487cd57a58.md) · 你并不看好Circle
+- 2025-06-19 · [公众号原文](../../articles/wxmp-8fa0968e860602f71486.md) · [分析卡](../../analysis/wxmp-8fa0968e860602f71486.md) · 如何找到下一个英伟达？
+- 2025-05-28 · [简书目录卡](../../jianshu_archive/jianshu-95419053cdd7.md) · 为什么要“尽人事，听天命”？
+- 2025-05-26 · [公众号原文](../../articles/wxmp-99c95d82068f81313f0e.md) · [分析卡](../../analysis/wxmp-99c95d82068f81313f0e.md) · 为什么你做中间人，却拿不到居间费？
+- 2025-05-26 · [简书目录卡](../../jianshu_archive/jianshu-e0b9da6cfeb6.md) · 黑客的黑暗森林
+- 2025-05-15 · [公众号原文](../../articles/wxmp-a27f3b91bf31e715727b.md) · [分析卡](../../analysis/wxmp-a27f3b91bf31e715727b.md) · 人和人的感情是如何产生的？
+- 2025-05-12 · [公众号原文](../../articles/wxmp-8c32f367bca1fa8fbb7b.md) · [分析卡](../../analysis/wxmp-8c32f367bca1fa8fbb7b.md) · 你遭人嫉妒过吗？
+- 2025-04-27 · [简书目录卡](../../jianshu_archive/jianshu-e47d29a6156e.md) · 吃一份外卖的成本
+- 2025-04-21 · [简书目录卡](../../jianshu_archive/jianshu-b786601e18bd.md) · 京东有点太油了
+- 2025-03-26 · [公众号原文](../../articles/wxmp-aaa893056abf8f55237a.md) · [分析卡](../../analysis/wxmp-aaa893056abf8f55237a.md) · 凡有依赖，则必有代价
+- 2025-03-20 · [公众号原文](../../articles/wxmp-94fac0245696c6f09348.md) · [分析卡](../../analysis/wxmp-94fac0245696c6f09348.md) · 别让LJC跑了？
+- 2025-02-04 · [公众号原文](../../articles/wxmp-2382ee654f786757873f.md) · [分析卡](../../analysis/wxmp-2382ee654f786757873f.md) · 无量仙翁是好人坏人？
+- 2025-01-20 · [公众号原文](../../articles/wxmp-51d6fe12b1ad8e9eaa84.md) · [分析卡](../../analysis/wxmp-51d6fe12b1ad8e9eaa84.md) · 总统是这么玩的
+- 2025-01-06 · [简书目录卡](../../jianshu_archive/jianshu-b7b3b74cec3e.md) · 婚姻制度的落后性
+- 2025-01-03 · [简书目录卡](../../jianshu_archive/jianshu-cc27a4272298.md) · 真正的经济危机，或许才刚刚开始
+- 2024-12-25 · [公众号原文](../../articles/wxmp-76324a5d6e849ca5dd78.md) · [分析卡](../../analysis/wxmp-76324a5d6e849ca5dd78.md) · 为什么你的生活会一团糟？
+- 2024-12-20 · [公众号原文](../../articles/wxmp-d379ba53a25eae66dc7b.md) · [分析卡](../../analysis/wxmp-d379ba53a25eae66dc7b.md) · 住自己的房子，就幸福了吗？
+- 2024-12-09 · [简书目录卡](../../jianshu_archive/jianshu-1936c47c5e64.md) · 《再见爱人》的这三对，都一般
+- 2024-11-20 · [公众号原文](../../articles/wxmp-bc39600e13576a9f5925.md) · [分析卡](../../analysis/wxmp-bc39600e13576a9f5925.md) · 世界是一个巨大的筛子
+- 2024-11-15 · [公众号原文](../../articles/wxmp-d04003730e7678a30e89.md) · [分析卡](../../analysis/wxmp-d04003730e7678a30e89.md) · 真实的李行亮和麦琳
+- 2024-11-07 · [公众号原文](../../articles/wxmp-c5459f3d8a5b26abc18a.md) · [分析卡](../../analysis/wxmp-c5459f3d8a5b26abc18a.md) · 现在的生育率才是正常的
+- 2024-10-23 · [简书目录卡](../../jianshu_archive/jianshu-9648b1f1c462.md) · 捡到大便宜这件事，是不存在的
+- 2024-10-22 · [公众号原文](../../articles/wxmp-80e24b23b748881fa5ff.md) · [分析卡](../../analysis/wxmp-80e24b23b748881fa5ff.md) · 经济转好跟你有什么关系？
+- 2024-10-09 · [公众号原文](../../articles/wxmp-d74321d64b47bd8f3ec9.md) · [分析卡](../../analysis/wxmp-d74321d64b47bd8f3ec9.md) · 为什么你必须有老板思维？
+- 2024-10-07 · [公众号原文](../../articles/wxmp-9ad6175f3f5e25469bf5.md) · [分析卡](../../analysis/wxmp-9ad6175f3f5e25469bf5.md) · 爷叔的疯狂
+- 2024-09-23 · [公众号原文](../../articles/wxmp-cb101b44e0f67788e3cf.md) · [分析卡](../../analysis/wxmp-cb101b44e0f67788e3cf.md) · 牛马文化是从哪儿来的？
+- 2024-09-19 · [简书目录卡](../../jianshu_archive/jianshu-933801c3f015.md) · 我们为什么会进入负面螺旋？
+- 2024-09-18 · [公众号原文](../../articles/wxmp-3d3654fbaf6475e55307.md) · [分析卡](../../analysis/wxmp-3d3654fbaf6475e55307.md) · 要卷，但要卷对地方
+- 2024-09-12 · [公众号原文](../../articles/wxmp-59a44205d9a2a86e8758.md) · [分析卡](../../analysis/wxmp-59a44205d9a2a86e8758.md) · 强迫别人改变，是一种病
+- 2024-09-09 · [公众号原文](../../articles/wxmp-7fd6729974f2b784b36d.md) · [分析卡](../../analysis/wxmp-7fd6729974f2b784b36d.md) · 35岁歧视怎么破？
+- 2024-09-03 · [公众号原文](../../articles/wxmp-27a799b8fbaf2e823b47.md) · [分析卡](../../analysis/wxmp-27a799b8fbaf2e823b47.md) · 只有一种东西可以被继承
+- 2024-08-13 · [公众号原文](../../articles/wxmp-7c0fa0e7381ab5db9797.md) · [分析卡](../../analysis/wxmp-7c0fa0e7381ab5db9797.md) · 资本家不是太多了，而是太少了
+- 2024-08-13 · [简书目录卡](../../jianshu_archive/jianshu-a86eddaef6a6.md) · 什么是“顿悟”？
+- 2024-08-09 · [公众号原文](../../articles/wxmp-3a7f2bce5dfb08565cb2.md) · [分析卡](../../analysis/wxmp-3a7f2bce5dfb08565cb2.md) · 年轻人就该有反骨
+- 2024-08-06 · [公众号原文](../../articles/wxmp-4abc3b85b54efd8e8047.md) · [分析卡](../../analysis/wxmp-4abc3b85b54efd8e8047.md) · 为什么知道却做不到？
+- 2024-08-05 · [简书目录卡](../../jianshu_archive/jianshu-f2dacc0ed533.md) · 董宇辉的风评为何急转直下？
+- 2024-07-22 · [公众号原文](../../articles/wxmp-816688bd5b51b10314c6.md) · [分析卡](../../analysis/wxmp-816688bd5b51b10314c6.md) · 富二代为什么接不好班？
+- 2024-07-18 · [公众号原文](../../articles/wxmp-1d54646b983dd96faf08.md) · [分析卡](../../analysis/wxmp-1d54646b983dd96faf08.md) · 什么人会活得越来越差？
+- 2024-06-26 · [公众号原文](../../articles/wxmp-d4bc94319ac359375491.md) · [分析卡](../../analysis/wxmp-d4bc94319ac359375491.md) · 远离你身边的蠢人
+- 2024-06-21 · [公众号原文](../../articles/wxmp-848b3700b8a61c371f1a.md) · [分析卡](../../analysis/wxmp-848b3700b8a61c371f1a.md) · 如何拥有更高的地位？
+- 2024-06-05 · [简书目录卡](../../jianshu_archive/jianshu-8ad69cb3669d.md) · 成功得拿活人献祭
+- 2024-06-03 · [公众号原文](../../articles/wxmp-187be4225f580498e4c5.md) · [分析卡](../../analysis/wxmp-187be4225f580498e4c5.md) · 说资本家黑心的，都是脑残，没有例外
+- 2024-05-29 · [公众号原文](../../articles/wxmp-fb6822c208874379ef40.md) · [分析卡](../../analysis/wxmp-fb6822c208874379ef40.md) · 孝顺是个和稀泥的词
+- 2024-05-15 · [公众号原文](../../articles/wxmp-d5d5aa8cc38e9315cf12.md) · [分析卡](../../analysis/wxmp-d5d5aa8cc38e9315cf12.md) · 人和人永远不可能平等
+- 2024-05-08 · [公众号原文](../../articles/wxmp-347b36d2fcbb5e64a717.md) · [分析卡](../../analysis/wxmp-347b36d2fcbb5e64a717.md) · 人的成就是不是靠运气？
+- 2024-05-05 · [公众号原文](../../articles/wxmp-47c5f4ad34eef428c054.md) · [分析卡](../../analysis/wxmp-47c5f4ad34eef428c054.md) · 转光50万后跳桥，谁之过？
+- 2024-04-24 · [公众号原文](../../articles/wxmp-5242be3b700ff25aa1dd.md) · [分析卡](../../analysis/wxmp-5242be3b700ff25aa1dd.md) · 中产的孩子为什么不够强？
+- 2024-04-18 · [公众号原文](../../articles/wxmp-bc2f599c3ca42ed529fc.md) · [分析卡](../../analysis/wxmp-bc2f599c3ca42ed529fc.md) · 怎么对付“提灯验房”？
+- 2024-04-02 · [公众号原文](../../articles/wxmp-d207ffdf76aa3b0bd9fb.md) · [分析卡](../../analysis/wxmp-d207ffdf76aa3b0bd9fb.md) · 世界是一个巨大的草台班子
+- 2024-03-28 · [公众号原文](../../articles/wxmp-6720ab816882504c4571.md) · [分析卡](../../analysis/wxmp-6720ab816882504c4571.md) · 永远不要叫醒“装睡”的人
+- 2024-03-27 · [公众号原文](../../articles/wxmp-79e1a561e7e0809a2a49.md) · [分析卡](../../analysis/wxmp-79e1a561e7e0809a2a49.md) · 每个人都只能为自己拼命
+- 2024-02-29 · [公众号原文](../../articles/wxmp-ae43101dd00fc5a6ee93.md) · [分析卡](../../analysis/wxmp-ae43101dd00fc5a6ee93.md) · 破产的征兆
+- 2024-02-02 · [公众号原文](../../articles/wxmp-e8106afe522d811e52e4.md) · [分析卡](../../analysis/wxmp-e8106afe522d811e52e4.md) · 不冒险是最大的风险
+- 2024-02-02 · [简书目录卡](../../jianshu_archive/jianshu-e41c083c34db.md) · 这里没有资本家，又或者人人都可以是资本家。
+- 2024-01-04 · [公众号原文](../../articles/wxmp-ba3cf5e88e6ee2d9c690.md) · [分析卡](../../analysis/wxmp-ba3cf5e88e6ee2d9c690.md) · 你最该感谢的人，只有自己
+- 2023-12-12 · [公众号原文](../../articles/wxmp-38e3c69e04944141d3cf.md) · [分析卡](../../analysis/wxmp-38e3c69e04944141d3cf.md) · 有些事35岁还没想明白就白活了
+- 2023-11-29 · [公众号原文](../../articles/wxmp-e938f15f02b5dc7316cd.md) · [分析卡](../../analysis/wxmp-e938f15f02b5dc7316cd.md) · 所有赢家都具备一种特质
+- 2023-11-24 · [公众号原文](../../articles/wxmp-70e606c4f89832c29ecc.md) · [分析卡](../../analysis/wxmp-70e606c4f89832c29ecc.md) · 并非所有人都有“时间价值”
+- 2023-11-23 · [公众号原文](../../articles/wxmp-76601feb402915cb3c02.md) · [分析卡](../../analysis/wxmp-76601feb402915cb3c02.md) · 烂尾楼并非绝对的坏事
+- 2023-11-15 · [简书目录卡](../../jianshu_archive/jianshu-dc77b25d6880.md) · 为什么我们活得这么累？
+- 2023-11-08 · [公众号原文](../../articles/wxmp-eda51049f73650f75527.md) · [分析卡](../../analysis/wxmp-eda51049f73650f75527.md) · 所有的单纯背后，都有人在负重前行
+- 2023-10-20 · [公众号原文](../../articles/wxmp-fff73854c425dc05cb41.md) · [分析卡](../../analysis/wxmp-fff73854c425dc05cb41.md) · 讲仁义礼智信的，好人不多
+- 2023-10-19 · [公众号原文](../../articles/wxmp-57cf01b543007958937a.md) · [分析卡](../../analysis/wxmp-57cf01b543007958937a.md) · 人和人交往的本质是什么？
+- 2023-10-18 · [公众号原文](../../articles/wxmp-78c3c7c61869a2993609.md) · [分析卡](../../analysis/wxmp-78c3c7c61869a2993609.md) · 少子化的必然性
+- 2023-10-17 · [公众号原文](../../articles/wxmp-d662a9b241578ae2c15b.md) · [分析卡](../../analysis/wxmp-d662a9b241578ae2c15b.md) · 人的自信从哪里来？
+- 2023-10-13 · [公众号原文](../../articles/wxmp-ba4c06f135e2d93914fc.md) · [分析卡](../../analysis/wxmp-ba4c06f135e2d93914fc.md) · 颠覆微信的一定不是另一个微信
+- 2023-10-12 · [公众号原文](../../articles/wxmp-a816749e0883ac957238.md) · [分析卡](../../analysis/wxmp-a816749e0883ac957238.md) · 直播带货损害了谁的利益？
+- 2023-09-21 · [公众号原文](../../articles/wxmp-e18e11ec91fd58f04983.md) · [分析卡](../../analysis/wxmp-e18e11ec91fd58f04983.md) · 平庸的人为什么平庸？
+- 2023-09-20 · [简书目录卡](../../jianshu_archive/jianshu-98f777414302.md) · 勤劳无法致富，注意，我说的是“致富”
+- 2023-09-19 · [公众号原文](../../articles/wxmp-6f652f67ef5e4967fd50.md) · [分析卡](../../analysis/wxmp-6f652f67ef5e4967fd50.md) · 勤劳显然无法致富
+- 2023-09-18 · [公众号原文](../../articles/wxmp-efd0254167b504cbd82f.md) · [分析卡](../../analysis/wxmp-efd0254167b504cbd82f.md) · 放弃做无用的小事
+- 2023-09-15 · [公众号原文](../../articles/wxmp-313f2e2600c6dbd0ff67.md) · [分析卡](../../analysis/wxmp-313f2e2600c6dbd0ff67.md) · 没权没势没背景的年轻人该怎么做？
+- 2023-09-06 · [简书目录卡](../../jianshu_archive/jianshu-65bf38be3082.md) · 千万级网红“秀才”被封，信息茧房到底是谁的错？
+- 2023-08-17 · [公众号原文](../../articles/wxmp-1d661e40a0cb08afafe4.md) · [分析卡](../../analysis/wxmp-1d661e40a0cb08afafe4.md) · 进化的代价，就是杀死多数人
+- 2023-08-16 · [简书目录卡](../../jianshu_archive/jianshu-54240fd4e5a6.md) · 组局成功之道：罗永浩很内向，为什么他可以组起局呢？
+- 2023-08-16 · [公众号原文](../../articles/wxmp-db529ba1de661ac928ba.md) · [分析卡](../../analysis/wxmp-db529ba1de661ac928ba.md) · 为什么你组不起局？
+- 2023-08-04 · [简书目录卡](../../jianshu_archive/jianshu-0906dd662f4c.md) · 只要遵循了这个原则，你一定会成功
+- 2023-08-01 · [公众号原文](../../articles/wxmp-17592bf0fa50f4b1140f.md) · [分析卡](../../analysis/wxmp-17592bf0fa50f4b1140f.md) · 这个时代的机会我不敢说
+- 2023-08-01 · [简书目录卡](../../jianshu_archive/jianshu-17e57ce62706.md) · 这个世界根本没有正义与邪恶，只有强和弱
+- 2023-07-31 · [公众号原文](../../articles/wxmp-c90531f1bdd970feb9cf.md) · [分析卡](../../analysis/wxmp-c90531f1bdd970feb9cf.md) · 没有人是安全的
+- 2023-07-26 · [公众号原文](../../articles/wxmp-2a2f8f44773b34b9ee07.md) · [分析卡](../../analysis/wxmp-2a2f8f44773b34b9ee07.md) · 清华和一个亿，你选哪个？
+- 2023-07-19 · [简书目录卡](../../jianshu_archive/jianshu-b30bab646e36.md) · 马云马化腾成功的秘密到底是什么？
+- 2023-07-10 · [简书目录卡](../../jianshu_archive/jianshu-af2f294f3250.md) · 她为什么消失了？
+- 2023-07-07 · [简书目录卡](../../jianshu_archive/jianshu-aaf0353851e3.md) · 真传一句话，假传万卷书
+- 2023-07-06 · [简书目录卡](../../jianshu_archive/jianshu-1ddebbccd758.md) · 什么是体面？
+- 2023-07-04 · [简书目录卡](../../jianshu_archive/jianshu-71d836b6aefc.md) · 伊隆马斯克为什么不亲自养娃？
+- 2023-06-30 · [简书目录卡](../../jianshu_archive/jianshu-5d8bb78d13a4.md) · 所谓大佬，得有让人占不完的便宜
+- 2023-06-25 · [简书目录卡](../../jianshu_archive/jianshu-d0b0289c1e2d.md) · 政权都是从内部开始瓦解的
+- 2023-06-19 · [简书目录卡](../../jianshu_archive/jianshu-86be79aa76be.md) · 世间的一切都有价格
+- 2023-06-14 · [简书目录卡](../../jianshu_archive/jianshu-29162a8afd38.md) · 用科比布莱恩特的数据鉴定NBA球盲
+- 2023-06-12 · [简书目录卡](../../jianshu_archive/jianshu-1cb97b10bd8d.md) · 学历筛选出来的都不是学历本身
+- 2023-06-09 · [简书目录卡](../../jianshu_archive/jianshu-ebca787d8527.md) · 你该信什么？
+- 2023-06-02 · [简书目录卡](../../jianshu_archive/jianshu-ef15a54de616.md) · 如何立于不败之地？
+- 2023-05-30 · [简书目录卡](../../jianshu_archive/jianshu-defc9a7cbdc2.md) · 成大事者当如曹操
+- 2023-05-29 · [简书目录卡](../../jianshu_archive/jianshu-7af94f7e9e61.md) · 为什么富二代接班没几个有好下场的？
+- 2023-05-29 · [简书目录卡](../../jianshu_archive/jianshu-8a0294dc97d6.md) · 性感的庞氏骗局
+- 2023-05-26 · [简书目录卡](../../jianshu_archive/jianshu-68ac849e439c.md) · 低买高卖的本质是什么？
+- 2023-05-24 · [简书目录卡](../../jianshu_archive/jianshu-e08c1599063c.md) · 嫌贫爱富是人之常情
+- 2023-05-17 · [简书目录卡](../../jianshu_archive/jianshu-8baafe8d42ba.md) · 第二个董明珠，不是看起来像精英就可以了
+- 2023-05-16 · [简书目录卡](../../jianshu_archive/jianshu-e82a27a9f72e.md) · 控制自己的占有欲
+- 2023-05-15 · [简书目录卡](../../jianshu_archive/jianshu-1addd91f7c97.md) · 好好爱自己
+- 2023-05-12 · [简书目录卡](../../jianshu_archive/jianshu-33d6d8c6b5fe.md) · 你的身边需要坏人
+- 2023-05-10 · [简书目录卡](../../jianshu_archive/jianshu-5dec40c1201c.md) · 冲土狗就是这样的下场
+- 2023-05-09 · [简书目录卡](../../jianshu_archive/jianshu-4fb339593a5b.md) · 人和人的相处，本质在于筛选，而不是迎合
+- 2023-05-06 · [简书目录卡](../../jianshu_archive/jianshu-2a0eb01fc15b.md) · Pepe的10万倍神话
+- 2023-05-05 · [简书目录卡](../../jianshu_archive/jianshu-94a6f90fd4bd.md) · 成年人应该先解决吃饭问题
+- 2023-04-14 · [简书目录卡](../../jianshu_archive/jianshu-64a286774233.md) · 涨了又想跌，跌了又想涨，你是不是这样？
+- 2023-04-13 · [简书目录卡](../../jianshu_archive/jianshu-8a215141fd6d.md) · 你是人群中的前百分之几？
+- 2023-04-12 · [简书目录卡](../../jianshu_archive/jianshu-91f154b3f742.md) · 所谓没时间，就是不想干
+- 2023-04-03 · [简书目录卡](../../jianshu_archive/jianshu-5f22cd9a6d85.md) · 怎么挑选对象？
+- 2023-03-10 · [简书目录卡](../../jianshu_archive/jianshu-1dc0f942a4ec.md) · 不听老人言，享福在眼前
+- 2023-03-02 · [简书目录卡](../../jianshu_archive/jianshu-f95e0d8f066e.md) · 科学是玄学的头号敌人
+- 2023-03-01 · [简书目录卡](../../jianshu_archive/jianshu-44fb3fd24f8a.md) · 长得漂亮是不是一种优势？
+- 2023-02-27 · [简书目录卡](../../jianshu_archive/jianshu-cb73cc1ad5c9.md) · 原神必胜客和斗地主超市卡
+- 2023-02-23 · [简书目录卡](../../jianshu_archive/jianshu-f1e6e7ea0c3e.md) · 成功的偶然和必然
+- 2023-02-21 · [简书目录卡](../../jianshu_archive/jianshu-a07835fe29e7.md) · 好人和坏人
+- 2023-02-15 · [简书目录卡](../../jianshu_archive/jianshu-eb27bd660cdc.md) · 都在说提前还贷，有没有一种可能……
+- 2023-02-14 · [简书目录卡](../../jianshu_archive/jianshu-25e055ea828b.md) · 为什么站姐能追到男神？
+- 2023-02-13 · [简书目录卡](../../jianshu_archive/jianshu-036eb402f382.md) · 情人节最好什么都别做
+- 2023-02-02 · [简书目录卡](../../jianshu_archive/jianshu-45870a93f347.md) · 讲感情是诱发矛盾的第一大因素
+- 2023-01-29 · [简书目录卡](../../jianshu_archive/jianshu-a31f31a876ea.md) · 《满江红》其实可以不用那么红
+- 2023-01-28 · [简书目录卡](../../jianshu_archive/jianshu-3b022a9fcfdf.md) · 大局决定成败
+- 2023-01-20 · [简书目录卡](../../jianshu_archive/jianshu-75193a777ab6.md) · 真的没几个人会为你好
+- 2023-01-16 · [简书目录卡](../../jianshu_archive/jianshu-307999a4b3f4.md) · 教会徒弟，怎么能不饿死师傅？
+- 2023-01-13 · [简书目录卡](../../jianshu_archive/jianshu-7db42846157d.md) · 你有没有招贵人体质？
+- 2023-01-05 · [简书目录卡](../../jianshu_archive/jianshu-8ede7486e236.md) · 炫富是涨粉的第一捷径
+- 2023-01-03 · [简书目录卡](../../jianshu_archive/jianshu-7aea364e1020.md) · 你不是懒，只是看不到希望
+- 2022-12-28 · [简书目录卡](../../jianshu_archive/jianshu-508b5a682582.md) · 越讲利益，越长良心
+- 2022-12-26 · [简书目录卡](../../jianshu_archive/jianshu-c387a6896864.md) · 为什么很多人到了35岁就完了？
+- 2022-12-20 · [简书目录卡](../../jianshu_archive/jianshu-c8ae95b52b39.md) · 什么人能骗，什么人不能骗？
+- 2022-12-19 · [简书目录卡](../../jianshu_archive/jianshu-5c4af55a5f9a.md) · 新冠是偶然中的必然
+- 2022-12-16 · [简书目录卡](../../jianshu_archive/jianshu-e5188dc648c4.md) · 所有的成功者，都是all in出来的
+- 2022-12-15 · [简书目录卡](../../jianshu_archive/jianshu-c67242f72f37.md) · 赚钱的能力，从来不是学校教出来的
+- 2022-12-09 · [简书目录卡](../../jianshu_archive/jianshu-37f62b68958c.md) · 为什么智者不入爱河？
+- 2022-12-08 · [简书目录卡](../../jianshu_archive/jianshu-6d2dfaa1efca.md) · 一文说清内卷
+- 2022-12-02 · [简书目录卡](../../jianshu_archive/jianshu-34d56055a625.md) · 不借东西，也别借给别人东西
+- 2022-11-30 · [简书目录卡](../../jianshu_archive/jianshu-b5d2c27b549c.md) · 远离弱者
+- 2022-11-24 · [简书目录卡](../../jianshu_archive/jianshu-237f786b3d30.md) · 人得识时务，分庄闲
+- 2022-11-17 · [简书目录卡](../../jianshu_archive/jianshu-d2f413a4a394.md) · 安全感背后的成本，你算过吗？
+- 2022-11-15 · [简书目录卡](../../jianshu_archive/jianshu-07db823d3cef.md) · 大佬靠什么赢你？
+- 2022-11-03 · [简书目录卡](../../jianshu_archive/jianshu-9d0c34c50d44.md) · 越讲道德的社会，越没有道德
+- 2022-11-01 · [简书目录卡](../../jianshu_archive/jianshu-cd21c6b60b90.md) · 我们这代人真的喜欢刷厕所吗？
+- 2022-10-28 · [简书目录卡](../../jianshu_archive/jianshu-a5b535b5ccbf.md) · 普通人怎么做可以不普通
+- 2022-10-26 · [简书目录卡](../../jianshu_archive/jianshu-23be9e2a1319.md) · 鹤岗为什么会火？
+- 2022-10-21 · [简书目录卡](../../jianshu_archive/jianshu-2791b5c8549a.md) · 唐僧取经为什么要过九九八十一难
+- 2022-10-20 · [简书目录卡](../../jianshu_archive/jianshu-2e81fc4559f0.md) · 小孩子才讲道理，成年人都分强弱
+- 2022-10-19 · [简书目录卡](../../jianshu_archive/jianshu-0dfd283a86b6.md) · 给你一个亿，你会怎么做？
+- 2022-10-19 · [简书目录卡](../../jianshu_archive/jianshu-6987469a5bcd.md) · 李宁这样肯定是不行的
+- 2022-10-13 · [简书目录卡](../../jianshu_archive/jianshu-0490b5d5efd4.md) · 量子纠缠代表了宿命论？
+- 2022-09-19 · [简书目录卡](../../jianshu_archive/jianshu-c37079f79b26.md) · 你的能力≠你的收入
+- 2022-09-15 · [简书目录卡](../../jianshu_archive/jianshu-d56536eefd6d.md) · 人人不加班，等于人人加班？
+- 2022-09-13 · [简书目录卡](../../jianshu_archive/jianshu-5386d5f58e97.md) · 峰峰你好傻
+- 2022-09-13 · [简书目录卡](../../jianshu_archive/jianshu-7e60168d5498.md) · 英女王的作用
+- 2022-09-08 · [简书目录卡](../../jianshu_archive/jianshu-ab31e76d28b0.md) · 今天代你尽孝，明天带你上吊
+- 2022-09-07 · [简书目录卡](../../jianshu_archive/jianshu-0f70f28d37eb.md) · 败家首选之投资和创业
+- 2022-09-02 · [简书目录卡](../../jianshu_archive/jianshu-8dce40d741ed.md) · 钻石手是如何练成的？
+- 2022-08-30 · [简书目录卡](../../jianshu_archive/jianshu-3122745bd7ac.md) · 如果你还不想低头，就不要低头
+- 2022-08-29 · [简书目录卡](../../jianshu_archive/jianshu-888a4006a8ca.md) · 首付20%还款40年救不了年轻人
+- 2022-08-25 · [简书目录卡](../../jianshu_archive/jianshu-822f33461bc4.md) · 对明天而言，昨天并不重要
+- 2022-08-19 · [简书目录卡](../../jianshu_archive/jianshu-e24bf52fb485.md) · 如何安置你的第一桶金？
+- 2022-07-26 · [简书目录卡](../../jianshu_archive/jianshu-df96b9933d1e.md) · 拿高薪的人都有谁？
+- 2022-07-18 · [简书目录卡](../../jianshu_archive/jianshu-3275144d6f6c.md) · 选对了城市，你就已经跑赢了多数人
+- 2022-07-07 · [简书目录卡](../../jianshu_archive/jianshu-9506a5ba0c0b.md) · 钟薛高做错了什么？
+- 2022-07-01 · [简书目录卡](../../jianshu_archive/jianshu-71b4f41c421c.md) · 财富是生存能力的另一种说法
+- 2022-04-24 · [简书目录卡](../../jianshu_archive/jianshu-2da67840a68b.md) · 为什么很多优秀的人渐渐不优秀了？
+- 2022-04-01 · [简书目录卡](../../jianshu_archive/jianshu-68eaeda1890e.md) · 不要盯着失去了什么，想想你还拥有什么
+- 2022-03-24 · [简书目录卡](../../jianshu_archive/jianshu-8c76dbbb8ac6.md) · 前几天，我领了几百万的利息
+- 2022-02-22 · [简书目录卡](../../jianshu_archive/jianshu-71bed2f9c1d3.md) · 投资——用时间换收益的游戏
+- 2022-01-21 · [简书目录卡](../../jianshu_archive/jianshu-e2c66d7116f9.md) · 如何让年轻人都买得起房？
+- 2021-12-30 · [简书目录卡](../../jianshu_archive/jianshu-ca8b1d0477a3.md) · 你的运气，并不那么随机
+- 2021-11-05 · [简书目录卡](../../jianshu_archive/jianshu-7fa613ed59e7.md) · 天网恢恢，是否能疏而不漏？
+- 2021-09-17 · [简书目录卡](../../jianshu_archive/jianshu-78f8d9b10bb6.md) · 人生是关于“性价比”的游戏
+- 2021-09-07 · [简书目录卡](../../jianshu_archive/jianshu-6128ed61f0c8.md) · 元宇宙时代，我们可以提前做些什么？
+- 2021-08-18 · [简书目录卡](../../jianshu_archive/jianshu-2500de75c2df.md) · 月入3000到月入30万，分别都做的什么？
+- 2021-07-27 · [简书目录卡](../../jianshu_archive/jianshu-9e634487933b.md) · 别把鸿星尔克给妖魔化了
+- 2021-05-18 · [简书目录卡](../../jianshu_archive/jianshu-b24c11de955d.md) · 割一次韭菜需要多少人的参与？
+- 2021-04-29 · [简书目录卡](../../jianshu_archive/jianshu-ecc8b8304708.md) · 大多数人都有7～10次生命
+- 2021-04-28 · [简书目录卡](../../jianshu_archive/jianshu-eb593c11e05d.md) · “上行”的15条重要心得
+- 2021-04-14 · [简书目录卡](../../jianshu_archive/jianshu-6727aabf34a6.md) · 把你的鸡蛋放在同一个篮子里
+- 2021-04-13 · [简书目录卡](../../jianshu_archive/jianshu-00f7a53c4b54.md) · 你是你，你也不是你
+- 2021-03-16 · [简书目录卡](../../jianshu_archive/jianshu-5055beb4f11b.md) · 割肉是一种什么样的感觉？
+- 2021-03-02 · [简书目录卡](../../jianshu_archive/jianshu-4e191464413b.md) · 止盈和止损全是错误的概念
+- 2021-02-25 · [简书目录卡](../../jianshu_archive/jianshu-6954f8910559.md) · 年轻人为什么躲不过被割？
+- 2020-12-17 · [简书目录卡](../../jianshu_archive/jianshu-4690728d12b9.md) · 社区团购消灭了谁的生计？
+- 2020-11-19 · [简书目录卡](../../jianshu_archive/jianshu-62a15edec0b5.md) · 成为你依靠的，是你对这个世界的价值
+- 2020-09-10 · [简书目录卡](../../jianshu_archive/jianshu-74ea74406826.md) · 外卖骑手，被困在了其他的外卖骑手里
+- 2020-09-04 · [简书目录卡](../../jianshu_archive/jianshu-1c70de44eb1e.md) · 蔡垒磊：10万块真的够你裸辞了么？
+- 2020-08-27 · [简书目录卡](../../jianshu_archive/jianshu-ca651813376f.md) · 黑人的命当然是命，那其他人的呢？
+- 2020-08-13 · [简书目录卡](../../jianshu_archive/jianshu-84e67c6aac8d.md) · 比996更可怕的，是没事干
+- 2020-08-10 · [简书目录卡](../../jianshu_archive/jianshu-e465b0db5bc1.md) · 精致穷，才是真正的穷人思维
+- 2020-08-05 · [简书目录卡](../../jianshu_archive/jianshu-4cd0fa2628d9.md) · 蔡垒磊：三十而已：顾佳错在既想当贤相，又要做慈禧。
+- 2020-07-24 · [简书目录卡](../../jianshu_archive/jianshu-1e265b22f4e1.md) · 蔡垒磊：三十而已：为什么顾佳打入太太圈在现实中行不通？
+- 2020-07-17 · [简书目录卡](../../jianshu_archive/jianshu-25d8087b1c4e.md) · 蔡垒磊：为什么很多人无法沟通？
+- 2020-07-14 · [简书目录卡](../../jianshu_archive/jianshu-0a0468596aa0.md) · 蔡垒磊：究竟什么才是歧视？我来给SKP洗地了。
+- 2020-07-08 · [简书目录卡](../../jianshu_archive/jianshu-c12c8995dc94.md) · 蔡垒磊：为什么我们变得越来越社恐？
+- 2020-06-29 · [简书目录卡](../../jianshu_archive/jianshu-64981f7b73f2.md) · 蔡垒磊：27岁的年轻人，为什么会活活饿死？
+- 2020-06-17 · [简书目录卡](../../jianshu_archive/jianshu-08faa0cb4d86.md) · 蔡垒磊：28岁退休，需要做哪些准备？
+- 2020-06-16 · [简书目录卡](../../jianshu_archive/jianshu-2e37ff4c062c.md) · 蔡垒磊：如果匿名举报为真，这就是一场集体谋杀！
+- 2020-06-16 · [简书目录卡](../../jianshu_archive/jianshu-39c12b822e5a.md) · 蔡垒磊：笑果的下一个李诞会是谁？
+- 2020-05-20 · [简书目录卡](../../jianshu_archive/jianshu-b5b36d9373d1.md) · 蔡垒磊：尊重自己的520
+- 2020-05-11 · [简书目录卡](../../jianshu_archive/jianshu-4b980178a706.md) · 蔡垒磊：攻击papi酱的都是些什么人？
+- 2020-04-01 · [简书目录卡](../../jianshu_archive/jianshu-e30c8e9fd8c7.md) · 蔡垒磊：愚人节表白真的是个好主意么？
+- 2020-03-04 · [简书目录卡](../../jianshu_archive/jianshu-bcc87bcae49c.md) · 蔡垒磊：粉丝行为该不该上升到偶像？
+- 2020-02-11 · [简书目录卡](../../jianshu_archive/jianshu-9eccacb8133c.md) · 蔡垒磊：因果
+- 2020-02-05 · [简书目录卡](../../jianshu_archive/jianshu-8b7a7790484d.md) · 蔡垒磊：让年轻人去浪费时间
+- 2020-01-15 · [简书目录卡](../../jianshu_archive/jianshu-b64eff122710.md) · 蔡垒磊：年味为什么越来越淡？
+- 2020-01-07 · [简书目录卡](../../jianshu_archive/jianshu-af69a96f68bc.md) · 蔡垒磊：生二胎需不需要老大同意？
+- 2020-01-03 · [简书目录卡](../../jianshu_archive/jianshu-abb352747f15.md) · 蔡垒磊：时隔三年，我再次卖身
+- 2019-12-18 · [简书目录卡](../../jianshu_archive/jianshu-0691345470c3.md) · 蔡垒磊：善良不可被挪用
+- 2019-12-12 · [简书目录卡](../../jianshu_archive/jianshu-cde987a92bb4.md) · 蔡垒磊：建议取消双12
+- 2019-10-28 · [简书目录卡](../../jianshu_archive/jianshu-3e8ec4526028.md) · 蔡垒磊：《弟子规》只是一篇不入流的鸡汤文
+- 2019-08-08 · [简书目录卡](../../jianshu_archive/jianshu-fb1d70361f8b.md) · 蔡垒磊：乐伽公寓的爆雷之路
+- 2019-07-19 · [简书目录卡](../../jianshu_archive/jianshu-b66f3632489f.md) · 蔡垒磊：死刑的逻辑
+- 2019-07-10 · [简书目录卡](../../jianshu_archive/jianshu-7d7b480bd16b.md) · 蔡垒磊：12平米学区房“该”值多少？
+- 2019-06-20 · [简书目录卡](../../jianshu_archive/jianshu-e9b8577397a5.md) · 蔡垒磊：罗永浩只想告诉人们“这样才叫好东西”
+- 2019-05-09 · [简书目录卡](../../jianshu_archive/jianshu-b278f41baaf4.md) · 蔡垒磊：为什么不能100%舍身来帮助亲人？
+- 2019-04-23 · [简书目录卡](../../jianshu_archive/jianshu-39c61719317f.md) · 蔡垒磊：刘强东真的冤
+- 2019-04-03 · [简书目录卡](../../jianshu_archive/jianshu-17959fc64134.md) · 蔡垒磊：有些事，我们只能和解
+- 2019-03-11 · [简书目录卡](../../jianshu_archive/jianshu-61b443d1c714.md) · 蔡垒磊：2.5小长假是慷他人之慨
+- 2019-01-28 · [简书目录卡](../../jianshu_archive/jianshu-228d062b378e.md) · 蔡垒磊：狼性体罚有没有用？
+- 2019-01-25 · [简书目录卡](../../jianshu_archive/jianshu-5da10c2bed4a.md) · 蔡垒磊：职场里要不要讨好老板？
+- 2019-01-04 · [简书目录卡](../../jianshu_archive/jianshu-841bedcd6026.md) · 蔡垒磊：罗振宇怎么了
+- 2018-12-28 · [简书目录卡](../../jianshu_archive/jianshu-349cf2a71b2c.md) · 蔡垒磊：一次同性的胜利
+- 2018-12-25 · [简书目录卡](../../jianshu_archive/jianshu-57eabec14d88.md) · 蔡垒磊：聊聊李国庆的“婚外性低害论”
+- 2018-12-22 · [简书目录卡](../../jianshu_archive/jianshu-84dbe814ac34.md) · 蔡垒磊：刘强东赢了
+- 2018-12-13 · [简书目录卡](../../jianshu_archive/jianshu-bac06b0dee94.md) · 蔡垒磊：我杀的不是别人，我杀的是我妈
+- 2018-12-07 · [简书目录卡](../../jianshu_archive/jianshu-453aab3423df.md) · 蔡垒磊：格局：ofo的败局带给了我们什么？
+- 2018-12-05 · [简书目录卡](../../jianshu_archive/jianshu-ecbb4b5c64da.md) · 蔡垒磊：拆迁赔偿400万，嫁出去的女儿怎么分？
+- 2018-11-29 · [简书目录卡](../../jianshu_archive/jianshu-4063de55eb4c.md) · 蔡垒磊：家，就是家暴者的免死金牌。
+- 2018-11-12 · [简书目录卡](../../jianshu_archive/jianshu-ff97c1241ca7.md) · 蔡垒磊：如何理解“刷榜”？
+- 2018-10-31 · [简书目录卡](../../jianshu_archive/jianshu-d0cf54a25d49.md) · 蔡垒磊：外卖吃到用过的创可贴，店主求饶，你会不会删差评？
+- 2018-10-29 · [简书目录卡](../../jianshu_archive/jianshu-6e500f4ac6b6.md) · 蔡垒磊：生命最后一天清单
+- 2018-10-23 · [简书目录卡](../../jianshu_archive/jianshu-720e018d6bbb.md) · 蔡垒磊：这个世界，不造假根本活不下去
+- 2018-10-15 · [简书目录卡](../../jianshu_archive/jianshu-02977c6a68f9.md) · 蔡垒磊：“尊师重道”应不应该？
+- 2018-09-07 · [简书目录卡](../../jianshu_archive/jianshu-32552192d748.md) · 蔡垒磊：人情投资和人情交易是两码事
+- 2018-08-28 · [简书目录卡](../../jianshu_archive/jianshu-cdd4c0b51f1f.md) · 蔡垒磊：封杀了滴滴，还有叭叭
+- 2018-08-10 · [简书目录卡](../../jianshu_archive/jianshu-9eebbebf31fa.md) · 蔡垒磊：现在的年轻人还有没有机会？
+- 2018-07-23 · [简书目录卡](../../jianshu_archive/jianshu-1634f0716f3c.md) · 蔡垒磊：功利的三个等级
+- 2018-04-20 · [简书目录卡](../../jianshu_archive/jianshu-59478bbb5272.md) · 蔡垒磊：“男追女”是怎么变成“女追男”的？
+- 2018-04-16 · [简书目录卡](../../jianshu_archive/jianshu-ae5f0fa30cab.md) · 蔡垒磊：如何选到一家靠谱的酒店？
+- 2018-03-08 · [简书目录卡](../../jianshu_archive/jianshu-040a37844347.md) · 蔡垒磊：为什么你很难脱单？
+- 2018-02-22 · [简书目录卡](../../jianshu_archive/jianshu-a18dce20fc21.md) · 蔡垒磊：妈，我是真的不容易
+- 2018-02-14 · [简书目录卡](../../jianshu_archive/jianshu-85108c44f924.md) · 情人节的真假荷尔蒙
+- 2018-01-15 · [简书目录卡](../../jianshu_archive/jianshu-7f98f7217aa5.md) · 情侣婚前聊天记录曝光，买房的现实摧毁爱情与理想？
+- 2018-01-09 · [简书目录卡](../../jianshu_archive/jianshu-65d3e037a629.md) · 贾乃亮的回应，证明大脑是个神奇的东西
+- 2017-12-11 · [简书目录卡](../../jianshu_archive/jianshu-7b1fa7411150.md) · 为什么你不相信刘鑫是普通人？
+- 2017-11-24 · [简书目录卡](../../jianshu_archive/jianshu-a505b76be087.md) · 押金包退，你退了没？
+- 2017-11-14 · [简书目录卡](../../jianshu_archive/jianshu-6e6eda38028c.md) · 刘鑫是一个什么样的人？
+- 2017-11-14 · [简书目录卡](../../jianshu_archive/jianshu-57f04b2133da.md) · 生命唯一的意义在于体验
+- 2017-11-08 · [简书目录卡](../../jianshu_archive/jianshu-e356cbf0e119.md) · 关你屁事？就是关我有事！
+- 2017-11-06 · [简书目录卡](../../jianshu_archive/jianshu-9678ee42f5f6.md) · 陌生领域生存手册
+- 2017-10-29 · [简书目录卡](../../jianshu_archive/jianshu-fc8041d861d4.md) · 如何避免成为一个油腻的中年妇女
+- 2017-10-19 · [简书目录卡](../../jianshu_archive/jianshu-936fcac9e620.md) · 彭于晏出柜？陪睡是一件低级的事吗？
+- 2017-10-12 · [简书目录卡](../../jianshu_archive/jianshu-dc5088b36212.md) · 那些大方，一掷千金的土豪们
+- 2017-09-29 · [简书目录卡](../../jianshu_archive/jianshu-2e214b0c56e5.md) · “格局”——决定你的世界
+- 2017-09-22 · [简书目录卡](../../jianshu_archive/jianshu-aebf64dd3ec4.md) · 勤奋，不足以让你过上好日子
+- 2017-09-21 · [简书目录卡](../../jianshu_archive/jianshu-1cdc8201eb3e.md) · “望子成龙”不如“望己成龙”
+- 2017-09-20 · [简书目录卡](../../jianshu_archive/jianshu-9ddaca5fe1c8.md) · 比起过劳死，你更应该警惕过闲死
+- 2017-09-16 · [简书目录卡](../../jianshu_archive/jianshu-34d68f33dfb8.md) · 薛之谦人设已崩？我们谁都经不起细看
+- 2017-09-15 · [简书目录卡](../../jianshu_archive/jianshu-af99fe2967a5.md) · 小事都做不好，还想做大事？是的。
+- 2017-09-15 · [简书目录卡](../../jianshu_archive/jianshu-2810e393273f.md) · 决定成败的永远不是细节
+- 2017-09-15 · [简书目录卡](../../jianshu_archive/jianshu-898726787fe0.md) · 我们可以战胜“风险”
+- 2017-09-12 · [简书目录卡](../../jianshu_archive/jianshu-b020857b693b.md) · 牛逼的凤姐
+- 2017-09-11 · [简书目录卡](../../jianshu_archive/jianshu-c91fb80478e2.md) · “不会喝酒”就无法在江湖上立足了吗？
+- 2017-09-08 · [简书目录卡](../../jianshu_archive/jianshu-ee5e197e67c6.md) · 说实话，多数人并不具有“关心”的资格
+- 2017-09-05 · [简书目录卡](../../jianshu_archive/jianshu-15f03ad12615.md) · 想裸辞？先想明白这些！
+- 2017-09-04 · [简书目录卡](../../jianshu_archive/jianshu-ea17116f8e58.md) · 互相忌惮，才是最稳的关系
+- 2017-09-01 · [简书目录卡](../../jianshu_archive/jianshu-47d3099e9389.md) · 歧视，必须付出代价
+- 2017-08-30 · [简书目录卡](../../jianshu_archive/jianshu-bf80c1cdbb42.md) · 认定是对的，就做下去。
+- 2017-08-29 · [简书目录卡](../../jianshu_archive/jianshu-504f06d031eb.md) · 先上跑道，才有赢的机会
+- 2017-08-29 · [简书目录卡](../../jianshu_archive/jianshu-f7a776fcaf87.md) · 我有一个超级无敌好主意！
+- 2017-08-23 · [简书目录卡](../../jianshu_archive/jianshu-3d86a966c80a.md) · 人走了，茶就得凉
+- 2017-08-23 · [简书目录卡](../../jianshu_archive/jianshu-4d6c3e5309c5.md) · 理性和感性，哪个更好？
+- 2017-08-09 · [简书目录卡](../../jianshu_archive/jianshu-1fcebe83d281.md) · 混日子的人，下场都很惨
+- 2017-08-09 · [简书目录卡](../../jianshu_archive/jianshu-6c9228fc53e2.md) · 如何成功抱到牛人的大腿？
+- 2017-08-08 · [简书目录卡](../../jianshu_archive/jianshu-63a8d6eb80b4.md) · 抱大腿，是快速进阶的重要姿势
+- 2017-08-07 · [简书目录卡](../../jianshu_archive/jianshu-7bb91e711a63.md) · 无趣，才是坚持的最大敌人
+- 2017-08-04 · [简书目录卡](../../jianshu_archive/jianshu-d98a8ff30761.md) · 安稳与舒适，正让你的生命变得脆弱不堪
+- 2017-08-03 · [简书目录卡](../../jianshu_archive/jianshu-18062bf1beef.md) · 愚昧不是病，也不是毒，是病毒
+- 2017-08-02 · [简书目录卡](../../jianshu_archive/jianshu-ff100c9ce128.md) · 界限感太差的人，过得都不会太好
+- 2017-08-01 · [简书目录卡](../../jianshu_archive/jianshu-d23c4691d607.md) · 我没有5套房，可我活得挺好
+- 2017-07-31 · [简书目录卡](../../jianshu_archive/jianshu-c7f3c770f20f.md) · 为国争光，还是为我争光？
+- 2016-11-03 · [简书目录卡](../../jianshu_archive/jianshu-d8ada846fab8.md) · 你以为只有韩国被“邪教”控制吗？
+- 2016-10-09 · [简书目录卡](../../jianshu_archive/jianshu-464a4773057f.md) · 亲妈出来撕，合不合适？
+- 2016-09-27 · [简书目录卡](../../jianshu_archive/jianshu-d6d0f3beb03a.md) · “操别人的闲心”是种什么病？
+- 2016-09-06 · [简书目录卡](../../jianshu_archive/jianshu-a11c9747cbd6.md) · 如何成为一个值得信任的人
+- 2016-09-06 · [简书目录卡](../../jianshu_archive/jianshu-9ac6dd6f2df8.md) · 曹云金开战郭德纲真因揭秘——废你武功
+- 2016-08-30 · [简书目录卡](../../jianshu_archive/jianshu-263dcae5672c.md) · 没有拼尽全力，就先闭上你的嘴
+- 2016-08-20 · [简书目录卡](../../jianshu_archive/jianshu-6c6270da0d13.md) · 知恩图报？知恩就得马上报！
+- 2016-08-13 · [简书目录卡](../../jianshu_archive/jianshu-f4c312158776.md) · 省、省、省是对年轻人最大的误导！
+- 2016-07-26 · [简书目录卡](../../jianshu_archive/jianshu-f23cccdd8dd6.md) · 理想也好，情怀也罢，没什么比吃饭更重要
+- 2016-07-14 · [简书目录卡](../../jianshu_archive/jianshu-1979fa8b538b.md) · 价值千金：高效人士管理时间的8大法则
+- 2016-07-11 · [简书目录卡](../../jianshu_archive/jianshu-a3732d6a6f11.md) · 弱肉强食的世界，请亮出你的獠牙
+- 2016-07-08 · [简书目录卡](../../jianshu_archive/jianshu-2d1a7ce5791e.md) · 除了你自己，没人真正希望你好
+- 2016-07-05 · [简书目录卡](../../jianshu_archive/jianshu-5b87e1e6410a.md) · 种什么因，真的会得什么果吗？
+- 2016-07-04 · [简书目录卡](../../jianshu_archive/jianshu-80ca26708980.md) · 你TM到底想跟我说啥？
+- 2016-06-30 · [简书目录卡](../../jianshu_archive/jianshu-084e363f1704.md) · 你就送我一篮土豆，凭啥让我倾尽所有
+- 2016-06-27 · [简书目录卡](../../jianshu_archive/jianshu-ba070d93df43.md) · 你看不惯，关我屁事？
+- 2016-06-23 · [简书目录卡](../../jianshu_archive/jianshu-3b643aa68874.md) · 你攒了10000个小时，何以然并卵？
+- 2016-06-21 · [简书目录卡](../../jianshu_archive/jianshu-a69dfddff566.md) · 为什么机会总不敲你家门？
+- 2016-06-14 · [简书目录卡](../../jianshu_archive/jianshu-275017233e65.md) · 哭穷，真的会让你越哭越穷
+- 2016-06-03 · [简书目录卡](../../jianshu_archive/jianshu-abea95a2c43e.md) · 妈妈，我能不表演吗？
+- 2016-05-27 · [简书目录卡](../../jianshu_archive/jianshu-01a098209729.md) · 做一名优秀的“斜杠青年”有多重要
+- 2016-05-19 · [简书目录卡](../../jianshu_archive/jianshu-e1a2a6e1836f.md) · 我不要999朵玫瑰，给我1朵可好？
+- 2016-05-14 · [简书目录卡](../../jianshu_archive/jianshu-0b9a79878b5e.md) · 如何选专业才不枉费你12年的苦读
+- 2016-05-08 · [简书目录卡](../../jianshu_archive/jianshu-6abbdce4fa85.md) · 浪费，浪费，那些你不懂的浪费
+- 2016-05-05 · [简书目录卡](../../jianshu_archive/jianshu-7f757e4c6086.md) · 每个人的性格里都住着过往的经历——樊胜美
+- 2016-04-26 · [简书目录卡](../../jianshu_archive/jianshu-b41355fcb23f.md) · 蔡垒磊：马云炖的鸡汤有毒吗？
+- 2016-04-23 · [简书目录卡](../../jianshu_archive/jianshu-f5813475653d.md) · 蔡垒磊：有些东西该扔就扔，立刻马上
+- 2016-04-19 · [简书目录卡](../../jianshu_archive/jianshu-d49c8e4928e2.md) · 蔡垒磊：亲戚关系只是一种幻觉
+- 2016-04-18 · [简书目录卡](../../jianshu_archive/jianshu-24918bea1ff3.md) · 蔡垒磊：为何我喜欢办公桌上的小“凌乱”？
+- 2016-04-16 · [简书目录卡](../../jianshu_archive/jianshu-18320d3e447b.md) · 蔡垒磊：言传身教or身教言传？
+- 2016-04-16 · [简书目录卡](../../jianshu_archive/jianshu-6dc79031e485.md) · 蔡垒磊：在国外买买买的背后是骨子里的自卑
+- 2016-04-14 · [简书目录卡](../../jianshu_archive/jianshu-56c8f9c9b458.md) · 蔡垒磊：别了，科比·布莱恩特

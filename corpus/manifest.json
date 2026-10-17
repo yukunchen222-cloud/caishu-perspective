@@ -12738,5 +12738,72 @@
         "sha256": "64ef58ab482bd39a3f11d15aab22c9627c2727baed29402124415559b6463282"
       }
     ]
+  },
+  "topic_index": {
+    "entry_count": 1401,
+    "primary_topic_counts": {
+      "01-财富与投资": 461,
+      "02-创业与商业": 82,
+      "03-职业与职场": 41,
+      "04-学习与成长": 117,
+      "05-婚恋与家庭关系": 134,
+      "06-人生心理与身心状态": 101,
+      "07-社会与公共议题": 81,
+      "08-科技与行业趋势": 19,
+      "99-综合与待复核": 365
+    },
+    "source_counts": {
+      "author-crosspost-summary": 18,
+      "author-jianshu-archive-listing": 631,
+      "wechat-original": 752
+    },
+    "method": "Deterministic title and source-appropriate summary keyword scoring; one primary topic per unique catalog entry; low-confidence/tied records go to 99-综合与待复核.",
+    "canonical_article_paths_moved": false,
+    "files": [
+      {
+        "path": "corpus/topics/01-财富与投资/INDEX.md",
+        "sha256": "3180c189cb1dc88a20454eae217410790968fafddef20bf63f193028259212f3"
+      },
+      {
+        "path": "corpus/topics/02-创业与商业/INDEX.md",
+        "sha256": "0965533a37df81cb4f225e774bedd1bbb982b7b9b6358013e759573d33c4090f"
+      },
+      {
+        "path": "corpus/topics/03-职业与职场/INDEX.md",
+        "sha256": "62dfc19279cadf6ffddae2953ffae2fb1043c80e7f36e79e9ca0129393ad03e4"
+      },
+      {
+        "path": "corpus/topics/04-学习与成长/INDEX.md",
+        "sha256": "d18853602b8de1286eef33d71e3e7ba6ea3c358d7097aef4cbfe20b7f3931c9c"
+      },
+      {
+        "path": "corpus/topics/05-婚恋与家庭关系/INDEX.md",
+        "sha256": "f17c5b37771902f13c79f5f51055c2757c9a8dcee021b96f41e0d27f9a620c62"
+      },
+      {
+        "path": "corpus/topics/06-人生心理与身心状态/INDEX.md",
+        "sha256": "f9d1cdf4662af377170f453c861a5d0dda443a539893901985f97348fa11ce73"
+      },
+      {
+        "path": "corpus/topics/07-社会与公共议题/INDEX.md",
+        "sha256": "c950629bf86cca62be1b4780044ccb9d6d3ebc4c64335353032635109b9a6267"
+      },
+      {
+        "path": "corpus/topics/08-科技与行业趋势/INDEX.md",
+        "sha256": "e615c1a0cc2eb2a4d406d31adf3558014226b919217e779eeb88d43e03b7c94c"
+      },
+      {
+        "path": "corpus/topics/99-综合与待复核/INDEX.md",
+        "sha256": "7a592cf91dbefdeac856e2c3e56a6fb4b4e6c6286e1a1caf6c2bc5becfabfff3"
+      },
+      {
+        "path": "corpus/topics/index.json",
+        "sha256": "bbbf8567e87c567b6071d2dab6b6c577c9a82d02e7c849fcf202ffd28a776ef9"
+      },
+      {
+        "path": "corpus/topics/INDEX.md",
+        "sha256": "bac0dab8c23914bb00b6066f79e9214f6e8d9110345238c8a4b8e1535771c913"
+      }
+    ]
   }
 }

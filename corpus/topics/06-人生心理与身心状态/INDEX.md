@@ -1,0 +1,111 @@
+# 人生、心理与身心状态
+
+人生选择、幸福感、情绪、心态、人性、身心状态与生活意义。
+
+条目数：**101**（公众号原文 53；简书摘要 5；简书目录卡 43）。
+
+分类是导航建议，依据标题及可用的分析摘要/列表导语；低置信条目集中在‘综合与待复核’。涉及具体判断时仍应打开原文和分析卡。
+
+## 内容清单
+
+- 2026-10-14 · [简书摘要](../../crossposts/crosspost-6c13c12107cf.md) · 你的苦难是不是苦难？取决于这个
+- 2026-10-12 · [简书摘要](../../crossposts/crosspost-d3213b6519ba.md) · 让人生又爽，又不耽误成长的秘密
+- 2026-10-08 · [简书摘要](../../crossposts/crosspost-e084b5b865fb.md) · 为什么心里有答案了，还要问我？
+- 2026-09-29 · [简书摘要](../../crossposts/crosspost-5ba2541e6eab.md) · 为什么有些人总喜欢说“随便”？
+- 2026-09-18 · [简书摘要](../../crossposts/crosspost-0bc6c32e76b2.md) · 为什么你这么累？
+- 2026-09-11 · [公众号原文](../../articles/wxmp-a37ab87135d987e39368.md) · [分析卡](../../analysis/wxmp-a37ab87135d987e39368.md) · 给你绝对的自由，你能永远快乐吗？
+- 2026-08-26 · [简书目录卡](../../jianshu_archive/jianshu-ba1e89cf2dfc.md) · 每个人的命，是提前写好的吗？
+- 2026-08-12 · [简书目录卡](../../jianshu_archive/jianshu-384c5bbbd532.md) · 你的命运，在你选择环境的时候就定下了
+- 2026-07-21 · [公众号原文](../../articles/wxmp-8b21fccbf08b41700cf5.md) · [分析卡](../../analysis/wxmp-8b21fccbf08b41700cf5.md) · 你痛恨标题党吗？
+- 2026-07-14 · [公众号原文](../../articles/wxmp-7e43f9376380ef593cb0.md) · [分析卡](../../analysis/wxmp-7e43f9376380ef593cb0.md) · 躺平久了，起不来了怎么办？
+- 2026-07-09 · [公众号原文](../../articles/wxmp-7b04e0ff77da74f5eff6.md) · [分析卡](../../analysis/wxmp-7b04e0ff77da74f5eff6.md) · 如何始终保持高精力状态？
+- 2026-07-08 · [公众号原文](../../articles/wxmp-5d7db65ab9f2d4b5a2dd.md) · [分析卡](../../analysis/wxmp-5d7db65ab9f2d4b5a2dd.md) · 你没有动力做事的原因是什么？
+- 2026-06-11 · [公众号原文](../../articles/wxmp-30917de36a06d6b0725e.md) · [分析卡](../../analysis/wxmp-30917de36a06d6b0725e.md) · 为什么你这么喜欢偷懒？
+- 2026-06-04 · [公众号原文](../../articles/wxmp-2390dd58cf3b1540698a.md) · [分析卡](../../analysis/wxmp-2390dd58cf3b1540698a.md) · 为什么我们不喜欢被过度服务？
+- 2026-06-03 · [公众号原文](../../articles/wxmp-635a33b68d52cb9283b9.md) · [分析卡](../../analysis/wxmp-635a33b68d52cb9283b9.md) · 保持自我，需要付出多少代价？
+- 2026-04-28 · [公众号原文](../../articles/wxmp-0af72119a6a6ba49a801.md) · [分析卡](../../analysis/wxmp-0af72119a6a6ba49a801.md) · 财务自由并不是一劳永逸的
+- 2026-04-03 · [公众号原文](../../articles/wxmp-4be2be0fd0867b832c15.md) · [分析卡](../../analysis/wxmp-4be2be0fd0867b832c15.md) · 人活着就为了这一件事
+- 2026-03-25 · [公众号原文](../../articles/wxmp-6a7dcc4d1c781bbc5fde.md) · [分析卡](../../analysis/wxmp-6a7dcc4d1c781bbc5fde.md) · 张雪峰不是你躺平的理由
+- 2026-03-05 · [公众号原文](../../articles/wxmp-77c13fbc8afd54644643.md) · [分析卡](../../analysis/wxmp-77c13fbc8afd54644643.md) · 成功其实很简单
+- 2026-02-13 · [公众号原文](../../articles/wxmp-8ef5bc49435de1e3f444.md) · [分析卡](../../analysis/wxmp-8ef5bc49435de1e3f444.md) · 只想躺平怎么办？
+- 2026-02-09 · [公众号原文](../../articles/wxmp-cf789aecf4609971e448.md) · [分析卡](../../analysis/wxmp-cf789aecf4609971e448.md) · 如何让自己幸福起来？
+- 2026-01-06 · [公众号原文](../../articles/wxmp-4f345457f329b0823199.md) · [分析卡](../../analysis/wxmp-4f345457f329b0823199.md) · 吸引力法则真的存在吗？
+- 2026-01-05 · [公众号原文](../../articles/wxmp-470e871cc66ef3dbcc60.md) · [分析卡](../../analysis/wxmp-470e871cc66ef3dbcc60.md) · 高效的秘诀是什么？
+- 2025-11-10 · [公众号原文](../../articles/wxmp-6589214425d58633dd39.md) · [分析卡](../../analysis/wxmp-6589214425d58633dd39.md) · 大多数人无法成功的原因
+- 2025-10-20 · [公众号原文](../../articles/wxmp-fa73e67c0fa33c1a3a72.md) · [分析卡](../../analysis/wxmp-fa73e67c0fa33c1a3a72.md) · 买入纳指100万，是否就财务自由了？
+- 2025-09-17 · [公众号原文](../../articles/wxmp-42f012bc536cd86f644c.md) · [分析卡](../../analysis/wxmp-42f012bc536cd86f644c.md) · 下嫁真的存在吗？
+- 2025-08-20 · [公众号原文](../../articles/wxmp-d8dedfc2708c15b813ae.md) · [分析卡](../../analysis/wxmp-d8dedfc2708c15b813ae.md) · 为什么必须尊重他人命运？
+- 2025-07-25 · [公众号原文](../../articles/wxmp-3d66d560f28c5fa09be2.md) · [分析卡](../../analysis/wxmp-3d66d560f28c5fa09be2.md) · 你为什么总受到别人的牵制？
+- 2025-07-07 · [公众号原文](../../articles/wxmp-7e82693daf83a42cf85b.md) · [分析卡](../../analysis/wxmp-7e82693daf83a42cf85b.md) · 财务自由以后，还要不要工作？
+- 2025-06-13 · [公众号原文](../../articles/wxmp-5047ac5a9e6e89f4716a.md) · [分析卡](../../analysis/wxmp-5047ac5a9e6e89f4716a.md) · 课题分离，你真的懂吗？
+- 2025-06-05 · [公众号原文](../../articles/wxmp-43343f63fddd34c3e3a2.md) · [分析卡](../../analysis/wxmp-43343f63fddd34c3e3a2.md) · 我如何消除内耗？
+- 2025-05-22 · [公众号原文](../../articles/wxmp-b087f71a39881467c707.md) · [分析卡](../../analysis/wxmp-b087f71a39881467c707.md) · 你为什么没有力气拼了？
+- 2025-05-19 · [公众号原文](../../articles/wxmp-f448208a007927b8151c.md) · [分析卡](../../analysis/wxmp-f448208a007927b8151c.md) · 人生是一个有限的无限游戏
+- 2025-04-25 · [公众号原文](../../articles/wxmp-c1b57c2530448646542e.md) · [分析卡](../../analysis/wxmp-c1b57c2530448646542e.md) · 你需要的不是勇气，而是实力
+- 2025-02-18 · [公众号原文](../../articles/wxmp-a16eedcb99b537eee3e4.md) · [分析卡](../../analysis/wxmp-a16eedcb99b537eee3e4.md) · 为什么网红都要炫富？
+- 2025-02-17 · [公众号原文](../../articles/wxmp-ccd541524020d90f06e4.md) · [分析卡](../../analysis/wxmp-ccd541524020d90f06e4.md) · 为什么现代人的道德感越来越弱？
+- 2025-02-11 · [公众号原文](../../articles/wxmp-0f6fba047cf92b9a6c9a.md) · [分析卡](../../analysis/wxmp-0f6fba047cf92b9a6c9a.md) · 财务自由后你想干什么？
+- 2025-02-08 · [公众号原文](../../articles/wxmp-dd3dc90a754adf3bc102.md) · [分析卡](../../analysis/wxmp-dd3dc90a754adf3bc102.md) · 怎么提升自己的能量？
+- 2025-02-05 · [公众号原文](../../articles/wxmp-379ff9c0cdaca892634e.md) · [分析卡](../../analysis/wxmp-379ff9c0cdaca892634e.md) · 谁还在相信人性？
+- 2025-01-15 · [公众号原文](../../articles/wxmp-732e386308e9c1e4e845.md) · [分析卡](../../analysis/wxmp-732e386308e9c1e4e845.md) · 每个人都有两次生命
+- 2024-12-26 · [公众号原文](../../articles/wxmp-e7df296d1ea21f28c479.md) · [分析卡](../../analysis/wxmp-e7df296d1ea21f28c479.md) · 为什么你的能量总是不够？
+- 2024-10-10 · [公众号原文](../../articles/wxmp-8913c72e46d2b0519f81.md) · [分析卡](../../analysis/wxmp-8913c72e46d2b0519f81.md) · 炒股需要的是思考，而不是情绪
+- 2024-09-05 · [公众号原文](../../articles/wxmp-ef120559b9fff2b67a32.md) · [分析卡](../../analysis/wxmp-ef120559b9fff2b67a32.md) · 每个人都应该“自私”一点
+- 2024-08-20 · [公众号原文](../../articles/wxmp-f35a99bf5fef94f23d09.md) · [分析卡](../../analysis/wxmp-f35a99bf5fef94f23d09.md) · 放下屠刀，凭什么就能立地成佛？
+- 2024-07-25 · [公众号原文](../../articles/wxmp-4c3a921e476b2d18e919.md) · [分析卡](../../analysis/wxmp-4c3a921e476b2d18e919.md) · 什么是对，什么是错？
+- 2024-06-27 · [公众号原文](../../articles/wxmp-8f43182183a65652e4df.md) · [分析卡](../../analysis/wxmp-8f43182183a65652e4df.md) · 惩罚坏人，与你无关
+- 2024-06-25 · [公众号原文](../../articles/wxmp-f72ff2d9b9372d97c63e.md) · [分析卡](../../analysis/wxmp-f72ff2d9b9372d97c63e.md) · 牛逼的人，都在主动选择人生
+- 2024-06-19 · [公众号原文](../../articles/wxmp-c938c77b2ac01589621a.md) · [分析卡](../../analysis/wxmp-c938c77b2ac01589621a.md) · 如何提升你的能量？
+- 2024-06-17 · [公众号原文](../../articles/wxmp-f1166167ee1bbe4454b7.md) · [分析卡](../../analysis/wxmp-f1166167ee1bbe4454b7.md) · 如何才能不内耗？
+- 2024-03-08 · [公众号原文](../../articles/wxmp-2914c3d8753511a2fcc0.md) · [分析卡](../../analysis/wxmp-2914c3d8753511a2fcc0.md) · 你为什么这么焦虑？
+- 2024-03-01 · [公众号原文](../../articles/wxmp-7ab61ec01ee9cf24a821.md) · [分析卡](../../analysis/wxmp-7ab61ec01ee9cf24a821.md) · 改变命运的第一步是什么？
+- 2024-02-13 · [公众号原文](../../articles/wxmp-dad03716d8e26b51c536.md) · [分析卡](../../analysis/wxmp-dad03716d8e26b51c536.md) · 贾玲能减100斤，为什么你不行？
+- 2024-01-26 · [公众号原文](../../articles/wxmp-99f39f8c4dbbd81944c4.md) · [分析卡](../../analysis/wxmp-99f39f8c4dbbd81944c4.md) · 如何做到不内耗？
+- 2024-01-15 · [简书目录卡](../../jianshu_archive/jianshu-7fbd1e26771e.md) · 宝总和陶陶的人生
+- 2024-01-10 · [公众号原文](../../articles/wxmp-a6c159b31b6122c5104b.md) · [分析卡](../../analysis/wxmp-a6c159b31b6122c5104b.md) · 我很讨厌财务自由的感觉
+- 2023-12-22 · [简书目录卡](../../jianshu_archive/jianshu-b4b53a831f07.md) · 人生的赢家和输家
+- 2023-11-30 · [公众号原文](../../articles/wxmp-0d1cfe45c8933dbcce7a.md) · [分析卡](../../analysis/wxmp-0d1cfe45c8933dbcce7a.md) · 财务自由的关键是什么？
+- 2023-11-13 · [公众号原文](../../articles/wxmp-25fa17435038e6c1cfe7.md) · [分析卡](../../analysis/wxmp-25fa17435038e6c1cfe7.md) · 能被道德绑架的，都不是真正的强者
+- 2023-10-16 · [公众号原文](../../articles/wxmp-766d97f8f9e5f0c85573.md) · [分析卡](../../analysis/wxmp-766d97f8f9e5f0c85573.md) · 人的命运真的是注定的吗？
+- 2023-10-08 · [公众号原文](../../articles/wxmp-71356a285b0c714323a7.md) · [分析卡](../../analysis/wxmp-71356a285b0c714323a7.md) · 躺平要支付的利息
+- 2023-09-27 · [公众号原文](../../articles/wxmp-a7c26a422496ff4dcf81.md) · [分析卡](../../analysis/wxmp-a7c26a422496ff4dcf81.md) · 为什么必须延迟满足？
+- 2023-08-04 · [公众号原文](../../articles/wxmp-3ed01a99a8695402dd1a.md) · [分析卡](../../analysis/wxmp-3ed01a99a8695402dd1a.md) · 你的人生在加速吗？
+- 2023-05-08 · [简书目录卡](../../jianshu_archive/jianshu-26148bacbcce.md) · 挖呀挖呀挖，挖出了多少人性
+- 2023-04-06 · [简书目录卡](../../jianshu_archive/jianshu-bb42c32b91fc.md) · 财务自由必须拥有的4种收入
+- 2023-03-15 · [简书目录卡](../../jianshu_archive/jianshu-e88820756ac5.md) · 只有大爱没有小爱的，要么自私要么被洗脑了
+- 2023-02-06 · [简书目录卡](../../jianshu_archive/jianshu-90f6e314485c.md) · 通透的人，都经历过无数次的精神自尽
+- 2023-01-31 · [简书目录卡](../../jianshu_archive/jianshu-ee9f71b082fb.md) · 人生总是选错，问题在哪儿？
+- 2023-01-04 · [简书目录卡](../../jianshu_archive/jianshu-4b54661584d0.md) · 被道德绑架，都是自找的
+- 2022-11-18 · [简书目录卡](../../jianshu_archive/jianshu-66f97b82de18.md) · 别把人心想得太好
+- 2022-11-10 · [简书目录卡](../../jianshu_archive/jianshu-ad436d317f3e.md) · 给你豪车豪宅，你就幸福了吗？
+- 2022-11-02 · [简书目录卡](../../jianshu_archive/jianshu-6a1e6057ba1f.md) · 财务自由都不是因为想财务自由
+- 2022-10-18 · [简书目录卡](../../jianshu_archive/jianshu-4972b824c47b.md) · 你为什么会焦虑？
+- 2022-09-06 · [简书目录卡](../../jianshu_archive/jianshu-03895a5fdf99.md) · 柳智宇的选择是对还是错？
+- 2022-04-12 · [简书目录卡](../../jianshu_archive/jianshu-857294f9a570.md) · 互联网打破了鸡头的幸福
+- 2021-11-02 · [简书目录卡](../../jianshu_archive/jianshu-4213495422e1.md) · 欲望、胆量、本事、经验、拼命、运气
+- 2021-09-22 · [简书目录卡](../../jianshu_archive/jianshu-39aa5bf6e7f2.md) · 人的价值和人生的价值，该如何计算？
+- 2021-07-16 · [简书目录卡](../../jianshu_archive/jianshu-9673914ca233.md) · 郭振的选择是对是错？
+- 2021-06-16 · [简书目录卡](../../jianshu_archive/jianshu-67555ec63343.md) · 实现财务自由的3个口袋
+- 2021-06-16 · [简书目录卡](../../jianshu_archive/jianshu-45122dcb9374.md) · 王思聪们的毕生任务，就是拿钱买快乐
+- 2021-06-07 · [简书目录卡](../../jianshu_archive/jianshu-111b7d22f948.md) · 持久的关系基于能量互换
+- 2021-06-03 · [简书目录卡](../../jianshu_archive/jianshu-13304370ac3c.md) · 假装躺平，是一种掩耳盗铃
+- 2021-02-01 · [简书目录卡](../../jianshu_archive/jianshu-59ee18bf3246.md) · 反人性
+- 2020-12-09 · [简书目录卡](../../jianshu_archive/jianshu-99b24dd928e4.md) · 如何破解世间的“两难”选择？
+- 2020-06-10 · [简书目录卡](../../jianshu_archive/jianshu-9c13e8658df2.md) · 蔡垒磊：杨丽萍的自由与散播恶意的自由
+- 2020-03-30 · [简书目录卡](../../jianshu_archive/jianshu-c403be53e11d.md) · 蔡垒磊：我为什么选择了视频号？
+- 2020-02-25 · [简书目录卡](../../jianshu_archive/jianshu-8849fbe7110f.md) · 蔡垒磊：论丁克的可行性
+- 2020-01-22 · [简书目录卡](../../jianshu_archive/jianshu-717b711dd93e.md) · 蔡垒磊：卖口罩卖出了国难财，道德绑架绑出了优越感
+- 2019-07-15 · [简书目录卡](../../jianshu_archive/jianshu-bd0c2e698db9.md) · 蔡垒磊：远离你周围的精神病人
+- 2018-04-10 · [简书目录卡](../../jianshu_archive/jianshu-e3cb73923631.md) · 蔡垒磊：越是身边的人，越要打起十二分精神
+- 2018-03-19 · [简书目录卡](../../jianshu_archive/jianshu-d7cbfa5e0146.md) · 蔡垒磊：区块链之明确心态生存指南——韭菜的自我修养
+- 2018-03-05 · [简书目录卡](../../jianshu_archive/jianshu-edfe27d52aab.md) · 蔡垒磊：婚闹，灰色地带的人性释放
+- 2018-01-23 · [简书目录卡](../../jianshu_archive/jianshu-6e05aaa6e385.md) · 旅行青蛙有多风靡，我们就有多孤独
+- 2018-01-12 · [简书目录卡](../../jianshu_archive/jianshu-ce19f60bc7dd.md) · 高不成，低不就，是一种心理病。
+- 2017-10-12 · [简书目录卡](../../jianshu_archive/jianshu-cf54b3b7bff3.md) · 你幸福吗？
+- 2017-09-29 · [简书目录卡](../../jianshu_archive/jianshu-59a1f2f5c135.md) · 你知道“精神空间”吗？——看见未来
+- 2017-09-08 · [简书目录卡](../../jianshu_archive/jianshu-c7d8a695dda7.md) · 活着，只为了自己
+- 2017-08-31 · [简书目录卡](../../jianshu_archive/jianshu-3e2a3feca20e.md) · 有些人，哪里都是阳光；有些人，哪里都是迷茫
+- 2017-08-30 · [简书目录卡](../../jianshu_archive/jianshu-e4e651de9a27.md) · 道德败坏，从提高道德标准开始
+- 2016-11-16 · [简书目录卡](../../jianshu_archive/jianshu-8d7c0903c77a.md) · 你不懂“幸福”，所以不幸福
+- 2016-09-19 · [简书目录卡](../../jianshu_archive/jianshu-cd9338b87f3b.md) · 道理我都懂，我就是懒？道理你不懂！
+- 2016-04-28 · [简书目录卡](../../jianshu_archive/jianshu-d66bec82640e.md) · 蔡垒磊：穷，是一种扎根在身体里的记忆

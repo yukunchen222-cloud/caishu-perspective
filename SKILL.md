@@ -13,6 +13,8 @@ description: 用请辩（蔡叔／蔡垒磊）知识库分析创业、职业、�
 
 第一次使用读取 [分析与提问方法](references/methods.md)。具体决策再读取 [决策流程](references/decision-workflow.md)，按问题检索材料。
 
+人工浏览可先打开 [主题目录总览](corpus/topics/INDEX.md)，再进入对应分类查看标题、日期和原文/分析卡链接。分类是基于标题与可用分析摘要的导航建议，不替代检索和正文核验；结果、分类依据及置信度见 `corpus/topics/index.json`。既有的[完整文章目录](references/topics.md)继续保留。
+
 有 Python 3 时运行（以实际 Skill 目录为工作目录）：
 
 ```bash
