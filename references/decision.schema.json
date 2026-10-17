@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "evidence_status": {"type": "string", "enum": ["source-backed", "insufficient"]},
+    "author_view": {"type": "string"},
+    "recommendation": {"type": "string"},
+    "strongest_alternative": {"type": "string"},
+    "change_if": {"type": "string"},
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "source_id": {"type": "string"},
+          "start_line": {"type": "integer"},
+          "end_line": {"type": "integer"}
+        },
+        "required": ["source_id", "start_line", "end_line"]
+      }
+    },
+    "action": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "owner": {"type": "string"},
+        "deadline": {"type": "string"},
+        "limit": {"type": "string"},
+        "artifact": {"type": "string"},
+        "continue_if": {"type": "string"},
+        "stop_if": {"type": "string"}
+      },
+      "required": ["owner", "deadline", "limit", "artifact", "continue_if", "stop_if"]
+    }
+  },
+  "required": ["evidence_status", "author_view", "recommendation", "strongest_alternative", "change_if", "sources", "action"]
+}

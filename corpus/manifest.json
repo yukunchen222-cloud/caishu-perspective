@@ -12,7 +12,7 @@
     "files": [
       {
         "path": "corpus/decision_cases.json",
-        "sha256": "bd69d7369ccd2c532d08a8821244a9e03ea8e7454fb9f502a692268d94b29dcf"
+        "sha256": "83b876749cc5df0354b139265de2d67667dac9e04121f35f902c1db877520e06"
       },
       {
         "path": "corpus/decision_principles.json",

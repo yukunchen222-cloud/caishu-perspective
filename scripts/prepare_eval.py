@@ -33,7 +33,11 @@ STATIC_FILES = (
     "references/decision-workflow.md",
     "scripts/search.py",
 )
-OPTIONAL_STATIC_FILES = ("scripts/evidence.py", "scripts/check_decision.py", "references/delivery-check.md")
+OPTIONAL_STATIC_FILES = (
+    "scripts/evidence.py", "scripts/check_decision.py", "scripts/decision_gateway.py",
+    "scripts/run_decision.py", "references/delivery-check.md", "references/decision.schema.json",
+    "references/runtime-integration.md",
+)
 SOURCE_ID_RE = re.compile(
     r"(?:wxmp-[0-9a-f]{16,40}|crosspost-[0-9a-f]{12}|jianshu-[a-z0-9]{12})"
 )

@@ -48,11 +48,17 @@ python scripts/search.py "关键词" --sources listings --limit 5
 
 ## 决策优化层
 
-`scripts/evidence.py` 在同一次查询中分开返回原文候选、12个真实来信案例、8条跨来源条件化原则及辅助摘要。案例和原则均从2025年及以前的已署名原文整理，保留来源行号、哈希、作者建议与应用边界；不新增来源文章计数，也不声称已有长期效果。检索分数只表示词汇相关性。精确引用和重要取舍仍须阅读原文。
+`scripts/evidence.py` 在同一次查询中分开返回原文候选、12条有正文定位的读者来信案例、8条跨来源条件化原则及辅助摘要。来信事实未经独立核实、结果未观察。案例和原则均从2025年及以前的已署名原文整理，保留来源行号、哈希、作者建议与应用边界；`editor_notes`单独标记整理者校正，不并入作者建议。不新增来源文章计数，也不声称已有长期效果。检索分数只表示词汇相关性。精确引用和重要取舍仍须阅读原文。
 
 回答分开处理“原文支持的作者方向”与“适合用户目标和约束的建议”，保留作者激进/保守的不同分支，主动检查反向证据；用户事实、偏好、决定和结果单独保存，不回灌成作者原则。没有新建 Agent 应用、微调模型或改写原始语料。
 
-复杂决策先按 [交付结构](references/delivery-check.md) 把JSON草稿送入 `scripts/check_decision.py` 的stdin，校验来源与行动字段，再交付自然语言答案；也支持 `--input` 读取已保存草稿。检查通过不代表推理正确或效果有效，无Python时只做标明的手工核对。
+复杂决策按 [交付结构](references/delivery-check.md) 把JSON草稿送入 `scripts/decision_gateway.py` 的stdin；校验成功才返回固定渲染的正文，失败不输出草稿，不再自由改写而漏掉来源或行动。`check_decision.py --input`仍可用于机器诊断，但它本身不是展示入口。
+
+需要真正截留模型输出时，从本Skill目录运行 `python -X utf8 scripts/run_decision.py`，通过stdin提供问题；它调用已登录的本机Codex，以read-only/never/ephemeral方式生成结构化草稿，校验后才输出正文，不改模型配置、不复制凭据。完整参数与宿主接入方式见 [运行时接入](references/runtime-integration.md)。**强制拦截仅适用于经过该入口的调用**；普通GPT或直接聊天调用Skill没有自动变成同等宿主。结构通过仍不证明推理、反方质量或效果有效。
+
+## ZIP分发版本
+
+本轮版本为1.1.0。应使用`caishu-perspective-1.1.0.zip`或公开仓库最新完整目录；历史`caishu-perspective-1.0.0.zip`不含本轮新增案例与网关，不能冒称最新版。打包工具`python scripts/package_release.py --output <源仓库外的新ZIP路径>`只打包已提交且干净的Git快照，拒绝覆盖，逐文件检查ZIP正文对应的Git blob并返回提交、SHA-256与文件数。新ZIP不含本机Codex或登录态，接收者仍需自己的运行环境和登录。
 
 评测见 [evals/README.md](evals/README.md)：32个任务来自8个独立留出案例及8个边界题，不能写成32个独立作者案例。运行题单不等于模型通过；技术检查与实际盲测结果分别记录在 [VERIFY.md](VERIFY.md)。
 
